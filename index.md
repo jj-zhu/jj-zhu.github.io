@@ -14,3 +14,7 @@ I received doctoral training in numerical analysis & optimization during my PhD 
 + Machine learning & reinforcement learning
 
 ![learning and control](/images/atom.png)
+
+### If you are a student looking for research opportunities...
+
+Please write a short email without too much copy-paste about the courses and projects you have done in ML/optimization/control. Please also include your CV or resume :)
