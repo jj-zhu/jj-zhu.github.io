@@ -12,10 +12,10 @@ One of my recent focuses is on robust control and robust optimization using tool
 
 #### Robustness and uncertainty in learning and control
 
-**A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Bernhard Scholkopf, and Moritz Diehl. 2019.
+**A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Bernhard Scholkopf, and Moritz Diehl. 2020.
 [paper](https://arxiv.org/pdf/2001.10398.pdf)
 
-**A New Distribution-Free Concept for Representing, Comparing, and Propagating Uncertainty in Dynamical Systems with Kernel Probabilistic Programming.** Zhu, Jia-Jie, Krikamol Muandet, Moritz Diehl, and Bernhard Schölkopf, 2019.
+**A New Distribution-Free Concept for Representing, Comparing, and Propagating Uncertainty in Dynamical Systems with Kernel Probabilistic Programming.** Zhu, Jia-Jie, Krikamol Muandet, Moritz Diehl, and Bernhard Schölkopf. To appear in IFAC 2020 
 [paper](https://arxiv.org/pdf/1911.11082.pdf)
 
 **Robust Humanoid Locomotion Using Trajectory Optimization and Sample-Efficient Learning.** Yeganegi, Mohammad Hasan, Majid Khadiv, S Ali A Moosavian, Jia-Jie Zhu, Andrea Del Prete, and Ludovic Righetti. IEEE Humanoids, 2019.
@@ -28,7 +28,7 @@ One of my recent focuses is on robust control and robust optimization using tool
 
 #### Learning for control in hybrid systems
 
-**Fast Non-Parametric Learning to Accelerate Mixed-Integer Programming for Online Hybrid Model Predictive Control**. Zhu, Jia-Jie, and Martius, Georg. 2019. 
+**Fast Non-Parametric Learning to Accelerate Mixed-Integer Programming for Online Hybrid Model Predictive Control**. Zhu, Jia-Jie, and Martius, Georg. To appear in IFAC 2020 
 [paper](https://arxiv.org/pdf/1911.09214.pdf)
 
 **Control What You Can: Intrinsically Motivated Task-Planning Agent.** Blaes, Sebastian, Marin Vlastelica Pogančić, JJ Zhu, and Georg Martius. NeurIPS, 2019. 
