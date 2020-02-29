@@ -9,9 +9,9 @@ Hi, this is J.J. Zhu. I am a postdoctoral researcher at the [Max Planck Institut
 I received doctoral training in numerical analysis & optimization during my PhD study with *Prof. William Hager* at the University of Florida. Currently, I am undergoing postdoctoral training in machine learning (mentored by *Prof. Bernhard Schölkopf*) as well as in optimization and control (jointly mentored by *Prof. Moritz Diehl*). 
 
 ### Research interests
-+ Numerical analysis & optimization
 + Robust optimization & control
-+ Machine learning & reinforcement learning
++ Robust machine learning & reinforcement learning
++ Numerical analysis & optimization
 
 ![learning and control](/images/atom.png)
 
