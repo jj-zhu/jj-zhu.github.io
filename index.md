@@ -10,7 +10,7 @@ I received doctoral training in numerical analysis & optimization during my PhD 
 
 ### Research interests
 + Robust optimization & control
-+ Robust machine learning & reinforcement learning
++ Robustness in machine learning
 + Numerical analysis & optimization
 
 ![learning and control](/images/atom.png)
