@@ -12,7 +12,9 @@ One of my recent focuses is on robust control and robust optimization using tool
 
 #### Robustness and uncertainty in learning and control
 
-**A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Moritz Diehl and Bernhard Scholkopf, 2020. To appear in PMLR
+**Uncertainty Quantification under Distributional Ambiguity using Kernel Mean Embedding Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Working paper
+
+**A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Moritz Diehl and Bernhard Schölkopf, 2020. To appear in PMLR
 [paper](https://arxiv.org/pdf/2001.10398.pdf)
 
 **A New Distribution-Free Concept for Representing, Comparing, and Propagating Uncertainty in Dynamical Systems with Kernel Probabilistic Programming.** Zhu, Jia-Jie, Krikamol Muandet, Moritz Diehl, and Bernhard Schölkopf. To appear in IFAC 2020 
