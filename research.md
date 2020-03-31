@@ -10,9 +10,9 @@ One of my recent focuses is on robust control and robust optimization using tool
 
 ### Technical reports (grouped by topics)
 
-#### Robustness and uncertainty in learning and control
+#### Robustness and uncertainty in learning, optimization, and control
 
-**Uncertainty Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020.  [paper](paper_moment.pdf) 
+**Uncertainty Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Under review. [paper](paper_moment.pdf) 
 
 **A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Moritz Diehl and Bernhard Schölkopf, 2020. To appear in PMLR
 [paper](https://arxiv.org/pdf/2001.10398.pdf)
@@ -41,7 +41,7 @@ One of my recent focuses is on robust control and robust optimization using tool
 
 
 
-#### Numerical methods \& optimization
+#### Numerical methods & optimization
 
 **Projection Algorithms for Non-Convex Minimization with Application to Sparse Principal Component Analysis.** J.J. Zhu, D. Phan, W. Hager, 2015. Journal of Global Optimization.
 [paper](https://arxiv.org/pdf/1404.4132.pdf)
