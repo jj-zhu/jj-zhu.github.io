@@ -9,12 +9,14 @@ I received doctoral training in numerical analysis & optimization during my PhD 
 Lately, I have been working on developing the framework of using kernel methods as tools for optimization and control (example [here](https://arxiv.org/pdf/2004.00166.pdf); not to be confused with optimization for kernel methods). 
 
 ### Research interests
-+ Robust optimization & control and systems
++ Robust and data-driven optimization
++ Robust control and systems
 + Robustness of machine learning algorithms
-+ Numerical optimization & analysis
++ Numerical optimization and analysis
 
 ![learning and control](/images/atom.png)
 
 ### If you are a student looking for research opportunities...
 
 Please write a short email without too much copy-paste about the courses and projects you have done in ML/optimization/control. Please also include your CV or resume :)
+
