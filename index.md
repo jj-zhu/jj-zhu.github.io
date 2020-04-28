@@ -17,8 +17,11 @@ I studied mathematics for undergraduate at [Fudan University](https://en.wikiped
 I have two seemingly conflicting overarching goals:
 
 1. Making real-life robust multi-stage decisions using optimization, control, and data
-   -- second-class scholars publish papers and get cited by peers, first-class scholars make it work and get tested by reality 
+
+   -- second-class scholars (my current self included) publish papers and get cited by peers, first-class scholars get tested by reality 
+
 2. Advancing mathematical theory that has absolutely no practical usage (at the moment)
+
    -- insight must proceed applications
 
 ![learning and control](/images/atom.png)
