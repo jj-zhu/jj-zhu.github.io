@@ -9,8 +9,10 @@ This page is dedicated to hosting all my unprofessional content, such as poetry 
 看不清你朦胧的脸颊，我望着远方  
 听着听着，你的细语  
 
-
 ### 华山战记
+
+![lanternwarrior](images/lanternwarrior.jpg)
+
 二零一零年三月十五日
 
 勇者齐格飞回到了帐篷  
