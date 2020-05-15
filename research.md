@@ -6,7 +6,7 @@ published: true
 ---
 
 My main interests have been in the intersection of three technical fields: optimization, dynamical systems and control, and machine learning.
-One of my recent focuses is on robust control and robust optimization using tools such as probability/measure theory, learning/kernel methods. I believe robust optimization, with modern convex analysis and nonlinear programming, could play an interesting role in many cutting-edge applications in robust machine learning/reinforcement learning as well as in stochastic control.
+One of my recent focuses is on robust control and robust optimization using tools such as probability theory, functional analysis, learning/kernel methods. I believe robust optimization, with modern convex analysis and nonlinear programming, could play an interesting role in many cutting-edge applications in robust machine learning/reinforcement learning as well as in stochastic control.
 
 ### Technical reports (grouped by topics)
 

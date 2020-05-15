@@ -4,10 +4,6 @@ published: true
 ---
 Hi, this is J.J. Zhu. I am a postdoctoral researcher at the [Max Planck Institute for Intelligent Systems](http://is.tue.mpg.de/), at the [Empirical Inference](https://ei.is.tuebingen.mpg.de/) Department.
 
-### Short bio
-
-I studied mathematics for undergraduate at [Fudan University](https://en.wikipedia.org/wiki/Fudan_University). Following that, I received doctoral training in numerical analysis & optimization during my PhD study with *Prof. William Hager* at the University of Florida. I am undergoing postdoctoral training in machine learning (with *Prof. Bernhard Schölkopf*) as well as in control (with *Prof. Moritz Diehl*). 
-
 ### Research interests
 + Robust and data-driven optimization
 + Stochastic systems and model predictive control
