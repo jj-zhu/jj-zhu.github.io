@@ -5,9 +5,9 @@ published: true
 Hi, this is J.J. Zhu. I am a postdoctoral researcher at the [Max Planck Institute for Intelligent Systems](http://is.tue.mpg.de/), at the [Empirical Inference](https://ei.is.tuebingen.mpg.de/) Department.
 
 ### Research interests
-+ Robust and data-driven optimization
++ Data-driven and robust optimization
 + Stochastic systems and model predictive control
-+ Robustness of machine learning algorithms
++ Robustness in machine learning and reinforcement learning
 + Numerical optimization and analysis
 
 I have two seemingly conflicting overarching goals:
