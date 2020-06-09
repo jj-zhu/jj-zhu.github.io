@@ -16,8 +16,8 @@ One of my recent focuses is on robust control and robust optimization using tool
 
 **Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Under review. [paper](https://arxiv.org/pdf/2004.00166.pdf) 
 
-**A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Moritz Diehl and Bernhard Schölkopf, 2020. To appear in PMLR
-[paper](https://arxiv.org/pdf/2001.10398.pdf)
+**A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Moritz Diehl and Bernhard Schölkopf, L4DC 2020. In PMLR
+[paper](https://arxiv.org/pdf/2001.10398.pdf) [slides](https://jj-zhu.github.io/file/l4dc.pdf)
 
 **A New Distribution-Free Concept for Representing, Comparing, and Propagating Uncertainty in Dynamical Systems with Kernel Probabilistic Programming.** Zhu, Jia-Jie, Krikamol Muandet, Moritz Diehl, and Bernhard Schölkopf. To appear in IFAC 2020 
 [paper](https://arxiv.org/pdf/1911.11082.pdf)
