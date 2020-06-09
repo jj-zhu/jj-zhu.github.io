@@ -8,7 +8,7 @@ Hi, this is J.J. Zhu. I am a postdoctoral researcher at the [Max Planck Institut
 
 In general, I am interested in decision-making and dynamical systems. More specifically, I am interested in the following technical topics.
 
-+ Data-driven and robust optimization
++ Robust and stochastic optimization
 + Stochastic systems and model predictive control
 + Robustness in machine learning and reinforcement learning
 + Numerical optimization and analysis
