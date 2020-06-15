@@ -12,7 +12,7 @@ One of my recent focuses is on robust control and robust optimization using tool
 
 #### Robustness and uncertainty in learning, optimization, and control
 
-**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Preprint. [paper](https://jj-zhu.github.io/file/kdro.pdf) [code]()
+**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Preprint. [paper](https://arxiv.org/pdf/2006.06981.pdf) [code]()
 
 **Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Preprint. [paper](https://arxiv.org/pdf/2004.00166.pdf) 
 
