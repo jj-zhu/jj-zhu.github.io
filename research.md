@@ -39,14 +39,14 @@ One of my recent focuses is on robust control and robust optimization using tool
 [paper](https://arxiv.org/pdf/1906.08190.pdf)
 
 **Deep Reinforcement Learning for Resource-Aware Control.** D. Baumann, J.J. Zhu,  G. Martius, S. Trimpe, 2018. IEEE CDC 2018.
-[paper](https://arxiv.org/pdf/1809.05152.pdf)
+[paper](https://arxiv.org/pdf/1809.05152.pdf) [code](https://github.com/jj-zhu/resource_aware_control_rl)
 
 
 
 #### Numerical methods & optimization
 
 **Projection Algorithms for Non-Convex Minimization with Application to Sparse Principal Component Analysis.** J.J. Zhu, D. Phan, W. Hager, 2015. Journal of Global Optimization.
-[paper](https://arxiv.org/pdf/1404.4132.pdf)
+[paper](https://arxiv.org/pdf/1404.4132.pdf) [code](https://github.com/jj-zhu/nonconvexgpbb)
 
 **A Metric for Sets of Trajectories that is Practical and Mathematically Consistent.** J. Bento, J.J. Zhu, 2016. 
 [paper](https://arxiv.org/pdf/1601.03094.pdf)
