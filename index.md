@@ -10,18 +10,8 @@ In general, I am interested in **data-driven decision-making and dynamical syste
 
 + Robust and stochastic optimization
 + Stochastic systems and model predictive control
-+ Robustness in machine learning and reinforcement learning
++ Reinforcement learning and machine learning
 + Numerical optimization and analysis
-
-I have two seemingly conflicting overarching goals:
-
-1. Making real-life robust multi-stage decisions using optimization, control, and data
-
-   -- second-class scholars (my current self included) publish papers and get cited by peers, first-class scholars get tested by reality and time 
-
-2. Advancing mathematical theory that has absolutely no practical usage (at the moment)
-
-   -- insight must proceed applications
 
 ### If you are a student looking for internship or research opportunities
 
