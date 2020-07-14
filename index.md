@@ -13,12 +13,4 @@ In general, I am interested in **data-driven decision-making and dynamical syste
 + Reinforcement learning and machine learning
 + Numerical optimization and analysis
 
-### If you are a student looking for internship or research opportunities
-
-Please write a short email and include:
-
-- CV/resume
-- 1-page research statement about the relevant projects and course works
-- Scanned transcripts of undergrad and graduate studies
-
 ![learning and control](/images/atom.png)
