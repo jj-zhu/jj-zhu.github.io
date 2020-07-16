@@ -12,13 +12,13 @@ One of my recent focuses is on robust control and robust optimization using tool
 
 **Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Preprint. [paper](https://arxiv.org/pdf/2006.06981.pdf) [code]()
 
+**Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in IEEE CDC 2020. [paper](https://arxiv.org/pdf/2004.00166.pdf) 
+
 **Projection Algorithms for Non-Convex Minimization with Application to Sparse Principal Component Analysis.** J.J. Zhu, D. Phan, W. Hager, 2015. Journal of Global Optimization.
 [paper](https://arxiv.org/pdf/1404.4132.pdf) [code](https://github.com/jj-zhu/nonconvexgpbb)
 
 **A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Moritz Diehl and Bernhard Schölkopf, L4DC 2020. In PMLR
 [paper](https://arxiv.org/pdf/2001.10398.pdf) [slides](https://jj-zhu.github.io/file/l4dc.pdf)
-
-**Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Preprint. [paper](https://arxiv.org/pdf/2004.00166.pdf) 
 
 **A New Distribution-Free Concept for Representing, Comparing, and Propagating Uncertainty in Dynamical Systems with Kernel Probabilistic Programming.** Zhu, Jia-Jie, Krikamol Muandet, Moritz Diehl, and Bernhard Schölkopf. To appear in IFAC 2020 
 [paper](https://arxiv.org/pdf/1911.11082.pdf) [slides](https://jj-zhu.github.io/file/ifac_kme.pdf)
