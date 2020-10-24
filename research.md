@@ -5,8 +5,7 @@ permalink: /research/
 published: true
 ---
 
-My main interests have been in the intersection of three technical fields: optimization, dynamical systems and control, and machine learning.
-One of my recent focuses is on data-driven robust optimization using tools such as probability theory, functional analysis, principled learning and kernel methods. I believe mathematical optimization, with modern stochastic and nonlinear programming, could play an interesting role in many cutting-edge applications such as large-scale machine learning, robust machine learning/reinforcement learning as well as in stochastic control.
+My main interests have been in the intersection of three technical fields: optimization, dynamical systems and control, and machine learning, underpinned by principled applied math. One of my recent focuses is on data-driven robust optimization and control using tools such as functional analysis, principled learning, and kernel methods. I believe mathematical optimization, e.g., modern stochastic and nonlinear programming, could play an interesting role in many cutting-edge applications such as large-scale robust machine learning and data-driven robust control.
 
 ### Papers
 
