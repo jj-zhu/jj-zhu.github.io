@@ -11,7 +11,7 @@ My main interests have been in the intersection of three technical fields: optim
 
 **Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Preprint. [paper](https://arxiv.org/pdf/2006.06981.pdf) [code]()
 
-**Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the 59th IEEE Conference on Decision and Control (CDC)), 2020. [paper](https://arxiv.org/pdf/2004.00166.pdf) 
+**Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the 59th IEEE Conference on Decision and Control (CDC)), 2020. [paper](https://arxiv.org/pdf/2004.00166.pdf)[slides](https://jj-zhu.github.io/file/cdc20worst.pdf)
 
 **Projection Algorithms for Non-Convex Minimization with Application to Sparse Principal Component Analysis.** J.J. Zhu, D. Phan, W. Hager, 2015. Journal of Global Optimization, 65(4):657–676, 2016. 
 [paper](https://arxiv.org/pdf/1404.4132.pdf) [code](https://github.com/jj-zhu/nonconvexgpbb)
