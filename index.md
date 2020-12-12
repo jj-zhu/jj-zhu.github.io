@@ -12,6 +12,6 @@ In general, I am an applied mathematician interested in **optimization, probabil
 + Stochastic systems and optimal control
 + Numerical optimization and analysis
 + Functional analysis and applied probability theory
-+ Robustness in machine learning, kernel methods
++ Kernel methods, statistical machine learning, reinforcement learning
 
 ![learning and control](/images/atom.png)
