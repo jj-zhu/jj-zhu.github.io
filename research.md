@@ -9,7 +9,7 @@ My main interests have been in the intersection of three technical fields: optim
 
 ### Papers
 
-**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Preprint. [paper](https://arxiv.org/pdf/2006.06981.pdf) [code]()
+**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS). [paper](https://arxiv.org/pdf/2006.06981.pdf) [code]()
 
 **Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the 59th IEEE Conference on Decision and Control (CDC)), 2020. [paper](https://arxiv.org/pdf/2004.00166.pdf) [slides](https://jj-zhu.github.io/file/cdc20worst.pdf)
 
