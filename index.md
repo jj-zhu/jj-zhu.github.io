@@ -8,10 +8,10 @@ Hi, this is J.J. Zhu. I am a postdoctoral researcher at the [Max Planck Institut
 
 In general, I am an applied mathematician interested in **optimization, probability, data, and dynamical systems**. More specifically, I am interested in the following technical topics.
 
-+ Robust and stochastic optimization
-+ Stochastic systems and optimal control
-+ Numerical optimization and numerical analysis
++ (Distributionally) Robust and stochastic optimization
++ Stochastic systems, control
++ Numerical optimization, Numerical analysis
 + Kernel methods, statistical machine learning, reinforcement learning
-+ Applied math in general (functional analysis, approximation theory, applied probability)
++ Applied math in general (functional analysis, approximation theory)
 
 ![learning and control](/images/atom.png)
