@@ -9,9 +9,11 @@ My main interests have been in the intersection of three technical fields: optim
 
 ### Papers
 
-**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS). [paper](https://arxiv.org/pdf/2006.06981.pdf) [code]()
+**From Majorization to Interpolation: Distributionally Robust Learning using Kernel Smoothing**.  Jia-Jie Zhu,  Yassine Nemmour, Bernhard Schölkopf, 2021. [paper]() [code (coming soon)]()
 
-**Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the 59th IEEE Conference on Decision and Control (CDC)), 2020. [paper](https://arxiv.org/pdf/2004.00166.pdf) [slides](https://jj-zhu.github.io/file/cdc20worst.pdf)
+**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS). [paper](https://arxiv.org/pdf/2006.06981.pdf) [code (coming soon)]()
+
+**Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. In the 59th IEEE Conference on Decision and Control (CDC)), 2020. [paper](https://arxiv.org/pdf/2004.00166.pdf) [slides](https://jj-zhu.github.io/file/cdc20worst.pdf)
 
 **Projection Algorithms for Non-Convex Minimization with Application to Sparse Principal Component Analysis.** J.J. Zhu, D. Phan, W. Hager, 2015. Journal of Global Optimization, 65(4):657–676, 2016. 
 [paper](https://arxiv.org/pdf/1404.4132.pdf) [code](https://github.com/jj-zhu/nonconvexgpbb)
@@ -19,10 +21,10 @@ My main interests have been in the intersection of three technical fields: optim
 **A Kernel Mean Embedding Approach to Reducing Conservativeness in Stochastic Programming and Control**.  Zhu, Jia-Jie, Moritz Diehl and Bernhard Schölkopf. 2nd Annual Conference on Learning for Dynamics and Control (L4DC). In Proceedings of Machine Learning Research vol 120:1–9, 2020.
 [paper](https://arxiv.org/pdf/2001.10398.pdf) [slides](https://jj-zhu.github.io/file/l4dc.pdf)
 
-**A New Distribution-Free Concept for Representing, Comparing, and Propagating Uncertainty in Dynamical Systems with Kernel Probabilistic Programming.** Zhu, Jia-Jie, Krikamol Muandet, Moritz Diehl, and Bernhard Schölkopf. 21st IFAC World Congress. To appear in IFAC-PapersOnLine proceedings, 2020. 
+**A New Distribution-Free Concept for Representing, Comparing, and Propagating Uncertainty in Dynamical Systems with Kernel Probabilistic Programming.** Zhu, Jia-Jie, Krikamol Muandet, Moritz Diehl, and Bernhard Schölkopf. 21st IFAC World Congress. In IFAC-PapersOnLine proceedings, 2020. 
 [paper](https://arxiv.org/pdf/1911.11082.pdf) [slides](https://jj-zhu.github.io/file/ifac_kme.pdf)
 
-**Fast Non-Parametric Learning to Accelerate Mixed-Integer Programming for Online Hybrid Model Predictive Control**. Zhu, Jia-Jie, and Martius, Georg. 21st IFAC World Congress. To appear in IFAC-PapersOnLine proceedings, 2020. 
+**Fast Non-Parametric Learning to Accelerate Mixed-Integer Programming for Online Hybrid Model Predictive Control**. Zhu, Jia-Jie, and Martius, Georg. 21st IFAC World Congress. In IFAC-PapersOnLine proceedings, 2020. 
 [paper](https://arxiv.org/pdf/1911.09214.pdf) [slides](https://jj-zhu.github.io/file/hmpc.pdf)
 
 **Robust Humanoid Locomotion Using Trajectory Optimization and Sample-Efficient Learning.** Yeganegi, Mohammad Hasan, Majid Khadiv, S Ali A Moosavian, Jia-Jie Zhu, Andrea Del Prete, and Ludovic Righetti. IEEE Humanoids, 2019.
