@@ -9,7 +9,7 @@ My main interests have been in the intersection of three technical fields: optim
 
 ### Papers
 
-**From Majorization to Interpolation: Distributionally Robust Learning using Kernel Smoothing**.  Jia-Jie Zhu,  Yassine Nemmour, Bernhard Schölkopf, 2021. [paper]() [code (coming soon)]()
+**From Majorization to Interpolation: Distributionally Robust Learning using Kernel Smoothing**.  Jia-Jie Zhu,  Yassine Nemmour, Bernhard Schölkopf, 2021. [paper](https://arxiv.org/abs/2102.08474) [code (coming soon)]()
 
 **Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS). [paper](https://arxiv.org/pdf/2006.06981.pdf) [code (coming soon)]()
 
