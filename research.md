@@ -11,7 +11,7 @@ My main interests have been in the intersection of three technical fields: optim
 
 **From Majorization to Interpolation: Distributionally Robust Learning using Kernel Smoothing**.  Jia-Jie Zhu,  Yassine Nemmour, Bernhard Schölkopf, 2021. [paper](https://arxiv.org/abs/2102.08474) [code (coming soon)]()
 
-**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. To appear in the Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS). [paper](https://arxiv.org/pdf/2006.06981.pdf) [code (coming soon)]()
+**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Proceedings of the 24thInternational Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego,California, USA. PMLR: Volume 130. [paper](https://arxiv.org/pdf/2006.06981.pdf) [code](https://github.com/jj-zhu/kdro)
 
 **Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. In the 59th IEEE Conference on Decision and Control (CDC)), 2020. [paper](https://arxiv.org/pdf/2004.00166.pdf) [slides](https://jj-zhu.github.io/file/cdc20worst.pdf)
 
