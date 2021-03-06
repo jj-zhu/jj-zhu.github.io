@@ -11,7 +11,7 @@ My main interests have been in the intersection of three technical fields: optim
 
 **From Majorization to Interpolation: Distributionally Robust Learning using Kernel Smoothing**.  Jia-Jie Zhu,  Yassine Nemmour, Bernhard Schölkopf, 2021. [paper](https://arxiv.org/abs/2102.08474) [code (coming soon)]()
 
-**Distributional Robustness Regularized Scenario Optimization with Application to Model Predictive Control: A Functional Approach.** Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu, 2021. To appear in the proceedings of the Conference on Learning for Dynamics and Control (L4DC). [paper (coming soon)]()
+**Distributional Robustness Regularized Scenario Optimization with Application to Model Predictive Control.** Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu, 2021. To appear in the proceedings of the Conference on Learning for Dynamics and Control (L4DC). [paper (coming soon)]()
 
 **Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Proceedings of the 24thInternational Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego,California, USA. PMLR: Volume 130. [paper](https://arxiv.org/pdf/2006.06981.pdf) [code](https://github.com/jj-zhu/kdro)
 
