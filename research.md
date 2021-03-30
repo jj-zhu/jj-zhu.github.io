@@ -8,8 +8,9 @@ published: true
 My main interests have been in the intersection of three technical fields: optimization, dynamical systems and control, and machine learning, underpinned by principled applied math. One of my recent focuses is on data-driven robust optimization and control using tools such as functional/numerical analysis, principled machine learning and kernel methods. I believe mathematical optimization, such as modern stochastic and nonlinear programming, could play an important role in many cutting-edge applications such as large-scale machine learning and data-driven robust control.
 
 ### Papers
-**Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**.
-Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu. working paper.
+**Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu. Working paper
+
+**Distributionally Robust Trajectory Optimization Under Uncertain Dynamics via Relative-Entropy Trust Regions**. Hany Abdulsamad, Tim Dorau, Boris Belousov, Jia-Jie Zhu and Jan Peters. [Preprint](https://arxiv.org/pdf/2103.15388.pdf)
 
 **From Majorization to Interpolation: Distributionally Robust Learning using Kernel Smoothing**.  Jia-Jie Zhu,  Yassine Nemmour, Bernhard Schölkopf, 2021. [paper](https://arxiv.org/abs/2102.08474) [code (coming soon)]()
 
