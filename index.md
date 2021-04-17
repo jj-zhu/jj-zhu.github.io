@@ -2,11 +2,13 @@
 layout: page
 published: true
 ---
-Hi, this is J.J. Zhu. I am a postdoctoral researcher at the [Max Planck Institute for Intelligent Systems](http://is.tue.mpg.de/), at the [Empirical Inference](https://ei.is.tuebingen.mpg.de/) Department.
+Hi, this is J.J. Zhu. I am a postdoctoral researcher at the [Max Planck Institute for Intelligent Systems, Tübingen](http://is.tue.mpg.de/), at the [Empirical Inference Department](https://ei.is.tuebingen.mpg.de/).
 
-### News and updates
+### Update
 
-- (coming soon)
+- Starting in June, I will be the head of a research group at the [Weierstrass Institute, Berlin](https://www.wias-berlin.de/). 
+  - My group will focus on the *mathematical foundation of machine learning and data-driven control, especially on robustness, generalization, optimization, and dynamical systems*.
+  - Please feel free to [get in touch](mailto:zplusj@gmail.com) if you are a prospective student (more information coming soon).
 
 ### Research interests
 
