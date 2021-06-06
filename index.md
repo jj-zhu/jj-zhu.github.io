@@ -6,7 +6,7 @@ Hi, this is J.J. Zhu. I am a research group head at the [Weierstrass Institute, 
 
 My group focuses on the *mathematical foundations and applications of machine learning and data-driven optimization & control, especially on robustness (distributional robustness/adversarial robustness/generalization/causal intervention/robust optimization), and interfacing dynamical systems and learning*.
 
-Please feel free to [get in touch](mailto:zplusj@gmail.com) if you are a prospective student (more information coming soon).
+**[Position available (more information coming soon)]** feel free to [get in touch](mailto:zplusj@gmail.com).
 
 ### Research interests
 
