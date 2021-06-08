@@ -2,11 +2,11 @@
 layout: page
 published: true
 ---
-Hi, this is J.J. Zhu. I am a research group head at the [Weierstrass Institute, Berlin](https://www.wias-berlin.de/). I am also an affiliated researcher at the [Empirical Inference Department](https://ei.is.tuebingen.mpg.de/), [Max Planck Institute for Intelligent Systems, Tübingen](http://is.tue.mpg.de/).
+I lead the Data-driven Optimization and Control research group at the [Weierstrass Institute, Berlin](https://www.wias-berlin.de/). I am also an affiliated researcher with the [Empirical Inference Department](https://ei.is.tuebingen.mpg.de/), [Max Planck Institute for Intelligent Systems, Tübingen](http://is.tue.mpg.de/).
 
 My group focuses on the *mathematical foundations and applications of machine learning and data-driven optimization & control, especially on robustness (distributional robustness/adversarial robustness/generalization/causal intervention/robust optimization), and interfacing dynamical systems and learning*.
 
-**[Position available (more information coming soon)]** feel free to [get in touch](mailto:zplusj@gmail.com).
+**[Positions available (more information coming soon)]** feel free to [get in touch](mailto:zplusj@gmail.com).
 
 ### Research interests
 
