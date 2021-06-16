@@ -8,6 +8,8 @@ My group focuses on the *mathematical foundations and applications of machine le
 
 **[Positions available (more information coming soon)]** feel free to [get in touch](mailto:zplusj@gmail.com).
 
+### I write [a blog here](https://jj-zhu.github.io/blog/).
+
 ### Research interests
 
 In general, I am an *applied mathematician* interested in **optimization, machine learning (with a focus on distributional robustness), function spaces, dynamical systems, and control**. More specifically, I am interested in the following technical topics.

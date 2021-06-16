@@ -6,8 +6,7 @@ published: true
 ---
 Here, I write about data-driven decision-making, robustness under uncertainty, how to live a good life.
 
-<h1>Recent posts</h1>
-
+<h2>Recent posts:</h2>
 <div class="posts">
     {% for post in site.posts %}
     <article class="post">
