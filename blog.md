@@ -4,6 +4,8 @@ title: The Optimizer's Guide to a Good Life
 permalink: /blog/
 published: true
 ---
+Here, I write about data-driven decision-making, robustness under uncertainty, how to live a good life.
+
 <h1>Recent posts</h1>
 
 <div class="posts">
