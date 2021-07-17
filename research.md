@@ -5,6 +5,11 @@ permalink: /research/
 published: true
 ---
 
+**Positions available**:
+
+- [Ph.D. position in Germany on robust optimization and machine learning](/phd_1/)
+- Coming soon
+
 My main interests have been in three technical fields: optimization, dynamical systems and control, and machine learning underpinned by principled applied math. One of my recent focuses is on data-driven robust optimization and control using tools such as functional/numerical analysis, principled machine learning and kernel methods. I believe mathematical optimization, such as modern stochastic and nonlinear programming, could play an important role in many cutting-edge applications such as large-scale machine learning and data-driven robust control.
 
 ### Papers

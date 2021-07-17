@@ -6,7 +6,10 @@ I am a Weierstrass Group Leader at the Data-driven Optimization and Control rese
 
 My group focuses on the *mathematical foundations and applications of machine learning and data-driven optimization & control, especially on robustness (distributional robustness/adversarial robustness/generalization/causal intervention/robust optimization), and interfacing dynamical systems and learning*.
 
-**[Positions available (more information coming soon)]** feel free to [get in touch](mailto:zplusj@gmail.com).
+**Positions available**:
+
+- [Ph.D. position in Germany on robust optimization and machine learning](/phd_1/)
+- Coming soon
 
 ### I write [a blog here](https://jj-zhu.github.io/blog/).
 
