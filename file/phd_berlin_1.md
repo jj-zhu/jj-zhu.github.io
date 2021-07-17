@@ -11,7 +11,7 @@ The starting date is September 2021 and will be negotiated.
 # What we offer
   - Close mentorship: the Ph.D. candidate will receive responsible and careful mentorship. We emphasize fostering a healthy mentor-student relationship.
   - [The Weierstrass Institute for Applied Analysis and Stochastics (WIAS), Berlin](https://wias-berlin.de/) is a research institution known for its strength in mathematical optimization, optimal control, dynamical systems, and applied mathematics in general. It has hosted flagship conferences in mathematical optimization, such as ICCOPT 2019. We also envision collaborations with our partners at top institutions such as the Max Planck Institute for Intelligent Systems, Tübingen.
-  - The institute is located in downtown Berlin. Berlin is one of the most culture-rich and diverse international cities in the world. It offers endless opportunities to enjoy life outside work while being very affordable compared to other major cities. Neither the job nor living in Berlin requires German language (although we offer free German courses). We highly welcome applications from international students and minorities. Scientifically, Berlin offers a rich landscape with numerous opportunities for research, as well as job prospects in academia and industry.
+  - The institute is located in downtown Berlin. Berlin is one of the most culture-rich and diverse international cities in the world. It offers endless opportunities to enjoy life outside work while being very affordable compared to other major cities. Neither the job nor living in Berlin requires the German language (although we offer free German courses). We highly welcome applications from international students and minorities. Scientifically, Berlin offers a rich landscape with numerous opportunities for research, as well as job prospects in academia and industry.
   - There is no teaching duty envisioned. Ph.D. students in Germany enjoy other work benefits such as annual paid vacation days.
 
 # Qualification
@@ -34,6 +34,7 @@ To apply, please send the following:
 - Master's thesis (or draft if not yet completed)
 
 to the email address [doc.berlin.wias@gmail.com](mailto:doc.berlin.wias@gmail.com), with subject containing [apply-phd-opt].
+The position will be open until filled. However, please submit your application with the above material before July 29, 2021, for the fullest consideration.
 
 Selected candidates will *later* 
 
