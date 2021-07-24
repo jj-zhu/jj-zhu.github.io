@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Full-time Ph.D. position in Berlin, Germany, at the Weierstrass Institute, on robust optimization and robust machine learning
+title: Full-time Ph.D. position in Berlin, Germany, at the Weierstrass Institute, on data-driven optimization and robust machine learning
 permalink: /phd_1/
 published: true
 ---
 
-The Weierstrass Institute (WIAS) in Berlin, Germany, is looking for Ph.D. candidates passionate about researching robustness in machine learning and mathematical optimization, on topics related to distributional robustness, adversarial robustness, generalization, robust optimization, robustness in RL and control, interfacing distributional robustness and causality.
+The Weierstrass Institute (WIAS) in Berlin, Germany, is looking for Ph.D. candidates passionate about researching **robustness in machine learning and data-driven optimization**, on topics closely related to distributional robustness, adversarial robustness, generalization, robust optimization, robustness in RL and control, interfacing distributional robustness and causality.
 The starting date is September 2021 and will be negotiated.
 
 # What we offer
   - Close mentorship: the Ph.D. candidate will receive responsible and careful mentorship. We emphasize fostering a healthy mentor-student relationship.
   - [The Weierstrass Institute for Applied Analysis and Stochastics (WIAS), Berlin](https://wias-berlin.de/) is a research institution known for its strength in mathematical optimization, optimal control, dynamical systems, and applied mathematics in general. It has hosted flagship conferences in mathematical optimization, such as ICCOPT 2019. We also envision collaborations with our partners at top institutions such as the Max Planck Institute for Intelligent Systems, Tübingen.
   - The institute is located in downtown Berlin. Berlin is one of the most culture-rich and diverse international cities in the world. It offers endless opportunities to enjoy life outside work while being very affordable compared to other major cities. Working here does not require the German language (although we offer free German courses). Scientifically, Berlin offers a rich landscape with numerous opportunities for research, as well as job prospects in academia and industry.
-  - There is no teaching duty envisioned. Ph.D. students in Germany enjoy other work benefits such as annual paid vacation days.
+  - There is no teaching duty envisioned.
 
 # Qualification
 
-The ideal candidate background includes mathematical optimization and/or machine learning theory, with a master's degree (or near completion) with related course works. Candidates with strong applied or industrial experiences will also be considered. Those qualifications are demonstrated by high-quality technical reports or publications in credible venues and/or completed industrial projects and codebases.
+The ideal candidate background includes mathematical optimization and/or machine learning theory, with a master's degree (or near completion) with related course works. Candidates with strong applied or industrial experiences will also be considered. Those qualifications are demonstrated by high-quality technical reports or publications at credible venues and/or completed industrial projects and codebases.
 
 Examples of the background include (but are not limited to):
 
@@ -32,6 +32,7 @@ To apply, please send the following:
 - 1-2 page cover letter (including a *very brief* research statement)
 - CV with links to your existing works
 - Master's thesis (or draft if not yet completed)
+- Transcripts for bachelor's and master's,
 
 to the email address [doc.berlin.wias@gmail.com](mailto:doc.berlin.wias@gmail.com), with subject containing [apply-phd-opt].
 The position will be open until filled. However, please submit your application with the above material before July 29, 2021, for the fullest consideration.
@@ -39,7 +40,7 @@ The position will be open until filled. However, please submit your application 
 Selected candidates will *later* 
 
 - provide information of 2-3 references who have agreed to be contacted
-- submit to an official application platform the above documents and certificates, and transcripts for bachelor, master's, and other awards 
+- submit to an official application platform the above documents and official certificates, transcripts, and other awards 
 
 Please direct all inquiries to Dr. Jia-Jie Zhu using the email address [doc.berlin.wias@gmail.com](mailto:doc.berlin.wias@gmail.com), with the subject containing [inquiry-phd-opt].
 
