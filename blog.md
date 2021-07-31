@@ -4,7 +4,7 @@ title: The Optimizer's Guide to a Good Life
 permalink: /blog/
 published: true
 ---
-Here, I write about real-life data-driven decision-making under uncertainty and how to live a good life.
+Here, I write about how to live a good life, mindfulness and meditation, and real-life data-driven decision-making under uncertainty.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
