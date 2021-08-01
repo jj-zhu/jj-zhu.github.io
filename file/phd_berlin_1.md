@@ -35,7 +35,7 @@ To apply, please send the following:
 - Transcripts for bachelor's and master's,
 
 to the email address [doc.berlin.wias@gmail.com](mailto:doc.berlin.wias@gmail.com), with subject containing [apply-phd-opt].
-The position will be open until filled. However, please submit your application with the above material before the end of July 30, 2021, for the fullest consideration.
+The position will be open until filled. However, please submit an application as soon as possible to receive full consideration.
 
 Selected candidates will *later* 
 
