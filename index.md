@@ -17,9 +17,9 @@ My group focuses on the *mathematical foundations and applications of machine le
 
 In general, I am an *applied mathematician* interested in **optimization, machine learning (with a focus on distributional robustness), function spaces, dynamical systems, and control**. More specifically, I am interested in the following technical topics.
 
-+ Machine learning, distributional robustness, kernel methods
-+ Numerical optimization, numerical analysis
++ Machine learning, learning under distribution robust, kernel methods
 + Distributionally robust optimization, stochastic optimization
 + Dynamical systems, control, multi-stage decision-making
++ Numerical optimization, numerical analysis
 
 ![learning and control](/images/atom.png)
