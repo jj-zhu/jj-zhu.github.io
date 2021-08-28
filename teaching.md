@@ -2,7 +2,13 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-published: False
+published: true
 ---
-Over the years, I enjoyed intellectual stimulations brought to me by interacting with students.
-Here is  both undergraduate and graduate classes in the US and Germany, on the topics of calculus and machine learning. (WIP...)
+# Recent
+- Mini-course on Robust Optimization and Learning under Distribution Shift, Leibniz MMS Summer School 2021, Dagstuhl Castle, Saarland, Germany
+  - [slides](https://github.com/jj-zhu/leibniz-ss-2021/blob/30d5fb1e69bf51fc4d59e23aefff5815981e7494/slides-leibniz-mms-ss-dagstuhl-2021.pdf)
+  - [GitHub repository for slides and exercises](https://github.com/jj-zhu/leibniz-ss-2021)
+
+# Older courses
+
+(Construction WIP...)
