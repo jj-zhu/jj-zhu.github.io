@@ -8,11 +8,18 @@ published: true
 **Positions available**:
 
 - [filled] ~~Ph.D. position in Berlin, Germany on robust machine learning and robust optimization~~
-- Coming soon
+- Postdoc position (Berlin) in robust learning-optimization-control under distribution shift
+- Coming soon...
 
-My main interests have been in three technical fields: optimization, dynamical systems and control, and machine learning underpinned by principled applied math. One of my recent focuses is on data-driven robust optimization and control using tools such as functional/numerical analysis, principled machine learning and kernel methods. I believe mathematical optimization, such as modern stochastic and nonlinear programming, could play an important role in many cutting-edge applications such as large-scale machine learning and data-driven robust control.
+My main interests have been in three technical fields: optimization, dynamical systems and control, and machine learning underpinned by principled applied math.
 
-### Papers
+# Students
+- Jamie Barnes (Ph.D. student, WIAS Berlin)
+- [Yassine Nemmour](https://is.tue.mpg.de/person/ynemmour) (Ph.D. student, MPI Tübingen, joint with Bernhard Schölkopf)
+- [Diego Agudelo-España](https://is.tue.mpg.de/person/dagudelo) (Ph.D. student, MPI Tübingen, joint with Bernhard Schölkopf)
+- Coming soon...
+
+# Publications and preprints
 **Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf, 2021. [preprint](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks)
 
 **Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu. [preprint](https://arxiv.org/pdf/2106.13066.pdf)
