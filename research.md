@@ -7,8 +7,8 @@ published: true
 
 **Positions available**:
 
-- [filled] ~~Ph.D. position in Berlin, Germany on robust machine learning and robust optimization~~
-- Postdoc position (Berlin) in robust learning-optimization-control under distribution shift
+- [Filled] ~~Ph.D. position in Berlin, Germany on robust machine learning and robust optimization~~
+- [Postdoc position at Weierstrass Institute, Berlin, intersection of mathematical optimization, machine learning, optimal control](/postdoc_1/)
 - Coming soon...
 
 My main interests have been in three technical fields: optimization, dynamical systems and control, and machine learning underpinned by principled applied math.

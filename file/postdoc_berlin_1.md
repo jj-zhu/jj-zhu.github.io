@@ -6,7 +6,7 @@ published: true
 ---
 
 The Weierstrass Institute (WIAS) in Berlin, Germany, is looking for a postdoc candidate passionate about conducting research in the intersection of mathematical optimization, machine learning, optimal control
-with a focus on robustness under distribution shift. The position is associated with a third-party-funded research project led by *Dr. Jia-Jie Zhu (WIAS Berlin)* and *Dr. Michael Hintermüller (WIAS/ Humboldt-Universität zu Berlin)*. The initial funding period will run for two years, starting January 1st, 2022. The applicants should have completed their Ph.D. degrees by the starting date of the project.
+with a focus on robustness under distribution shift. The position is associated with a third-party-funded research project led by *Dr. [Jia-Jie Zhu](https://jj-zhu.github.io/) (WIAS Berlin)* and *Dr. [Michael Hintermüller](https://www.wias-berlin.de/people/hintermueller/) (WIAS/ Humboldt-Universität zu Berlin)*. The initial funding period will run for two years, starting January 1st, 2022. The applicants should have completed their Ph.D. degrees by the starting date of the project.
 
 
 
@@ -27,7 +27,7 @@ Motivated by numerous partial differential equation (PDE) related practical appl
 
 ### Application and more details
 
-To apply, please send the following during the pre-screening phase:
+To apply, please send the following during the pre-screening:
 
 - 1-2 page cover letter (including a *very brief* research statement)
 - CV with links to your existing works

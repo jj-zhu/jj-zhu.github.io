@@ -8,7 +8,8 @@ My group focuses on the *mathematical foundations and applications of machine le
 
 **Positions available**:
 
-- [filled] ~~Ph.D. position in Berlin, Germany on robust machine learning and robust optimization~~
+- [Filled] ~~Ph.D. position in Berlin, Germany on robust machine learning and robust optimization~~
+- [Postdoc position at Weierstrass Institute, Berlin, intersection of mathematical optimization, machine learning, optimal control](/postdoc_1/)
 - Coming soon
 
 ### I write [a blog here](https://jj-zhu.github.io/blog/).
