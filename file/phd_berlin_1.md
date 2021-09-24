@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Full-time Ph.D. position in Berlin, Germany, at the Weierstrass Institute, on data-driven optimization and robust machine learning
+title: [Filled] Full-time Ph.D. position in Berlin, Germany, at the Weierstrass Institute, on data-driven optimization and robust machine learning
 permalink: /phd_1/
-published: true
+published: false
 ---
+
+# Update: position filled
 
 The Weierstrass Institute (WIAS) in Berlin, Germany, is looking for Ph.D. candidates passionate about researching **robustness in machine learning and data-driven optimization**, on topics closely related to distributional robustness, adversarial robustness, generalization, robust optimization, robustness in RL and control, interfacing distributional robustness and causality.
 The starting date is September 2021 and will be negotiated.
