@@ -35,7 +35,7 @@ To apply, please send the following during the pre-screening:
 - Transcripts for bachelor's, master's, and Ph.D.
 
 to the email address [doc.berlin.wias@gmail.com](mailto:doc.berlin.wias@gmail.com), with subject containing [apply-postdoc-mathplus].
-The position will be open until filled. However, please submit an application before October 15th to receive full consideration.
+The position will be open until filled. However, please submit an application before October 18th to receive full consideration.
 
 Selected candidates will *later* 
 
