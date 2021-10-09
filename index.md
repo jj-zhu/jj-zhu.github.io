@@ -4,13 +4,14 @@ published: true
 ---
 I am a Weierstrass research group leader heading the Data-driven Optimization and Control group, [Weierstrass Institute, Berlin](https://www.wias-berlin.de/). I am also an affiliated researcher with the [Empirical Inference Department](https://ei.is.tuebingen.mpg.de/), [Max Planck Institute for Intelligent Systems, Tübingen](http://is.tue.mpg.de/).
 
-My group focuses on the *mathematical foundations and applications of machine learning and data-driven optimization & control, especially on distributional robustness and interfacing dynamical systems and learning*.
+My group focuses on the *mathematical foundations and applications of algorithmic decision-making using data-driven optimization & control, especially on robustness under data distribution shift, interfacing dynamical systems and machine learning*.
 
-**Positions available**:
+**Positions and Opportunities**:
 
 - [Filled] ~~Ph.D. position in Berlin, Germany on robust machine learning and robust optimization~~
-- [Postdoc position at Weierstrass Institute, Berlin, intersection of mathematical optimization, machine learning, optimal control](/postdoc_1/)
+- [Postdoc position at Weierstrass Institute, Berlin, the intersection of mathematical optimization, machine learning, optimal control](/postdoc_1/)
 - Coming soon
+- Other funding opportunities in Berlin: [BMS Dirichlet Postdoctoral Fellowships](https://math-berlin.de/bms-faculty/dirichlet-postdoctoral-program), [BMS PhD](https://math-berlin.de/application)
 
 ### I write [a blog here](https://jj-zhu.github.io/blog/).
 
