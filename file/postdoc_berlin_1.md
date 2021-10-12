@@ -27,7 +27,7 @@ Motivated by numerous partial differential equation (PDE) related practical appl
 
 ### Application and more details
 
-To apply, please send the following during the pre-screening:
+To inquire about the position (highly recommended), please send the following:
 
 - 1-2 page cover letter (including a *very brief* research statement)
 - CV with links to your existing works
@@ -37,10 +37,10 @@ To apply, please send the following during the pre-screening:
 to the email address [doc.berlin.wias@gmail.com](mailto:doc.berlin.wias@gmail.com), with subject containing [apply-postdoc-mathplus].
 The position will be open until filled. However, please submit an application before October 18th to receive full consideration.
 
-Selected candidates will *later* 
+To apply, candidates will
 
 - provide information of 2-3 references who have agreed to be contacted
-- submit to an official application platform the above documents and official certificates, transcripts, and other awards 
+- submit to an  [official platform](https://wias-berlin.softgarden.io/de/vacancies) the above documents and official certificates, transcripts, and other awards 
 
 Please direct all inquiries to Dr. Jia-Jie Zhu using the email address [doc.berlin.wias@gmail.com](mailto:doc.berlin.wias@gmail.com), with the subject containing [inquiry-postdoc-mathplus].
 
