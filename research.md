@@ -7,7 +7,7 @@ published: true
 
 My main interests have been in three technical fields: optimization, dynamical systems and control, and machine learning underpinned by principled applied math.
 
-# Selected Projects
+# Previous Projects
 - Kernel machine learning for robust optimization and control, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
   - [Link to the project page](https://ei.is.mpg.de/research_projects/optimization)
 - (Under construction...)
