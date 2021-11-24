@@ -2,7 +2,7 @@
 layout: page
 published: true
 ---
-I am a research group leader heading the Data-driven Optimization and Control group at the [Weierstrass Institute, Berlin](https://www.wias-berlin.de/). I am also an affiliated researcher with the [Empirical Inference Department](https://ei.is.tuebingen.mpg.de/), [Max Planck Institute for Intelligent Systems, Tübingen](http://is.tue.mpg.de/).
+I am a research group leader heading the Data-driven Optimization and Control Group at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). 
 
 ### **Positions and Opportunities**:
 
