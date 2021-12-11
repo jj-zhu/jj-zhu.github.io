@@ -2,7 +2,10 @@
 layout: page
 published: true
 ---
-I am a research group leader heading the Data-driven Optimization and Control Group at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). 
+
+![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 180px;display: block"}
+I am a junior research group leader (similar to Assitant Professor in North America) of at the Data-driven Optimization and Control Group, [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). 
+I am also an affiliated researcher at the [Empirical Inference Department, Max Planck Institute for Intelligent System, Tübingen](https://ei.is.tuebingen.mpg.de/).
 
 ### **Positions and Opportunities**:
 
@@ -13,7 +16,7 @@ I am a research group leader heading the Data-driven Optimization and Control Gr
   - [BMS Dirichlet Postdoctoral Fellowships](https://math-berlin.de/bms-faculty/dirichlet-postdoctoral-program)
   - [BMS PhD funding](https://math-berlin.de/application)
 
-### I write [a blog here](https://jj-zhu.github.io/blog/).
+### I write [a blog here](https://jj-zhu.github.io/blog/). Though the freqency of updates depends on how busy I am at the moment.
 
 ### Research interests
 
@@ -24,5 +27,3 @@ In general, I am an *applied mathematician* interested in **optimization, machin
 + Distributionally robust optimization, stochastic optimization
 + Dynamical systems, control, multi-stage decision-making
 + Numerical optimization, numerical analysis
-
-![learning and control](/images/atom.png)
