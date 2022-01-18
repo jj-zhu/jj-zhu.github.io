@@ -19,15 +19,15 @@ My main interests have been in three technical fields: optimization, dynamical s
 - Coming soon...
 
 # Publications and preprints
-**Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf, 2021. [preprint](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks)
+**Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf, 2021. A version of this paper will appear in the Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS) 2022[preprint](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) 
 
 **Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu. [preprint](https://arxiv.org/pdf/2106.13066.pdf)
 
 **Distributionally Robust Trajectory Optimization Under Uncertain Dynamics via Relative-Entropy Trust Regions**. Hany Abdulsamad, Tim Dorau, Boris Belousov, Jia-Jie Zhu and Jan Peters. [preprint](https://arxiv.org/pdf/2103.15388.pdf)
 
-**Distributional Robustness Regularized Scenario Optimization with Application to Model Predictive Control.** Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu, 2021. To appear in the proceedings of the Conference on Learning for Dynamics and Control (L4DC). [paper](http://proceedings.mlr.press/v144/nemmour21a.html)
+**Distributional Robustness Regularized Scenario Optimization with Application to Model Predictive Control.** Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu, 2021. Proceedings of the Conference on Learning for Dynamics and Control (L4DC). [paper](http://proceedings.mlr.press/v144/nemmour21a.html)
 
-**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Proceedings of the 24thInternational Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA. PMLR: Volume 130. [paper](https://arxiv.org/pdf/2006.06981.pdf) [code](https://github.com/jj-zhu/kdro)  [slides (shorter version)](https://jj-zhu.github.io/file/aistats21kdro.pdf) [(longer version)](https://jj-zhu.github.io/file/siamop21kdro.pdf)
+**Kernel Distributionally Robust Optimization**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, San Diego, California, USA. PMLR: Volume 130. [paper](https://arxiv.org/pdf/2006.06981.pdf) [code](https://github.com/jj-zhu/kdro)  [slides (shorter version)](https://jj-zhu.github.io/file/aistats21kdro.pdf) [(longer version)](https://jj-zhu.github.io/file/siamop21kdro.pdf)
 
 **Worst-Case Risk Quantification under Distributional Ambiguity using Kernel Mean Embedding in Moment Problem**. Jia-Jie Zhu, Wittawat Jitkrittum, Moritz Diehl, Bernhard Schölkopf, 2020. In the 59th IEEE Conference on Decision and Control (CDC)), 2020. [paper](https://arxiv.org/pdf/2004.00166.pdf) [slides](https://jj-zhu.github.io/file/cdc20worst.pdf)
 
