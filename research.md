@@ -17,6 +17,7 @@ My main interests have been in three technical fields: optimization, dynamical s
 - Jamie Barnes (Ph.D. student, WIAS Berlin)
 - [Yassine Nemmour](https://is.tue.mpg.de/person/ynemmour) (Ph.D. student, MPI Tübingen, joint with Bernhard Schölkopf)
 - [Diego Agudelo-España](https://is.tue.mpg.de/person/dagudelo) (Ph.D. student, MPI Tübingen, joint with Bernhard Schölkopf)
+
 # Publications and preprints
 **Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf, 2021. A version of this paper will appear in the Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS) 2022[preprint](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) 
 

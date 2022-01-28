@@ -10,7 +10,7 @@ I am also an affiliated researcher at the [Empirical Inference Department, Max P
 ### **Positions and Opportunities**:
 
 - [Filled] ~~Ph.D. position in Berlin, Germany on robust machine learning and robust optimization~~
-- [Filled] ~~Postdoc position at Weierstrass Institute, Berlin, the intersection of mathematical optimization, machine learning, optimal Control ~~
+- [Filled] ~~Postdoc position at Weierstrass Institute, Berlin, the intersection of mathematical optimization, machine learning, optimal Control~~
 - Additional funding opportunities: 
   - [Joint PhD project in statistical learning with other WIAS groups](https://wias-berlin.softgarden.io/job/13158792?l=de)
   - [BMS Dirichlet Postdoctoral Fellowships](https://math-berlin.de/bms-faculty/dirichlet-postdoctoral-program)
