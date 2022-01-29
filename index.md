@@ -12,14 +12,14 @@ I am also an affiliated researcher at the [Empirical Inference Department, Max P
 In general, I am an *applied mathematician* interested in **optimization, machine learning (with a focus on distributional robustness), function spaces, dynamical systems, and Control**. My group focuses on the *mathematical optimization foundations for machine learning, dynamical systems, and control algorithms, and, more broadly, data-driven algorithmic decision-making. We are especially motivated by addressing the lack of robustness and data distribution shift issues in modern learning algorithms, as well as interfacing dynamical systems and machine learning*.
 
 + machine learning, kernel methods, robust learning under distribution shift
-+ distributionally robust optimization, stochastic optimization
-+ Control, dynamical systems modeling, multi-stage decision-making
++ distributionally robust optimization, optimization under uncertainty
++ control, dynamical systems modeling, multi-stage decision-making
 + numerical optimization, numerical analysis, numerical optimal Control
 
 I write [a blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 
 ### News and updates
-<a class="twitter-timeline" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### **Positions and opportunities**:
 
