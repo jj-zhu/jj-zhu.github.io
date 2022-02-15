@@ -4,8 +4,8 @@ published: true
 ---
 
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 180px;display: block"}
-I am a junior research group leader (similar to an assistant professor in North America) at the Data-driven Optimization and Control Group, [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). 
-I am also an affiliated researcher at the [Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen](https://ei.is.tuebingen.mpg.de/).
+I am a junior research group leader (similar to an assistant professor in North America) heading the Data-driven Optimization and Control Group, [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). 
+I am also an affiliated researcher with the [Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen](https://ei.is.tuebingen.mpg.de/).
 
 ### Research interests
 
@@ -13,8 +13,8 @@ In general, I am an *applied mathematician* interested in **optimization, machin
 
 + machine learning, kernel methods, robust learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
-+ control, dynamical systems modeling, multi-stage decision-making
-+ numerical optimization, numerical analysis, numerical optimal Control
++ control, dynamical systems modeling
++ numerical optimization, numerical analysis
 
 I write [a blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 
