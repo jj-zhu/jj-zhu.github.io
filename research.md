@@ -8,18 +8,13 @@ published: true
 My main interests have been in three technical fields: optimization, dynamical systems and control, and machine learning. Currently, I am particularly interested in various robustness aspects of optimization, control, and learning.
 
 # Previous projects
-- Kernel machine learning for robust optimization and control, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
+- Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
   - [Link to the project page](https://ei.is.mpg.de/research_projects/optimization)
-- (Under construction...)
-
-# Group members
-- Dr. Andrei Pavlov (Postdoctoral Researcher, WIAS Berlin)
-- Jamie Barnes (Ph.D. student, WIAS Berlin)
-- [Yassine Nemmour](https://is.tue.mpg.de/person/ynemmour) (Ph.D. student, MPI Tübingen, joint with Bernhard Schölkopf)
-- [Diego Agudelo-España](https://is.tue.mpg.de/person/dagudelo) (Ph.D. student, MPI Tübingen, joint with Bernhard Schölkopf)
+  - [Project poster](https://jj-zhu.github.io/file/kdro_2022_poster.pdf)
+- (More under construction ...)
 
 # Publications and preprints
-**Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf, 2021. A version of this paper will appear in the Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS) 2022[preprint](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) 
+**Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf, 2021. Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS) 2022 [paper](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) 
 
 **Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu. [preprint](https://arxiv.org/pdf/2106.13066.pdf)
 

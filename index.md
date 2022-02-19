@@ -10,7 +10,7 @@ I am also an affiliated researcher with the [Empirical Inference Department, Max
 
 In general, I am an *applied mathematician* interested in **optimization, machine learning (with a focus on distributional robustness), function spaces, dynamical systems, and control**. My group focuses on the mathematical optimization foundations for machine learning, dynamical systems, and control algorithms, and, more broadly, data-driven algorithmic decision-making. We are especially motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms, as well as interfacing dynamical systems and machine learning.
 
-+ machine learning, kernel methods, robust learning under distribution shift
++ machine learning, robust learning under distribution shift, kernel methods
 + distributionally robust optimization, optimization under uncertainty
 + control, dynamical systems modeling
 + numerical optimization, numerical analysis
