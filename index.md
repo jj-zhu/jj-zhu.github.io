@@ -15,7 +15,9 @@ In general, I am an *applied mathematician* interested in **optimization, machin
 + control, dynamical systems modeling
 + numerical optimization, numerical analysis
 
-I write [a blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
+See [here](/research/) for more information about research topics.
+
+I also write [a non-researchy blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 
 ### News and updates
 <a class="twitter-timeline" data-width="400" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
