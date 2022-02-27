@@ -11,7 +11,7 @@ I am also an affiliated researcher with the [Empirical Inference Department, Max
 
 ### Research interests
 
-In general, I am an *applied mathematician* interested in **optimization, machine learning (with a focus on distributional robustness), function spaces, dynamical systems, and control**. My group focuses on the mathematical optimization foundations for machine learning, dynamical systems, and control algorithms, and, more broadly, data-driven algorithmic decision-making. We are especially motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms, as well as interfacing dynamical systems and machine learning.
+In general, I am an *applied mathematician* interested in **optimization, machine learning (with a focus on distributional robustness), function spaces, dynamical systems, and control**. My group focuses on the mathematical optimization foundations for machine learning, dynamical systems, control, and, more broadly, data-driven algorithmic decision-making. We are especially motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms, as well as interfacing dynamical systems and machine learning.
 
 + machine learning, robust learning under distribution shift, kernel methods
 + distributionally robust optimization, optimization under uncertainty
@@ -20,13 +20,11 @@ In general, I am an *applied mathematician* interested in **optimization, machin
 
 See [here](/research/) for more information about research topics.
 
-I also write [a non-researchy blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
+I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 
 ### **Positions and opportunities**:
 
-- [Filled] ~~Ph.D. position in Berlin, Germany on robust machine learning and robust optimization~~
-- [Filled] ~~Postdoc position at Weierstrass Institute, Berlin, the intersection of mathematical optimization, machine learning, optimal Control~~
+- No current Ph.D. or postdoc funding
 - Additional funding opportunities: 
-  - [Joint PhD project in statistical learning with other WIAS groups](https://wias-berlin.softgarden.io/job/13158792?l=de)
   - [BMS Dirichlet Postdoctoral Fellowships](https://math-berlin.de/bms-faculty/dirichlet-postdoctoral-program)
   - [BMS PhD funding](https://math-berlin.de/application)
