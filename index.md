@@ -2,8 +2,7 @@
 layout: page
 published: true
 ---
-I am a junior research group leader (similar to an assistant professor in North America) heading the Data-driven Optimization and Control Group, [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). 
-I am also an affiliated researcher with the [Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen](https://ei.is.tuebingen.mpg.de/).
+I am a junior research group leader (North American approximation: assistant professor) heading the Data-driven Optimization and Control Group, [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/).
 ![learning and control](/images/atom.png)
 
 ### News and updates
@@ -15,8 +14,9 @@ In general, I am an *applied mathematician* interested in **optimization, machin
 
 + machine learning, robust learning under distribution shift, kernel methods
 + distributionally robust optimization, optimization under uncertainty
-+ control, dynamical systems modeling
 + numerical optimization, numerical analysis
++ control
++ data-driven modeling of dynamical systems and physics
 
 See [here](/research/) for more information about research topics.
 
