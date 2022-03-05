@@ -11,6 +11,7 @@ My main interests have been in three technical fields: optimization, dynamical s
 - Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
   - [Link to the project page](https://ei.is.mpg.de/research_projects/optimization)
   - [Project poster](https://jj-zhu.github.io/file/kdro_2022_poster.pdf)
+- Marie Skołodowska-Curie Individual Fellowship on learning-control algorithms, Max Planck Institute for Intelligent Systems, Tübingen
 - (More under construction ...)
 
 # Publications and preprints
