@@ -15,7 +15,7 @@ In general, I am an *applied mathematician* interested in **optimization, machin
 + machine learning, robust learning under distribution shift, kernel methods
 + distributionally robust optimization, optimization under uncertainty
 + numerical optimization, numerical analysis
-+ control
++ control, multi-stage optimization
 + data-driven modeling of dynamical systems and physics
 
 See [here](/research/) for more information about research topics.
