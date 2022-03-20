@@ -5,7 +5,7 @@ permalink: /research/
 published: true
 ---
 
-My main interests have been in three technical fields: optimization, dynamical systems and control, and machine learning. Currently, I am particularly interested in various robustness aspects of optimization, control, and learning.
+My main interests have been in three technical fields: optimization, dynamical systems modeling and control, and machine learning. Currently, I am particularly interested in various aspects of robustness in optimization, control, and learning.
 
 # Previous projects
 - Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
