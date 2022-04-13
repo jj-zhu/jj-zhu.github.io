@@ -2,7 +2,7 @@
 layout: page
 published: true
 ---
-I am a junior research group leader (North American approximation: assistant professor) heading the Data-driven Optimization and Control Group, [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/).
+I am a junior research group leader (North American approximation: assistant professor) leading the Data-driven Optimization and Control Group, [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/).
 ![learning and control](/images/atom.png)
 
 ### News and updates
