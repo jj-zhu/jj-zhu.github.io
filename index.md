@@ -24,7 +24,7 @@ I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though 
 
 ### **Positions and opportunities**:
 
-- No current Ph.D. or postdoc funding
+- If you are a prospective Ph.D. student interested in any of the topics, please feel free to get in touch.
 - Additional funding opportunities: 
   - [BMS Dirichlet Postdoctoral Fellowships](https://math-berlin.de/bms-faculty/dirichlet-postdoctoral-program)
   - [BMS PhD funding](https://math-berlin.de/application)
