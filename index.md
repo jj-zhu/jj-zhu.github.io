@@ -2,7 +2,7 @@
 layout: page
 published: true
 ---
-I am a junior research group leader (North American approximation: assistant professor) leading the Data-driven Optimization and Control Group, at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). Prior to coming to Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization, with William Hager at the University of Florida.
+I am a junior research group leader (equivalent to assistant professor) leading the Data-driven Optimization and Control Group, at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). Prior to coming to Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization, with William Hager at the University of Florida.
 ![learning and control](/images/atom.png)
 
 
@@ -22,8 +22,8 @@ In general, I am an *applied mathematician* interested in **optimization, machin
 
 + machine learning, robust learning under distribution shift, kernel methods and optimal transport applications
 + distributionally robust optimization, optimization under uncertainty
-+ numerical optimization, numerical analysis
-+ control, multi-stage optimization
++ numerical optimization, numerical methods
++ control, multi-stage decision-making
 + data-driven modeling of dynamical systems and physics
 
 See [here](/research/) for more information about research topics.
