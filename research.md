@@ -15,10 +15,16 @@ My main interests have been in three technical fields: optimization, dynamical s
 - (More under construction ...)
 
 # Publications and preprints
+**Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions**.
+Heiner Kremer, Jia-Jie Zhu, Krikamol Muandet, and Bernard Schölkopf.
+To appear in the Proceedings of the 39th International Conference on Machine Learning (ICML). PMLR, 2022.
+
 **Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Optimization with Finite-Sample Guarantee**
 Yassine Nemmour, Heiner Kremer, Bernhard Schölkopf, Jia-Jie Zhu, 2022. [preprint](https://arxiv.org/pdf/2204.11564.pdf)
 
-**Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf, 2021. Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS) 2022 [paper](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) [slides (oral)](https://jj-zhu.github.io/file/oral-arks-aistats-2022.pdf) [poster](https://jj-zhu.github.io/file/poster-arks-aistats-2022.pdf)
+**Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf. Proceedings of The 25th International Conference on Artificial
+  Intelligence and Statistics, volume 151 of Proceedings of Machine
+  Learning Research, pages 4972--4994. PMLR, 28--30 Mar 2022. [paper](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) [slides (oral)](https://jj-zhu.github.io/file/oral-arks-aistats-2022.pdf) [poster](https://jj-zhu.github.io/file/poster-arks-aistats-2022.pdf)
 
 **Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu. [preprint](https://arxiv.org/pdf/2106.13066.pdf)
 
