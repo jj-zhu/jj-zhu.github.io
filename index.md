@@ -8,7 +8,7 @@ I am a junior research group leader (equivalent to assistant professor) leading 
 
 ### **Positions and opportunities**:
 
-- If you are a prospective Ph.D. student interested in any of the topics, please feel free to get in touch.
+- **New opening**: If you are a prospective Ph.D. student, please feel free to get in touch.
 - Other funding opportunities in Berlin: 
   - [BMS Dirichlet Postdoctoral Fellowships](https://math-berlin.de/bms-faculty/dirichlet-postdoctoral-program)
   - [BMS PhD funding](https://math-berlin.de/application)
