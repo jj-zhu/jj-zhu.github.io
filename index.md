@@ -18,10 +18,11 @@ I am a junior research group leader (equivalent to assistant professor) leading 
 
 ### Research interests
 
-In general, I am interested in **optimization, machine learning, dynamical systems, decisions, and control**. My group focuses on the mathematical optimization foundations for machine learning, dynamical systems modeling, control, and, more broadly, data-driven algorithmic decision-making. We are especially motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms, as well as interfacing dynamical systems modeling and machine learning.
+In general, I am interested in **optimization, machine learning, dynamical systems, decisions, and control**. My group focuses on the mathematical optimization, machine learning, dynamical systems modeling, and control / decision-making. On one hand, we are motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in interfacing dynamical systems and machine learning, aiming at building scalable computational algorithms for optimization and machine learning. Some example topics include
 
-+ machine learning, robust learning under distribution shift, kernel methods and optimal transport applications
++ machine learning, robust learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
++ applications of optimal transport, gradient flow, and kernel methods
 + numerical optimization, numerical methods
 + control, multi-stage decision-making
 + data-driven modeling of dynamical systems and physics
