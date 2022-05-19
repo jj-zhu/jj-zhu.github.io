@@ -8,7 +8,7 @@ I am a junior research group leader (equivalent to assistant professor) leading 
 
 ### **Positions and opportunities**:
 
-- **New opening**: If you are a prospective Ph.D. student, please feel free to get in touch.
+- **New opening**: [fully-funded Ph.D. position in **optimization and machine learning**](phd_2)
 - Other funding opportunities in Berlin: 
   - [BMS Dirichlet Postdoctoral Fellowships](https://math-berlin.de/bms-faculty/dirichlet-postdoctoral-program)
   - [BMS PhD funding](https://math-berlin.de/application)
