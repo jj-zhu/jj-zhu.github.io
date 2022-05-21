@@ -30,10 +30,11 @@ The ideal candidate's background is in machine learning and/or optimization, wit
 
 # Application and more details
 
-To apply, please send the following:
+Inquiries from qualified (see above) candidates are encouraged. Please send the following:
 
 - 1-2 page cover letter (including a *very brief* research statement)
 - CV with links to your existing works
+- Any previous tech reports or publications related to the position
 - Master's thesis (or draft if not yet completed)
 - Transcripts for bachelor's and master's,
 
