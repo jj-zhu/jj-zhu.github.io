@@ -10,7 +10,7 @@ published: true
 We have a fully-funded Ph.D. position in **optimization and machine learning**, on topics closely related to distributional robustness, generalization, optimization transport and kernel methods, gradient flow, large-scale optimization, robustness in RL and control, interfacing robustness and causality or fairness.
 
 # Qualification
-The ideal candidate's background is in machine learning and/or optimization, with **a master's degree and related research experience**. Those qualifications are demonstrated by by high-quality technical reports or publications in relevant venues such as (NeurIPS/ICLR/AISTATS/ICML/AAAI/CoLT/ALT/JMLR/STOC etc.). Candidates with strong applied or industrial experiences will also be considered. 
+The ideal candidate's background is in machine learning and/or optimization, with **a master's degree and related research experience**. Those qualifications are demonstrated by by high-quality technical reports or publications in relevant venues such as (NeurIPS/ICLR/AISTATS/ICML/AAAI/CoLT/ALT/JMLR/STOC etc.). Candidates with strong applied or industrial experiences will also be considered. Inquiry welcome.
 
 # Examples of topics include
 
@@ -37,8 +37,8 @@ To apply, please send the following:
 - Master's thesis (or draft if not yet completed)
 - Transcripts for bachelor's and master's,
 
-to the email address [zhu@wias-berlin.de](mailto:zhu@wias-berlin.de), with the subject containing apply-phd-opt].
-The position will be open until filled. However, please submit an application before **June 24th**. To receive full consideration.
+to the email address [zhu@wias-berlin.de](mailto:zhu@wias-berlin.de), with the subject containing [apply-phd-opt].
+The position will be open until filled. However, to receive full consideration, please submit an application before **June 24th**. 
 
 Selected candidates will *later* 
 
