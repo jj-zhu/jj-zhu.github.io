@@ -43,6 +43,6 @@ The position will be open until filled. However, to receive full consideration, 
 Selected candidates will *later* 
 
 - provide information of 2-3 references from *previous research projects*, who have agreed to be contacted
-- submit to an official application platform the above documents and official certificates, transcripts, and other awards 
+- submit to the [official application platform](https://wias-berlin.softgarden.io/job/18496523?l=de) the above documents and official certificates, transcripts, and other awards 
 
 Please direct all inquiries to Dr. Jia-Jie Zhu using the email address [zhu@wias-berlin.de](mailto:zhu@wias-berlin.de), with the subject containing [inquiry-phd-opt]. Note that due to the number of inquiries, I can only reply when there is a fit.
