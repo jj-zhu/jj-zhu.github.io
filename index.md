@@ -2,7 +2,7 @@
 layout: page
 published: true
 ---
-I am a junior research group leader (equivalent to assistant professor) leading the Data-driven Optimization and Control Group, at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). Prior to coming to Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization, with William Hager at the University of Florida.
+I am a junior research group leader (equivalent to assistant professor) at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). Prior to coming to Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization, with William Hager at the University of Florida.
 ![learning and control](/images/atom.png)
 
 
@@ -18,7 +18,7 @@ I am a junior research group leader (equivalent to assistant professor) leading 
 
 ### Research interests
 
-In general, I am interested in **optimization, machine learning, dynamical systems, decisions, and control**. My group focuses on the mathematical optimization, machine learning, dynamical systems modeling, and control / decision-making. On one hand, we are motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in interfacing dynamical systems and machine learning, aiming at building scalable computational algorithms for optimization and machine learning. Some example topics include
+My big goal is to use computational algorithms to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, decision-making, and control**. On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in interfacing dynamical systems and machine learning, aiming at building scalable computational algorithms for optimization and machine learning. Some example topics include
 
 + machine learning, robust learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
