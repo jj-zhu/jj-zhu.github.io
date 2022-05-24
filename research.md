@@ -14,7 +14,7 @@ My main interests have been in three technical fields: optimization, dynamical s
 - Marie Skołodowska-Curie Individual Fellowship on learning-control algorithms, Max Planck Institute for Intelligent Systems, Tübingen
 - (More under construction ...)
 
-# Publications and preprints
+# Publications, preprints, code
 **Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions**.
 Heiner Kremer, Jia-Jie Zhu, Krikamol Muandet, and Bernard Schölkopf.
 To appear in the Proceedings of the 39th International Conference on Machine Learning (ICML). PMLR, 2022.
