@@ -18,7 +18,7 @@ I am a junior research group leader (equivalent to assistant professor) at the [
 
 ### Research interests
 
-My big goal is to advance research in computational algorithms, in order to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, decision-making, and control**. On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in **interfacing dynamical systems (e.g., gradient flow, dynamic optimal transport, control theory) and machine learning**, aiming at building scalable optimization algorithms for robust and large-scale machine learning algorithms. Some example topics include
+My big goal is to advance research in computational algorithms, in order to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, decision-making, and control**. On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in **interfacing dynamical systems (e.g., gradient flow, dynamic optimal transport, control theory) and machine learning**, aiming at building scalable and robust machine learning algorithms. Some example topics include
 
 + machine learning, robust learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
