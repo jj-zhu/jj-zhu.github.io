@@ -39,7 +39,7 @@ Inquiries from qualified (see above) candidates are encouraged. Please send the 
 - Transcripts for bachelor's and master's,
 
 to the email address [zhu@wias-berlin.de](mailto:zhu@wias-berlin.de), with the subject containing [apply-phd-opt].
-The position will be open until filled. However, to receive full consideration, please submit an application before **June 24th**. 
+The position will be open until filled. However, to receive full consideration, please apply (or inquire) as soon as possible. 
 
 Selected candidates will *later* 
 
