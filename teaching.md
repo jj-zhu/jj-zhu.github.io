@@ -7,6 +7,7 @@ published: true
 # Recent
 - (Upcoming) July 2022, Oxford-TU Berlin, Ph.D. minicouse on Data-Driven Modeling and Optimization of Dynamical Systems under Uncertainty, TU Berlin, Berlin, Germany
   - [Website](https://www3.math.tu-berlin.de/stoch/IRTG/mini-course-2022-machine-learning/)
+  - [Exercises repo](https://github.com/jj-zhu/berlin-oxford-minicourse-opt-ml-2022)
 
 - August 2021, Leibniz MMS Summer School, Mini-course on Robust Optimization and Learning under Distribution Shift, Dagstuhl Castle, Saarland, Germany
   - [Website](https://www.wias-berlin.de/research/Leibniz-MMS/SummerSchool21/)
