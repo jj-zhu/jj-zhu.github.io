@@ -5,7 +5,7 @@ permalink: /teaching/
 published: true
 ---
 # Recent
-- (Upcoming) July 2022, Oxford-TU Berlin, Ph.D. minicouse on Data-Driven Modeling and Optimization of Dynamical Systems under Uncertainty, TU Berlin, Berlin, Germany
+- July 2022, TU Berlin-Oxford, Ph.D. minicouse on Data-Driven Modeling and Optimization of Dynamical Systems under Uncertainty, TU Berlin, Berlin, Germany
   - [Website](https://www3.math.tu-berlin.de/stoch/IRTG/mini-course-2022-machine-learning/)
   - [Exercises repo](https://github.com/jj-zhu/berlin-oxford-minicourse-opt-ml-2022)
 
