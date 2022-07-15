@@ -17,7 +17,7 @@ My main interests have been in three technical areas: optimization, dynamical sy
 # Publications, preprints, code
 **Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions**.
 Heiner Kremer, Jia-Jie Zhu, Krikamol Muandet, and Bernard Schölkopf.
-To appear in the Proceedings of the 39th International Conference on Machine Learning (ICML). PMLR, 2022.
+In the Proceedings of the 39th International Conference on Machine Learning (ICML). PMLR, 2022. [paper](https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf)
 
 **Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Optimization with Finite-Sample Guarantee**
 Yassine Nemmour, Heiner Kremer, Bernhard Schölkopf, Jia-Jie Zhu.
