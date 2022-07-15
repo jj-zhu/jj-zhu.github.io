@@ -10,10 +10,16 @@ I am a junior research group leader (equivalent to assistant professor) at the [
 
 - **New opening**: [fully-funded Ph.D. position in **optimization and machine learning**](phd_2)
 - Other funding opportunities in Berlin: 
-  - [BMS Dirichlet Postdoctoral Fellowships](https://math-berlin.de/bms-faculty/dirichlet-postdoctoral-program)
   - [BMS PhD funding](https://math-berlin.de/application)
 
 ### News and updates
+- Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control, we are pushing a series of works of kernel learning machines for optimization and inference.  
+https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf  
+https://arxiv.org/pdf/2204.11564.pdf (preprint)  
+https://arxiv.org/pdf/2106.13066.pdf (preprint)
+
+
+
 - Jul 2022. I'm teaching a minicourse for the TU Berlin-Oxford Ph.D. program. See [here](/teaching/) for exercise files and lecture notes.
 
 #### Twitter feed
