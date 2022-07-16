@@ -13,11 +13,10 @@ I am a junior research group leader (equivalent to assistant professor) at the [
   - [BMS PhD funding](https://math-berlin.de/application)
 
 ### News and updates
-- Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control, we are pushing a series of works of kernel learning machines for optimization and inference.  
-https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf  
-https://arxiv.org/pdf/2204.11564.pdf (preprint)  
-https://arxiv.org/pdf/2106.13066.pdf (preprint)
-
+- Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control with the talented PhD students. We are pushing a series of works of kernel learning machines for optimization and inference, trail-blazing a branch of reserach that use modern learning machines for computing, optimizing, and controlling systems robustly. 
+[ICML paper on conditional moment problems for ML and causal inference](https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf)  
+[IEEE CDC paper on distributionally robust chance-constraint nonlinear optimization (preprint)](https://arxiv.org/pdf/2204.11564.pdf)  
+[IEEE CDC paper on learning uncertain-aware dyanmics with large-scale kernel machines (preprint)](https://arxiv.org/pdf/2106.13066.pdf)  
 
 
 - Jul 2022. I'm teaching a minicourse for the TU Berlin-Oxford Ph.D. program. See [here](/teaching/) for exercise files and lecture notes.
@@ -27,7 +26,7 @@ https://arxiv.org/pdf/2106.13066.pdf (preprint)
 
 ### Research interests
 
-My big goal is to advance research in computational algorithms, in order to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, decision-making, and control**. On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in **interfacing dynamical systems (e.g., gradient flow, dynamic optimal transport, control theory) and machine learning**, aiming at building robust and scalable optimization and learning algorithms. Some example topics include
+My big goal is to advance research in computational algorithms, in order to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, decision-making, and control**. On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in **interfacing dynamical systems (e.g., gradient flow, dynamic optimal transport, control theory) and machine learning**, aiming at building robust and scalable optimization and learning algorithms. All those call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data robustly**, which is the technical focus of my research program. Some example topics include
 
 + machine learning, robust learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
