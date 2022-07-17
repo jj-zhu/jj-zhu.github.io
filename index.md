@@ -13,7 +13,7 @@ I am a junior research group leader (equivalent to assistant professor) at the [
   - [BMS PhD funding](https://math-berlin.de/application)
 
 ### News and updates
-- Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control with the talented PhD students. We are pushing a series of works of kernel learning machines for optimization and inference, trail-blazing a branch of reserach that use modern learning machines for computing, optimizing, and controlling systems robustly. 
+- Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control with a few talented PhD students I work with. We are pushing a series of works of kernel learning machines for optimization and inference. The hope is to trail-blaze a branch of research that use modern learning machines for robustly optimizing learning and control systems.  
 [ICML paper on conditional moment problems for ML and causal inference](https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf)  
 [IEEE CDC paper on distributionally robust chance-constraint nonlinear optimization (preprint)](https://arxiv.org/pdf/2204.11564.pdf)  
 [IEEE CDC paper on learning uncertain-aware dyanmics with large-scale kernel machines (preprint)](https://arxiv.org/pdf/2106.13066.pdf)  
