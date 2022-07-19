@@ -19,7 +19,7 @@ I am a junior research group leader (equivalent to assistant professor) at the [
 [IEEE CDC paper on learning uncertain-aware dyanmics with large-scale kernel machines (preprint)](https://arxiv.org/pdf/2106.13066.pdf)  
 
 
-- Jul 2022. I'm teaching a minicourse for the TU Berlin-Oxford Ph.D. program. See [here](/teaching/) for exercise files and lecture notes.
+- Jul 2022. I'm teaching a minicourse for the TU Berlin-Oxford IRTG Stochastic Analysis Ph.D. program. See [exercise files and lecture notes](/teaching/).
 
 #### Twitter feed
 <a class="twitter-timeline" data-width="400" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
