@@ -23,6 +23,7 @@ In the Proceedings of the 39th International Conference on Machine Learning (ICM
 Yassine Nemmour, Heiner Kremer, Bernhard Schölkopf, Jia-Jie Zhu.
 To appear in the 61st IEEE Conference on Decision and Control (CDC).
 [preprint](https://arxiv.org/pdf/2204.11564.pdf) [code (summer school exercises)](https://github.com/yasnem/CC_Tutorial_TUB_Oxford)
+[slides (summer school)](https://jj-zhu.github.io/file/berlin-oxford_tutorial_kernel_drccsp.pdf)
 
 **Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf. Proceedings of The 25th International Conference on Artificial
   Intelligence and Statistics, volume 151 of Proceedings of Machine
