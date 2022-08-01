@@ -26,6 +26,7 @@ My overall goal is to advance research in computational algorithms to change the
 See [here](/research/) for more information about research topics. I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 
 ### News and updates
+- Aug 2022. [Here (in both German and English)](https://jj-zhu.github.io/file/fvb-journal-interview.pdf) is a recent journal interview about my career path.
 - Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control with a few talented PhD students I work with. We are pushing a series of works of kernel learning machines for optimization and inference. The hope is to trail-blaze a branch of research that use modern learning machines for robustly optimizing learning and control systems.  
 [ICML paper on conditional moment problems for ML and causal inference](https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf)  
 [IEEE CDC paper on distributionally robust chance-constraint nonlinear optimization (preprint)](https://arxiv.org/pdf/2204.11564.pdf)  
