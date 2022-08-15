@@ -31,7 +31,7 @@ To appear in the 61st IEEE Conference on Decision and Control (CDC).
 
 **Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu.
 To appear in the 61st IEEE Conference on Decision and Control (CDC).
-[preprint](https://arxiv.org/pdf/2106.13066.pdf)
+[preprint](https://jj-zhu.github.io/file/randfeature_dynamics.pdf)
 
 **Distributionally Robust Trajectory Optimization Under Uncertain Dynamics via Relative-Entropy Trust Regions**. Hany Abdulsamad, Tim Dorau, Boris Belousov, Jia-Jie Zhu and Jan Peters. [preprint](https://arxiv.org/pdf/2103.15388.pdf)
 
