@@ -24,7 +24,7 @@ My overall goal is to advance research in computational algorithms to change the
 
 + robust machine learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
-+ applications of optimal transport, kernel methods
++ applications of optimal transport, kernel methods, generative models
 + numerical optimization, numerical methods
 + control, multi-stage decision-making
 + data-driven modeling of dynamical systems and physics
