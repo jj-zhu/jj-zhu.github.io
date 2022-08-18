@@ -6,6 +6,11 @@ I am an independent research group leader (equivalent to assistant professor) at
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 ![learning and control](/images/atom.png)
 
+### **Positions and opportunities**:
+
+- **New opening**: [fully-funded Ph.D. position in **optimization and machine learning**](phd_2)
+- Other funding opportunities in Berlin: [BMS PhD funding](https://math-berlin.de/application)
+
 ### News and updates
 - Aug 2022. [Here (in both German and English)](https://jj-zhu.github.io/file/fvb-journal-interview.pdf) is a recent journal interview about my career path.
 - Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control with a few talented PhD students I work with. We are pushing a series of works of kernel learning machines for optimization and inference. The hope is to trail-blaze a branch of research that use modern learning machines for robustly optimizing learning and control systems.  
@@ -17,13 +22,5 @@ I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though 
 
 #### Twitter feed
 <a class="twitter-timeline" data-width="400" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-### **Positions and opportunities**:
-
-- **New opening**: [fully-funded Ph.D. position in **optimization and machine learning**](phd_2)
-- Other funding opportunities in Berlin: 
-  - [BMS PhD funding](https://math-berlin.de/application)
 
 
