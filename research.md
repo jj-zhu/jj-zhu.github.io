@@ -5,7 +5,15 @@ permalink: /research/
 published: true
 ---
 
-My main interests have been in three technical areas: optimization, dynamical systems modeling and control, and machine learning. Currently, I am particularly interested in various aspects of robustness in optimization and machine learning.
+# Research interests
+My overall goal is to advance research in computational algorithms to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, decision-making, and control theory**. On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in **interfacing dynamical systems (e.g., gradient flow, dynamic optimal transport, control theory) and machine learning (e.g., robustness of deep learning models, generative models)**, aiming at building robust and scalable optimization and learning algorithms. All those call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data robustly**, which is the technical focus of my research program. Some example topics include
+
++ robust machine learning, learning under distribution shift
++ distributionally robust optimization, optimization under uncertainty
++ generative models, machine learning applications of optimal transport and kernel methods
++ numerical optimization, numerical methods
++ control theory, multi-stage decision-making
++ data-driven modeling of dynamical systems and physics
 
 # Previous projects
 - Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
