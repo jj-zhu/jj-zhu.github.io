@@ -6,17 +6,16 @@ published: true
 ---
 
 The Weierstrass Institute (WIAS) in Berlin, Germany, is looking for a postdoc candidate passionate about conducting research in the intersection of mathematical optimization, machine learning, optimal control
-with a focus on robustness under distribution shift. The position is associated with a third-party-funded research project led by *Dr. [Jia-Jie Zhu](https://jj-zhu.github.io/) (WIAS Berlin)* and *Dr. [Michael Hintermüller](https://www.wias-berlin.de/people/hintermueller/) (WIAS/ Humboldt-Universität zu Berlin)*. The initial funding period will run for two years, starting January 1st, 2022. The applicants should have completed their Ph.D. degrees by the starting date of the project.
-
+with a focus on robustness under distribution shift. The position is associated with a third-party-funded research project led by *Dr. [Jia-Jie Zhu](https://jj-zhu.github.io/) (WIAS Berlin)* and *Dr. [Michael Hintermüller](https://www.wias-berlin.de/people/hintermueller/) (WIAS/ Humboldt-Universität zu Berlin)*. The initial funding period will last till the end of 2023.
 
 
 ### Subject and candidate qualification
 
-Motivated by numerous partial differential equation (PDE) related practical applications, a pressing challenge for data-driven optimization and control systems is the ubiquitous distribution shift, which implies higher demand for the robustness of the learning-for-control design. The project, funded by the Excellence Cluster MATH+: The Berlin Mathematics Research Center, aims to address **data-driven robust control and optimization of dynamical systems under data distribution shifts, **using principled tools from applied mathematics and statistical machine learning as well as reinforcement learning. We invite candidates whose scholar **profiles are mainly theoretical** and exhibit proven excellence in research. We specifically prefer two types of mathematical research experiences:
+Motivated by practical applications, a pressing challenge for data-driven optimization and control systems is the ubiquitous distribution shift, which implies higher demand for the robustness of the learning-for-control design. The project, funded by the Excellence Cluster MATH+: The Berlin Mathematics Research Center, aims to address **data-driven robust control and optimization of dynamical systems under data distribution shifts, **using principled tools from applied mathematics and statistical machine learning as well as reinforcement learning. We invite candidates whose scholar **profiles are mainly theoretical** and exhibit proven excellence in research. We specifically prefer two types of mathematical research experiences:
 
-(1) either in principled statistical machine learning/reinforcement learning theory (related to dynamical systems, time series, Markov decision process (MDP), principled control theory). Those qualifications are demonstrated, among others, by high-quality publications in credible venues such as NeurIPS/ICLR/AISTATS/ICML/CoLT/JMLR/L4DC.
+(1) either in principled statistical machine learning/reinforcement learning theory (related to dynamical systems, time series, Markov decision process (MDP), principled control theory). Those qualifications are demonstrated, among others, by high-quality publications in credible venues such as NeurIPS/ICLR/AISTATS/ICML/CoLT/JMLR.
 
-(2) and/or in applied mathematics, in optimization, numerical analysis, optimal control, dynamical systems (PDEs and S(P)DEs), data-driven modeling of dynamics, theory of model predictive control (MPC). Those qualifications are demonstrated, among others by relevant publications in credible venues such as SIAM OPT/CON/COAP/COCV/MathProg.
+(2) and/or in applied mathematics, in optimization, numerical analysis, optimal control, dynamical systems (PDEs and S(P)DEs), data-driven modeling of dynamics, theory of model predictive control (MPC). Those qualifications are demonstrated, among others by relevant publications in credible venues such as SIAM OPT/CON/COAP/COCV/MathProg/L4DC/CDC.
 
 
 
@@ -29,13 +28,12 @@ Motivated by numerous partial differential equation (PDE) related practical appl
 
 To inquire about the position (highly recommended), please send the following:
 
-- 1-2 page cover letter (including a *very brief* research statement)
 - CV with links to your existing works
 - Ph.D. thesis (or draft if not yet completed)
 - Transcripts for bachelor's, master's, and Ph.D.
 
 to the email address [doc.berlin.wias@gmail.com](mailto:doc.berlin.wias@gmail.com), with subject containing [apply-postdoc-mathplus].
-The position will be open until filled. However, for better full consideration, please submit an application as soon as possible.
+The position will be open until filled.
 
 To apply, candidates will
 

@@ -10,7 +10,7 @@ To get in touch, click the icon at the bottom of the page.
 
 ### **Positions and opportunities**:
 
-- Open postdoc and [Ph.D. position in **optimization and machine learning**](phd_2)
+- Open [postdoc](postdoc_1) and [Ph.D. position in **optimization and machine learning**](phd_2)
 - Other funding opportunities in Berlin: [BMS PhD funding](https://math-berlin.de/application)
 
 ### News and updates
