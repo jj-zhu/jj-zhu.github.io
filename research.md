@@ -6,7 +6,9 @@ published: true
 ---
 
 # Research interests
-My overall goal is to advance research of computational algorithms, using principles in applied mathematics and physics, to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, and control theory**. On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. On the other hand, I am interested in **interfacing dynamical systems (e.g., gradient flow, optimal transport, feedback control theory) and machine learning (e.g., robustness of deep learning models, generative models)**, aiming at building robust and scalable optimization and learning algorithms. All those call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. Some example technical topics include
+My overall goal is to advance research of computational algorithms, using principles in applied mathematics and physics, to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, and control theory**.
+On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, off-policy or offline data in RL, or causal confounding.
+On the other hand, I am interested in **interfacing dynamical systems and machine learning** (e.g., gradient flow, optimal transport, feedback control theory, robustness of deep learning models, generative models), aiming at building robust and scalable optimization and learning algorithms. All those call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. Some example technical topics include
 
 + robust machine learning, learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
@@ -37,7 +39,7 @@ To appear in the 61st IEEE Conference on Decision and Control (CDC).
   Intelligence and Statistics, volume 151 of Proceedings of Machine
   Learning Research, pages 4972--4994. PMLR, 28--30 Mar 2022. [paper](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) [slides (oral)](https://jj-zhu.github.io/file/oral-arks-aistats-2022.pdf) [poster](https://jj-zhu.github.io/file/poster-arks-aistats-2022.pdf)
 
-**Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu.
+**Learning Random Feature Dynamics for Uncertainty Quantification**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu.
 To appear in the 61st IEEE Conference on Decision and Control (CDC).
 [preprint](https://jj-zhu.github.io/file/randfeature_dynamics.pdf)
 
