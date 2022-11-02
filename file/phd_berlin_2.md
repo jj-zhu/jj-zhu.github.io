@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Full-time Ph.D. position in Berlin, Germany, at the Weierstrass Institute, optimization and machine learning
+title: Ph.D. position in Berlin, Germany, at the Weierstrass Institute, optimization and machine learning
 permalink: /phd_2/
 published: true
 ---

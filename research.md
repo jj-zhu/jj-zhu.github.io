@@ -12,10 +12,10 @@ On the other hand, I am interested in **interfacing dynamical systems and machin
 
 + robust machine learning, learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
-+ generative models, machine learning applications of optimal transport and kernel methods
 + numerical optimization, numerical methods
 + data-driven modeling of dynamical systems and physics
-+ control theory, optimal control, multi-stage decision-making
++ control, multi-stage decision-making
++ generative models, machine learning applications of optimal transport and kernel methods
 
 # Previous projects
 - Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen

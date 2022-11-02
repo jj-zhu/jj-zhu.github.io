@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Filled] Full-time Ph.D. position in Berlin, Germany, at the Weierstrass Institute, on data-driven optimization and robust machine learning
+title: Ph.D. position in Berlin, Germany, at the Weierstrass Institute, on data-driven optimization and robust machine learning
 permalink: /phd_1/
 published: false
 ---
