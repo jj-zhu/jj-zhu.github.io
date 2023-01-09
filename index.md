@@ -10,7 +10,7 @@ To get in touch, click the icon at the bottom of the page.
 
 ### **Positions and opportunities**:
 
-- Open [postdoc](postdoc_1) and [Ph.D. position in **optimization and machine learning**](phd_2)
+- [Filled] ~~Open postdoc and Ph.D. position in optimization and machine learning~~
 - Other funding opportunities in Berlin: [BMS PhD funding](https://math-berlin.de/application)
 
 ### News and updates
@@ -24,6 +24,6 @@ To get in touch, click the icon at the bottom of the page.
 - Jul 2022. I'm teaching a minicourse for the TU Berlin-Oxford IRTG Stochastic Analysis Ph.D. program. See [exercise files and lecture notes](/teaching/).
 
 #### Twitter feed
-<a class="twitter-timeline" data-width="400" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="800" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

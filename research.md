@@ -7,7 +7,7 @@ published: true
 
 # Research interests
 
-My overall goal is to advance the research of computational algorithms, using principles in applied mathematics and physics, to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, and control theory**.
+My overall goal is to advance the research of **computational and learning algorithms**, using principles in applied mathematics and physics, to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, and control theory**.
 
 On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, offline data in RL, or causal confounding.
 For example, I have worked on the theory and computation algorithm to robustly learn ML models by optimizing the risk
@@ -17,14 +17,14 @@ $$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} l(f_\theta(X), Y),$$
 where the underlying data distribution $$P$$ is not the typical empirical average distribution used in statistical learning risk minimization $$ \min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
 
 On the other hand, I am interested in **interfacing dynamical systems and machine learning** (e.g., gradient flow, optimal transport, feedback control theory, robustness of deep learning models, generative models), aiming at building robust and scalable optimization and learning algorithms. 
-The dynamics pespective of ML and computation is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation
+The dynamics perspective of ML and computation is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation
 
 $$
 \partial _t P_t(x) \in G(P_t(x)),
 $$
 
 where just as in continuous optimization, the differential equation can be driven forward by the gradient of certain system energy encoded in the functional $$G$$ above.
-Our goal is then to study this time-evolution of the data-distribution $$P_t(x)$$ for large-scale computation and learning.
+Our goal is then to study this time evolution of the data istribution $$P_t(x)$$ for large-scale computation and learning.
 
 All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. Some example technical topics include
 
@@ -34,6 +34,8 @@ All those research topics call for **a new generation of computational algorithm
 + data-driven modeling of dynamical systems and physics
 + control, multi-stage decision-making
 + generative models, machine learning applications of optimal transport and kernel methods
+
+![group photo 2022](/images/group_photo_2022_berlin.jpg)
 
 # Previous projects
 - Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
