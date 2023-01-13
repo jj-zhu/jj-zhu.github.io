@@ -24,7 +24,7 @@ $$
 $$
 
 where just as in continuous optimization, the differential equation can be driven forward by the gradient of certain system energy encoded in the functional $$G$$ above.
-Our goal is then to study this time evolution of the data istribution $$P_t(x)$$ for large-scale computation and learning.
+Our goal is then to study this time evolution of the data distribution $$P_t(x)$$ for large-scale computation and learning.
 
 All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. Some example technical topics include
 
