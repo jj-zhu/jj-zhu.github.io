@@ -44,6 +44,31 @@ All those research topics call for **a new generation of computational algorithm
 - Marie Skołodowska-Curie Individual Fellowship on learning-control algorithms, Max Planck Institute for Intelligent Systems, Tübingen
 - (More under construction ...)
 
+# Software
+
+### K-DRO -- Kernel Distributionally Robust Optimization
+
+K-DRO is the software implementation of Kernel Distributionally Robust Optimization (DRO), a robust machine learning and optimization algorithm that can handle nonlinear non-convex loss and model functions.
+It is based on a dual reformulation that turns an DRO problem into a kernel learning problem. The intuition is to find a smooth kernel function that majorizes the original loss, as demonstrated in the illustration above.
+
+More information: https://github.com/jj-zhu/kdro
+
+### MMD-DR-CCSP -- Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Programming
+
+MMD-DR-CCSP applies the Kernel Distributionally Robust Optimization methodology.
+Compared with other DR-CCSP algorithm, it can handle nonlinear chnances constraints with computable finite-sample guarantees.
+
+More information: https://github.com/yasnem/CC_Tutorial_TUB_Oxford
+
+### ARKS -- Adversarially Robust Kernel Smoothing
+
+ARKS is a large-scale implementation of kernel methods for distributionally robust optimization.
+It is based on the idea of using a diffusion process to robustify the learning algorithms.
+
+More information: https://github.com/christinakouridi/arks
+
+*See below for more code associated with publications.*
+
 # Publications, preprints, code
 **Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions**.
 Heiner Kremer, Jia-Jie Zhu, Krikamol Muandet, and Bernard Schölkopf.
