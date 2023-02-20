@@ -17,7 +17,7 @@ $$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} l(f_\theta(X), Y),$$
 where the underlying data distribution $$P$$ is not the typical empirical average distribution used in statistical learning risk minimization $$ \min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
 
 On the other hand, I am interested in **interfacing dynamical systems and machine learning** (e.g., gradient flow, optimal transport, feedback control theory, robustness of deep learning models, generative models), aiming at building robust and scalable optimization and learning algorithms. 
-The dynamics perspective of ML and computation is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation
+The dynamics perspective of ML and computation is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE or SDE)
 
 $$
 \partial _t P_t(x) \in G(P_t(x)),
@@ -49,9 +49,11 @@ All those research topics call for **a new generation of computational algorithm
 ### K-DRO -- Kernel Distributionally Robust Optimization
 
 K-DRO is the software implementation of Kernel Distributionally Robust Optimization (DRO), a robust machine learning and optimization algorithm that can handle nonlinear non-convex loss and model functions.
-It is based on a dual reformulation that turns an DRO problem into a kernel learning problem. The intuition is to find a smooth kernel function that majorizes the original loss, as demonstrated in the illustration above.
+It is based on a dual reformulation that turns an DRO problem into a kernel learning problem. The intuition is to find a smooth kernel function that majorizes the original loss, as demonstrated in the illustration below.
 
 More information: https://github.com/jj-zhu/kdro
+
+![K-DRO thumbnail](/images/aistats21kdro_thumbnail.png)
 
 ### MMD-DR-CCSP -- Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Programming
 
