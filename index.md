@@ -8,11 +8,6 @@ I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though 
 
 To get in touch, click the icon at the bottom of the page.
 
-### **Positions and opportunities**:
-
-- [Filled] ~~Open postdoc and Ph.D. position in optimization and machine learning~~
-- Other funding opportunities in Berlin: [BMS PhD funding](https://math-berlin.de/application)
-
 ### News and updates
 - Sep 2022. [Here are the slides](https://jj-zhu.github.io/file/Eindhoven-OT-workshop-2022-Zhu.pdf) for a recent talk I gave at the OT workshop at TU Eindhoven.
 - Aug 2022. [Here (in both German and English)](https://jj-zhu.github.io/file/fvb-journal-interview.pdf) is a recent journal interview about my career path.
