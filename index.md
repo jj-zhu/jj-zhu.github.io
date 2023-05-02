@@ -9,9 +9,15 @@ I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though 
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
+- May 2023. A couple of new preprints available:
+    - [Nonlinear Wasserstein Distributionally Robust Optimal Control](https://arxiv.org/abs/2304.07415)
+    - [Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models](https://arxiv.org/abs/2304.14057)
+- Apr 2023. Paper accepted at ICML 2023: Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. Estimation Beyond Data Reweighting: Kernel Method of Moments.
+- Apr 2023. Gave a plenary talk at the Leibniz Institute for Agricultural Engineering and Bioeconomy Potsdam, during the workshop "Mathematical Modeling and Simulation" (MMS) Days.
+- Served as area chair for AISTATS 2023.  
 - Sep 2022. [Here are the slides](https://jj-zhu.github.io/file/Eindhoven-OT-workshop-2022-Zhu.pdf) for a recent talk I gave at the OT workshop at TU Eindhoven.
 - Aug 2022. [Here (in both German and English)](https://jj-zhu.github.io/file/fvb-journal-interview.pdf) is a recent journal interview about my career path.
-- Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control with a few talented PhD students I worked with. We are pushing a series of works of kernel learning machines for optimization and inference. The hope is to trail-blaze a branch of research that use modern learning machines for robustly optimizing learning and control systems.  
+- Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control.  
 [ICML paper on conditional moment problems for ML and causal inference](https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf)  
 [IEEE CDC paper on distributionally robust chance-constraint nonlinear optimization (preprint)](https://arxiv.org/pdf/2204.11564.pdf)  
 [IEEE CDC paper on learning uncertain-aware dyanmics with large-scale kernel machines (preprint)](https://arxiv.org/pdf/2106.13066.pdf)  

@@ -72,6 +72,15 @@ More information: https://github.com/christinakouridi/arks
 *See below for more code associated with publications.*
 
 # Publications, preprints, code
+**Estimation Beyond Data Reweighting: Kernel Method of Moments**.
+Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023.
+
+**Wasserstein Distributionally Robust Nonlinear Model Predictive Control**.
+Zhengang Zhong, Jia-Jie Zhu. [preprint](https://arxiv.org/abs/2304.07415)
+
+**Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models**.
+Jia-Jie Zhu. [preprint](https://arxiv.org/abs/2304.14057)
+
 **Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions**.
 Heiner Kremer, Jia-Jie Zhu, Krikamol Muandet, and Bernard Schölkopf.
 In the Proceedings of the 39th International Conference on Machine Learning (ICML). PMLR, 2022. [paper](https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf) [poster](https://jj-zhu.github.io/file/fgel_poster_2022.pdf)
