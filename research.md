@@ -73,7 +73,7 @@ More information: https://github.com/christinakouridi/arks
 
 # Publications, preprints, code
 **Estimation Beyond Data Reweighting: Kernel Method of Moments**.
-Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023.
+Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023. [preprint](https://arxiv.org/abs/2305.10898)
 
 **Wasserstein Distributionally Robust Nonlinear Model Predictive Control**.
 Zhengang Zhong, Jia-Jie Zhu. [preprint](https://arxiv.org/abs/2304.07415)
