@@ -3,12 +3,13 @@ layout: page
 published: true
 ---
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 320px;display: block"}
-I am an independent research group leader (equivalent to assistant professor) at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). Prior to coming to Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization, with William Hager at the University of Florida. See [here](/about/) for a short bio. 
+I am an independent research group leader at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/). Prior to Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization, with William Hager at the University of Florida. See [here](/about/) for a short bio. 
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
+- June 2023. Heiner Kremer and Yassine Nemmour gave talks on their works at the Mini-Symposiums at the SIAM Conference on Optimization 2023 in Seattle, Washington.
 - May 2023. Accepted paper at ICML 2023 [(link to preprint)](https://arxiv.org/abs/2305.10898): Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. Estimation Beyond Data Reweighting: Kernel Method of Moments.
 - May 2023. A couple of new preprints available:
     - [Nonlinear Wasserstein Distributionally Robust Optimal Control](https://arxiv.org/abs/2304.07415)
