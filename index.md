@@ -4,14 +4,19 @@ published: true
 ---
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 320px;display: block"}
 I am a research group leader at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/).
-My group focuses on research in state-of-the-art machine learning and optimization, in algorithm, theory, and large-scale computation.
 Prior to Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in numerical optimization, at the University of Florida. See [here](/about/) for a short bio. 
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
+
+My group focuses on research in state-of-the-art machine learning and optimization, in algorithm, theory, and large-scale computation.
+Specifically, I started my research career in numerical optimization, and was interested in the robustness theory for machine learning. That requires us to use computational tools such as optimization algorithms w.r.t. probability distributions, which are infinite-dimensional.
+For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using pricipaled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
+Those optimization algorithms in fact have deep theorectical roots in dynamical system theory such as PDEs.
+Following that and after moving to Berlin, I now dedicate the my research to **interfacing** *large-scale computational algorithms in machine learning/optimization* with *dynamical systems theory such as (PDE) grandiet flows and optimal transport*.
 
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
-- June 2023. Heiner Kremer and Yassine Nemmour gave talks on their works at the Mini-Symposiums at the SIAM Conference on Optimization 2023 in Seattle, Washington.
+- June 2023. Heiner Kremer and Yassine Nemmour gave talks on their works in kernel methods and DRO at the Mini-Symposiums at the SIAM Conference on Optimization 2023 in Seattle, Washington.
 - May 2023. Accepted paper at ICML 2023 [(link to preprint)](https://arxiv.org/abs/2305.10898): Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. Estimation Beyond Data Reweighting: Kernel Method of Moments.
 - May 2023. A couple of new preprints available:
     - [Nonlinear Wasserstein Distributionally Robust Optimal Control](https://arxiv.org/abs/2304.07415)
