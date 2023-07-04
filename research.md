@@ -72,6 +72,10 @@ More information: https://github.com/christinakouridi/arks
 *See below for more code associated with publications.*
 
 # Publications, preprints, code
+**Kernel Mirror Prox and RKHS Gradient Flow for Mixed Functional Nash Equilibrium**.
+Pavel Dvurechensky, Jia-Jie Zhu.
+[preprint](https://jj-zhu.github.io/file/Dvu-Zhu-KMP-MFNE.pdf)
+
 **Estimation Beyond Data Reweighting: Kernel Method of Moments**.
 Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023. [preprint](https://arxiv.org/abs/2305.10898)
 
