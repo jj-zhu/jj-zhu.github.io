@@ -8,7 +8,7 @@ Prior to Berlin, I worked as a postdoctoral researcher in machine learning at th
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 
 My group focuses on research in state-of-the-art machine learning and optimization, in algorithm, theory, and large-scale computation.
-Specifically, I started my research career in numerical optimization, and was interested in the robustness theory for machine learning. That requires us to use computational tools such as optimization algorithms w.r.t. probability distributions, which are infinite-dimensional.
+Specifically, I started my research career in numerical optimization, and was interested in the robustness theory for machine learning. That requires us to use computational tools such as **optimization algorithms over probability distributions**, which are infinite-dimensional.
 For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms in fact have deep theoretical roots in dynamical system theory such as PDEs.
 Following that and after moving to Berlin, I dedicate my current research to *interfacing large-scale computational algorithms in machine learning/optimization with dynamical systems theory such as (PDE) grandiet flows and optimal transport*.
