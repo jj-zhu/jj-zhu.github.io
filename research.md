@@ -79,11 +79,11 @@ Pavel Dvurechensky, Jia-Jie Zhu.
 **Estimation Beyond Data Reweighting: Kernel Method of Moments**.
 Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023. [preprint](https://arxiv.org/abs/2305.10898)
 
+**Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models**.
+Jia-Jie Zhu. To appear in the 62nd IEEE Conference on Decision and Control (CDC). [preprint](https://arxiv.org/abs/2304.14057)
+
 **Wasserstein Distributionally Robust Nonlinear Model Predictive Control**.
 Zhengang Zhong, Jia-Jie Zhu. [preprint](https://arxiv.org/abs/2304.07415)
-
-**Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models**.
-Jia-Jie Zhu. [preprint](https://arxiv.org/abs/2304.14057)
 
 **Functional Generalized Empirical Likelihood Estimation for Conditional Moment Restrictions**.
 Heiner Kremer, Jia-Jie Zhu, Krikamol Muandet, and Bernard Schölkopf.
@@ -96,9 +96,8 @@ To appear in the 61st IEEE Conference on Decision and Control (CDC).
 [slides (summer school)](https://jj-zhu.github.io/file/berlin-oxford_tutorial_kernel_drccsp.pdf)
 - Note: there is an issue with the proof in this paper. We will update with a fix soon.
 
-**Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf. Proceedings of The 25th International Conference on Artificial
-  Intelligence and Statistics, volume 151 of Proceedings of Machine
-  Learning Research, pages 4972--4994. PMLR, 28--30 Mar 2022. [paper](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) [slides (oral)](https://jj-zhu.github.io/file/oral-arks-aistats-2022.pdf) [poster](https://jj-zhu.github.io/file/poster-arks-aistats-2022.pdf)
+**Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf. Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, volume 151 of Proceedings of Machine
+Learning Research, pages 4972--4994. PMLR, 28--30 Mar 2022. [paper](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) [slides (oral)](https://jj-zhu.github.io/file/oral-arks-aistats-2022.pdf) [poster](https://jj-zhu.github.io/file/poster-arks-aistats-2022.pdf)
 
 **Learning Random Feature Dynamics for Uncertainty Quantification**. Diego Agudelo-Espana, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu.
 To appear in the 61st IEEE Conference on Decision and Control (CDC).
