@@ -20,11 +20,20 @@ On the other hand, I am interested in **interfacing dynamical systems and machin
 The dynamics perspective of ML and optimization is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE or SDE)
 
 $$
-\partial _t P_t(x) \in G(P_t(x)),
+\partial _t \mu_t(x) \in G(\mu_t(x)),
 $$
 
 where just as in continuous optimization, the differential equation can be driven forward by the gradient of certain system energy encoded in the functional $$G$$ above.
-Our goal is then to study this time evolution of the data distribution $$P_t(x)$$ for large-scale computation and learning.
+Our goal is then to study this time evolution of the data distribution $$\mu_t(x)$$ for large-scale computation and learning.
+Different from, for example, classical PDE methods, we take a **variational approach to dynamical system**, i.e., we view the time-evolution to be driven by an energy functional $\mathcal E$.
+This is equivalent to viewing the dyanamics as the solution to an optimization problem
+
+$$
+\min_\mu \mathcal F(\mu).
+$$
+
+
+
 
 All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. Some example technical topics include
 
