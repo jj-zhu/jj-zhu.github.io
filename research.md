@@ -25,11 +25,11 @@ $$
 
 where just as in continuous optimization, the differential equation can be driven forward by the gradient of certain system energy encoded in the functional $$G$$ above.
 Our goal is then to study this time evolution of the data distribution $$\mu_t(x)$$ for large-scale computation and learning.
-Different from, for example, classical PDE methods, we take a **variational approach to dynamical system**, i.e., we view the time-evolution to be driven by an energy functional $\mathcal E$.
+Different from, for example, classical PDE methods, we take a **variational approach to dynamical system**, i.e., we view the time-evolution to be driven by an energy functional $$\mathcal E$$.
 This is equivalent to viewing the dyanamics as the solution to an optimization problem
 
 $$
-\min_\mu \mathcal F(\mu).
+\min_\mu \mathcal{E}(\mu).
 $$
 
 
