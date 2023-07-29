@@ -16,7 +16,7 @@ Following that and after moving to Berlin, I dedicate my current research to *in
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
-- I will give an invited talk at the [ICML Workshop on Duality Principles for Modern Machine Learning](https://dp4ml.github.io/).
+- I will give an invited talk at the [ICML Workshop on Duality Principles for Modern Machine Learning](https://dp4ml.github.io/). The slides will be available here.
 - July 2023. Accepted paper at CDC 2023: [Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models](https://arxiv.org/abs/2304.14057)
     - In this paper, I discovered the ambiguity set and geometric structure that can be propagted in nonlinear data-driven dynamics models. This is the first algorithm that can quantify the undertainty of uncertainty -- ambiguity of a data-driven Koopman operator and kernel conditional mean embedding model.
 - June 2023. Heiner Kremer and Yassine Nemmour gave talks on their works in kernel methods and DRO at the Mini-Symposiums at the SIAM Conference on Optimization 2023 in Seattle, Washington.
