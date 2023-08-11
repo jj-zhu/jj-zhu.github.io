@@ -30,12 +30,6 @@ To get in touch, click the icon at the bottom of the page.
 - Served as area chair for AISTATS 2023.  
 - Sep 2022. [Here are the slides](https://jj-zhu.github.io/file/Eindhoven-OT-workshop-2022-Zhu.pdf) for a recent talk I gave at the OT workshop at TU Eindhoven.
 - Aug 2022. [Here (in both German and English)](https://jj-zhu.github.io/file/fvb-journal-interview.pdf) is a recent journal interview about my career path.
-- Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control.  
-[ICML paper on conditional moment problems for ML and causal inference](https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf)  
-[IEEE CDC paper on distributionally robust chance-constraint nonlinear optimization (preprint)](https://arxiv.org/pdf/2204.11564.pdf)  
-[IEEE CDC paper on learning uncertain-aware dynamics with large-scale kernel machines (preprint)](https://arxiv.org/pdf/2106.13066.pdf)  
-
-- Jul 2022. I'm teaching a minicourse for the TU Berlin-Oxford IRTG Stochastic Analysis Ph.D. program. See [exercise files and lecture notes](/teaching/).
 
 #### Twitter feed
 <a class="twitter-timeline" data-width="800" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
