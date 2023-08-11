@@ -11,17 +11,19 @@ My group focuses on research in state-of-the-art machine learning and optimizati
 Specifically, I started my research career in numerical optimization, and was interested in the robustness theory for machine learning. That requires us to use computational tools such as **optimization algorithms over probability distributions**, which are infinite-dimensional.
 For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms in fact have deep theoretical roots in dynamical system theory such as PDEs.
-Following that and after moving to Berlin, I dedicate my current research to *interfacing large-scale computational algorithms in machine learning/optimization with dynamical systems theory such as (PDE) grandiet flows and optimal transport*.
+Following that and after moving to Berlin, I dedicate my current research to *interfacing large-scale computational algorithms in machine learning/optimization with dynamical systems theory such as (PDE) gradient flows and optimal transport*.
 
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
-- I gave an invited talk at the [ICML Workshop on Duality Principles for Modern Machine Learning](https://dp4ml.github.io/). The slides are available [here](https://jj-zhu.github.io/file/duality-ICML-2023-Zhu.pdf).
+- I will be teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24. More information coming soon.
+- I will teach a mini-course on optimization and dynamics, introducing (beginner-friendly) concepts of gradient flows from the optimization perspective at the [International Workshop of Intelligent Autonomous Learning Systems 2023](https://www.ias.informatik.tu-darmstadt.de/Workshops/IWIALS2023). The lecture notes will be available here.
+- July 2023. I gave an invited talk at the [ICML 2023 Workshop on Duality Principles for Modern Machine Learning](https://dp4ml.github.io/). The slides are available [here](https://jj-zhu.github.io/file/duality-ICML-2023-Zhu.pdf).
 - July 2023. Accepted paper at CDC 2023: [Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models](https://arxiv.org/abs/2304.14057)
     - In this paper, I discovered the ambiguity set and geometric structure that can be propagated in nonlinear data-driven dynamics models. This is the first algorithm that can quantify the uncertainty of uncertainty -- the ambiguity of data-driven Koopman operators and kernel conditional mean embedding models.
 - June 2023. Heiner Kremer and Yassine Nemmour gave talks on their works in kernel methods and DRO at the Mini-Symposiums at the SIAM Conference on Optimization 2023 in Seattle, Washington.
 - May 2023. Accepted paper at ICML 2023 [(link to preprint)](https://arxiv.org/abs/2305.10898): Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. Estimation Beyond Data Reweighting: Kernel Method of Moments.
-- May 2023. A couple of new preprints available:
+- May 2023. A couple of new preprints are available:
     - [Nonlinear Wasserstein Distributionally Robust Optimal Control](https://arxiv.org/abs/2304.07415)
     - [Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models](https://arxiv.org/abs/2304.14057)
 - Apr 2023. Gave a plenary talk at the Leibniz Institute for Agricultural Engineering and Bioeconomy Potsdam, during the workshop "Mathematical Modeling and Simulation" (MMS) Days.
@@ -31,7 +33,7 @@ To get in touch, click the icon at the bottom of the page.
 - Jul 2022. A few new publications at ICML and IEEE-CDC continuing previous works on kernel methods for robust optimization and control.  
 [ICML paper on conditional moment problems for ML and causal inference](https://proceedings.mlr.press/v162/kremer22a/kremer22a.pdf)  
 [IEEE CDC paper on distributionally robust chance-constraint nonlinear optimization (preprint)](https://arxiv.org/pdf/2204.11564.pdf)  
-[IEEE CDC paper on learning uncertain-aware dyanmics with large-scale kernel machines (preprint)](https://arxiv.org/pdf/2106.13066.pdf)  
+[IEEE CDC paper on learning uncertain-aware dynamics with large-scale kernel machines (preprint)](https://arxiv.org/pdf/2106.13066.pdf)  
 
 - Jul 2022. I'm teaching a minicourse for the TU Berlin-Oxford IRTG Stochastic Analysis Ph.D. program. See [exercise files and lecture notes](/teaching/).
 
