@@ -7,7 +7,9 @@ published: true
 # Recent
 - Winter 2023/24. I will be teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with [Vladimir Spokoinyi](https://www.wias-berlin.de/people/spokoiny/), in term 2023/24. More information coming soon.
 
-- August 2023. I will teach a mini-course on optimization and dynamics, introducing (beginner-friendly) concepts of gradient flows from the optimization perspective at the [International Workshop of Intelligent Autonomous Learning Systems 2023](https://www.ias.informatik.tu-darmstadt.de/Workshops/IWIALS2023). The lecture notes will be available here.
+- August 2023. I taught a mini-course on the optimization perspective of gradient flow dynamics, introducing (beginner-friendly) concepts of gradient flows in the Eulidean and Wasserstein space, at the [Workshop of Intelligent Autonomous Learning Systems 2023](https://www.ias.informatik.tu-darmstadt.de/Workshops/IWIALS2023). Lecture slides available:  
+  - [slides for the mini-course](https://jj-zhu.github.io/file/IWIAS-mini-course-opt-gf-aug-2023-nopause.pdf)
+  - [slides for the introduction to our research](https://jj-zhu.github.io/file/IWIAS-2023-intro-zhu.pdf)
 
 - July 2022, Ph.D. mini-couse on Data-Driven Modeling and Optimization of Dynamical Systems under Uncertainty, TU Berlin-Oxford IRTG Stochastic Analysis, TU Berlin, Berlin, Germany
   - [Website](https://www3.math.tu-berlin.de/stoch/IRTG/mini-course-2022-machine-learning/)
