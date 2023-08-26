@@ -86,7 +86,7 @@ Pavel Dvurechensky, Jia-Jie Zhu.
 [preprint](https://jj-zhu.github.io/file/Dvu-Zhu-KMP-MFNE.pdf)
 
 **Estimation Beyond Data Reweighting: Kernel Method of Moments**.
-Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023. [preprint](https://arxiv.org/abs/2305.10898)
+Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023. [paper](https://proceedings.mlr.press/v202/kremer23a/kremer23a.pdf)
 
 **Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models**.
 Jia-Jie Zhu. To appear in the 62nd IEEE Conference on Decision and Control (CDC). [preprint](https://arxiv.org/abs/2304.14057)
