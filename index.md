@@ -17,6 +17,7 @@ Following that and after moving to Berlin, I dedicate my current research to *in
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
+- I talked about the gradient flow force-balance, especially in robust learning under (strong) structured distribution shifts, and conditional moment restriction for causal inference at [EUCCO 2023](https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/), at Heidelberg University. [Talk slides available](https://jj-zhu.github.io/file/Heidelberg-EUCCO-2023-Zhu.pdf)
 - I'm organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
 ot-berlin-2024) (OT-DOM) in Berlin, Germany. March 11th - 15th, 2024. More information coming soon.
 - I will be teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24. More information coming soon.
