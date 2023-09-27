@@ -16,6 +16,8 @@ Following that and after moving to Berlin, I dedicate my current research to *in
 
 To get in touch, click the icon at the bottom of the page.
 
+[New] We have a **postdoc position opening** in Berlin, in the intersection between (reduced-order) data-driven PDE dynamics modeling for medical imaging, and machine learning. Please contact if you are interested and have relevant background in PDE/numerical analysis/medical imaging.
+
 ### News and updates
 - I talked about the gradient flow force-balance, especially in robust learning under (strong) structured distribution shifts, and conditional moment restriction for causal inference at [EUCCO 2023](https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/), at Heidelberg University. [Talk slides available](https://jj-zhu.github.io/file/Heidelberg-EUCCO-2023-Zhu.pdf)
 - I'm organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
