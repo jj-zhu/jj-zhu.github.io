@@ -13,10 +13,10 @@ Specifically, I started my research career in numerical optimization, and was in
 For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms in fact have deep theoretical roots in dynamical system theory such as PDEs.
 Following that and after moving to Berlin, I dedicate my current research to *interfacing large-scale computational algorithms in machine learning/optimization with dynamical systems theory such as (PDE) gradient flows and optimal transport*.
+Below is a high-level illustration of my research journey
+![research journey](/images/bg-jz.png)
 
 To get in touch, click the icon at the bottom of the page.
-
-[New] We have a **postdoc position opening** in Berlin, in the intersection between (reduced-order) data-driven PDE dynamics modeling for medical imaging, and machine learning. Please contact if you are interested and have relevant background in PDE/numerical analysis/medical imaging.
 
 ### News and updates
 - I am teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24. More information coming soon.
