@@ -19,10 +19,12 @@ Below is a high-level illustration of my research journey
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
-- I am teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24. More information coming soon.
-- I talked about the gradient flow force-balance, especially in robust learning under (strong) structured distribution shifts, and conditional moment restriction for causal inference at [EUCCO 2023](https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/), at Heidelberg University. [Talk slides available](https://jj-zhu.github.io/file/Heidelberg-EUCCO-2023-Zhu.pdf)
-- I'm organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
+- I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
 ot-berlin-2024) (OT-DOM) in Berlin, Germany. March 11th - 15th, 2024. More information coming soon.
+- I am teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24. More information coming soon.
+- Recent talks on gradient flow force-balance, especially in robust learning under (strong) structured distribution shifts, and conditional moment restriction for causal inference at 
+  - [Slides for talk at the Basque Center for Applied Mathematics, Bilbao, Basque Country, Spain](https://jj-zhu.github.io/file/bcam-zhu-rob-2024.pdf)
+  - [EUCCO 2023](https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/), at Heidelberg University. [Talk slides available](https://jj-zhu.github.io/file/Heidelberg-EUCCO-2023-Zhu.pdf)
 - I taught a mini-course on the optimization perspective of gradient flow dynamics, introducing (beginner-friendly) concepts of gradient flows in the Eulidean and Wasserstein space, at the [Workshop of Intelligent Autonomous Learning Systems 2023](https://www.ias.informatik.tu-darmstadt.de/Workshops/IWIALS2023). Lecture slides available:  
   - [slides for the mini-course](https://jj-zhu.github.io/file/IWIAS-mini-course-opt-gf-aug-2023-nopause.pdf)
   - [slides for the introduction to our research](https://jj-zhu.github.io/file/IWIAS-2023-intro-zhu.pdf)
