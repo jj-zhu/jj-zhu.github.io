@@ -25,8 +25,8 @@ $$
 
 where just as in continuous optimization, the differential equation can be driven forward by the gradient of certain system energy encoded in the functional $$G$$ above.
 Our goal is then to study this time evolution of the data distribution $$\mu_t(x)$$ for large-scale computation and learning.
-Different from, for example, classical PDE methods, we take a **variational approach to dynamical system**, i.e., we view the time-evolution to be driven by an energy functional $$\mathcal E$$.
-This is equivalent to viewing the dyanamics as the solution to an optimization problem
+Different from, for example, classical PDE methods, we take a **variational approach to dynamical systems**, i.e., we view the time-evolution to be driven by an energy functional $$\mathcal E$$.
+This is equivalent to viewing the dynamics as the solution to an optimization problem
 
 $$
 \min_\mu \mathcal{E}(\mu).
@@ -64,10 +64,15 @@ More information: https://github.com/jj-zhu/kdro
 
 ![K-DRO thumbnail](/images/aistats21kdro_thumbnail.png)
 
+### K-MoM - Kernel Method of Moments
+This software repository contains several state-of-the-art estimation tools for (conditional) moment restriction problems, e.g., for instrumental variable (IV) regression. 
+
+More information: https://github.com/HeinerKremer/conditional-moment-restrictions
+
 ### MMD-DR-CCSP -- Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Programming
 
 MMD-DR-CCSP applies the Kernel Distributionally Robust Optimization methodology.
-Compared with other DR-CCSP algorithm, it can handle nonlinear chnances constraints with computable finite-sample guarantees.
+Compared with other DR-CCSP algorithms, it can handle nonlinear change constraints with computable finite-sample guarantees.
 
 More information: https://github.com/yasnem/CC_Tutorial_TUB_Oxford
 
