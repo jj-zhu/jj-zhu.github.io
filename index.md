@@ -4,14 +4,14 @@ published: true
 ---
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 320px;display: block"}
 I am the head of an independent research group at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/).
-Prior to Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in numerical optimization, at the University of Florida. See [here](/about/) for a short bio. 
+Before Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in numerical optimization, at the University of Florida. See [here](/about/) for a short bio. 
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). Though the frequency of updates depends on how busy I am at the moment.
 
 My group focuses on research in state-of-the-art machine learning and optimization, in algorithm, theory, and large-scale computation.
-Specifically, I started my research career in numerical optimization, and was interested in the robustness theory for machine learning. That requires us to use computational tools such as **optimization algorithms over probability distributions**, which are infinite-dimensional. That led me to my current interests in **(PDE) gradient flows of probability measures and variational approach to dynamical systems**, for optimization and computational machine learning.
+Specifically, I started my research career in numerical optimization and was interested in the robustness theory for machine learning. That requires us to use computational tools such as **optimization algorithms over probability distributions**, which are infinite-dimensional. That led me to my current interests in **(PDE) gradient flows of probability measures and variational approach to dynamical systems**, for optimization and computational machine learning.
 
 For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
-Those optimization algorithms in fact have deep theoretical roots in dynamical system theory such as PDEs.
+Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
 Following that and after moving to Berlin, I dedicate my current research to *interfacing large-scale computational algorithms in machine learning/optimization with dynamical systems theory such as (PDE) gradient flows and optimal transport*.
 Below is a high-level illustration of my research journey
 ![research journey](/images/bg-jz.png)
