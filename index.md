@@ -19,6 +19,7 @@ Below is a high-level illustration of my research journey
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
+- [**Position available**] Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.
 - I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
 ot-berlin-2024) (OT-DOM) in Berlin, Germany. March 11th - 15th, 2024. More information coming soon.
 - I am teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24. More information coming soon.
