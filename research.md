@@ -20,7 +20,7 @@ On the other hand, I am interested in **interfacing dynamical systems and machin
 The dynamics perspective of ML and optimization is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE or SDE)
 
 $$
-\partial _t \mu_t(x) \in G(\mu_t(x)),
+\partial _t \mu_t(x) = f(\mu_t(x)),
 $$
 
 where just as in continuous optimization, the differential equation can be driven forward by the gradient of certain system energy encoded in the functional $$G$$ above.
@@ -37,14 +37,15 @@ $$
 
 All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. Some example technical topics include
 
++ machine learning applications of optimal transport and kernel methods; generative models
 + robust machine learning, learning under distribution shift
 + distributionally robust optimization, optimization under uncertainty
 + numerical optimization, numerical methods
-+ data-driven modeling of dynamical systems and physics
-+ control, multi-stage decision-making
-+ generative models, machine learning applications of optimal transport and kernel methods
++ control, dynamical systems, multi-stage decision-making
 
-![group photo 2022](/images/group_photo_2022_berlin.jpg)
+Below is a high-level illustration of my research journey
+![research journey](/images/bg-jz.jpeg)
+
 
 # Previous projects
 - Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
@@ -52,38 +53,6 @@ All those research topics call for **a new generation of computational algorithm
   - [Project poster](https://jj-zhu.github.io/file/kdro_2022_poster.pdf)
 - Marie Skołodowska-Curie Individual Fellowship on learning-control algorithms, Max Planck Institute for Intelligent Systems, Tübingen
 - (More under construction ...)
-
-# Software
-
-### K-DRO -- Kernel Distributionally Robust Optimization
-
-K-DRO is the software implementation of Kernel Distributionally Robust Optimization (DRO), a robust machine learning and optimization algorithm that can handle nonlinear non-convex loss and model functions.
-It is based on a dual reformulation that turns an DRO problem into a kernel learning problem. The intuition is to find a smooth kernel function that majorizes the original loss, as demonstrated in the illustration below.
-
-More information: https://github.com/jj-zhu/kdro
-
-![K-DRO thumbnail](/images/aistats21kdro_thumbnail.png)
-
-### K-MoM - Kernel Method of Moments
-This software repository contains several state-of-the-art estimation tools for (conditional) moment restriction problems, e.g., for instrumental variable (IV) regression. 
-
-More information: https://github.com/HeinerKremer/conditional-moment-restrictions
-
-### MMD-DR-CCSP -- Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Programming
-
-MMD-DR-CCSP applies the Kernel Distributionally Robust Optimization methodology.
-Compared with other DR-CCSP algorithms, it can handle nonlinear change constraints with computable finite-sample guarantees.
-
-More information: https://github.com/yasnem/CC_Tutorial_TUB_Oxford
-
-### ARKS -- Adversarially Robust Kernel Smoothing
-
-ARKS is a large-scale implementation of kernel methods for distributionally robust optimization.
-It is based on the idea of using a diffusion process to robustify the learning algorithms.
-
-More information: https://github.com/christinakouridi/arks
-
-*See below for more code associated with publications.*
 
 # Publications, preprints, code
 **Kernel Mirror Prox and RKHS Gradient Flow for Mixed Functional Nash Equilibrium**.
@@ -154,3 +123,35 @@ To appear in the 61st IEEE Conference on Decision and Control (CDC).
 
 **A Decentralized Multi-Block Algorithm for Demand-Side Primary Frequency Control Using Local Frequency Measurements.** J. Brooks, W. Hager, J.J. Zhu, 2015. 
 [paper](https://arxiv.org/pdf/1509.08206.pdf)
+
+# Open-source code
+
+### K-DRO -- Kernel Distributionally Robust Optimization
+
+K-DRO is the software implementation of Kernel Distributionally Robust Optimization (DRO), a robust machine learning and optimization algorithm that can handle nonlinear non-convex loss and model functions.
+It is based on a dual reformulation that turns an DRO problem into a kernel learning problem. The intuition is to find a smooth kernel function that majorizes the original loss, as demonstrated in the illustration below.
+
+More information: https://github.com/jj-zhu/kdro
+
+![K-DRO thumbnail](/images/aistats21kdro_thumbnail.png)
+
+### K-MoM - Kernel Method of Moments
+This software repository contains several state-of-the-art estimation tools for (conditional) moment restriction problems, e.g., for instrumental variable (IV) regression. 
+
+More information: https://github.com/HeinerKremer/conditional-moment-restrictions
+
+### MMD-DR-CCSP -- Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Programming
+
+MMD-DR-CCSP applies the Kernel Distributionally Robust Optimization methodology.
+Compared with other DR-CCSP algorithms, it can handle nonlinear change constraints with computable finite-sample guarantees.
+
+More information: https://github.com/yasnem/CC_Tutorial_TUB_Oxford
+
+### ARKS -- Adversarially Robust Kernel Smoothing
+
+ARKS is a large-scale implementation of kernel methods for distributionally robust optimization.
+It is based on the idea of using a diffusion process to robustify the learning algorithms.
+
+More information: https://github.com/christinakouridi/arks
+
+*See above for more code associated with publications.*

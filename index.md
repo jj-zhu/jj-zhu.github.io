@@ -13,8 +13,6 @@ Specifically, I started my research career in numerical optimization and was int
 For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
 Following that and after moving to Berlin, I dedicate my current research to *interfacing large-scale computational algorithms in machine learning/optimization with dynamical systems theory such as (PDE) gradient flows and optimal transport*.
-Below is a high-level illustration of my research journey
-![research journey](/images/bg-jz.png)
 
 To get in touch, click the icon at the bottom of the page.
 
