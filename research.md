@@ -16,14 +16,14 @@ $$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} l(f_\theta(X), Y),$$
 
 where the underlying data distribution $$P$$ is not the typical empirical average distribution used in statistical learning risk minimization $$ \min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
 
-On the other hand, I am interested in **interfacing dynamical systems and machine learning** (e.g., gradient flow, PDE theory for optimal transport, feedback control theory, robustness of deep learning models, generative models), aiming at building robust and scalable optimization and learning algorithms. 
+On the other hand, I am interested in **interfacing dynamical systems and machine learning** (e.g., gradient flow, PDE theory for optimal transport, feedback control theory, robustness of deep learning models, and generative models), aiming at building robust and scalable optimization and learning algorithms. 
 The dynamics perspective of ML and optimization is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE or SDE)
 
 $$
-\partial _t \mu_t(x) = f(\mu_t(x)),
+\partial _t \mu_t(x) = \mathcal L(\mu_t(x)),
 $$
 
-where just as in continuous optimization, the differential equation can be driven forward by the gradient of certain system energy encoded in the functional $$G$$ above.
+where just as in continuous optimization, the differential equation can be driven by the gradient of certain system energy encoded in the operator $$\mathcal L$$.
 Our goal is then to study this time evolution of the data distribution $$\mu_t(x)$$ for large-scale computation and learning.
 Different from, for example, classical PDE methods, we take a **variational approach to dynamical systems**, i.e., we view the time-evolution to be driven by an energy functional $$\mathcal E$$.
 This is equivalent to viewing the dynamics as the solution to an optimization problem
