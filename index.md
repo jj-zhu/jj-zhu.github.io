@@ -23,6 +23,7 @@ To get in touch, click the icon at the bottom of the page.
 - PhD position: there is no opening at this moment. But please feel free to get in touch if you are looking and expect to start in 2024.
 
 ### News and updates
+- Our paper "Analysis of Kernel Mirror Prox for Measure Optimization" has been accepted for publication at AISTATS 2024. Joint work with Pavel Dvurechensky.
 - I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
 ot-berlin-2024) (OT-DOM) in Berlin, Germany. March 11th - 15th, 2024. More information coming soon.
 - I am teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24. More information coming soon.
