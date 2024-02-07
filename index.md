@@ -5,11 +5,11 @@ published: true
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 320px;display: block"}
 I am the head of an independent research group at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/).
 Before Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in numerical optimization, at the University of Florida. See [here](/about/) for a short bio. 
-I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However the frequency of updates depends on how busy I am at the moment.
+I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the frequency of updates depends on how busy I am at the moment.
 
-Overall, I am interested in computation and dynamical systems.
-My group focuses on research in state-of-the-art machine learning and optimization, in algorithm, theory, and large-scale computation.
-Specifically, I started my research career in numerical optimization and was interested in the robustness theory for machine learning. That requires us to use computational tools such as **optimization algorithms over probability distributions**, which are infinite-dimensional. That led me to my current interests in **(PDE) gradient flows of probability measures and variational approach to dynamical systems**, for optimization and computational machine learning.
+Overall, I am interested in computational algorithms and dynamical systems.
+My group focuses on research in state-of-the-art machine learning and optimization.
+Specifically, I started my research career in numerical optimization and was interested in the robustness theory for machine learning. That requires us to use computational tools such as **optimization algorithms over probability distributions**, which are inherently infinite-dimensional. That led me to my current interests in **gradient flows of probability measures and variational approach to dynamical systems**, for optimization and computational machine learning.
 
 For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
@@ -17,13 +17,8 @@ Following that and after moving to Berlin, I dedicate my current research to *in
 
 To get in touch, click the icon at the bottom of the page.
 
-### Open positions
-- Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.
-- Master thesis: if you are a master's student at a Berlin university and interested in generative models and dynamical systems, e.g., diffusion models, neural ODE, please feel free to reach out.
-- PhD position: there is no opening at this moment. But please feel free to get in touch if you are looking and expect to start in 2024.
-
 ### News and updates
-- New preprint available: [Zhu and Mielke, Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.
+- New preprint available: [Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.
 - Our paper "Analysis of Kernel Mirror Prox for Measure Optimization" has been accepted for publication at AISTATS 2024. Joint work with Pavel Dvurechensky.
 - I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
 ot-berlin-2024) (OT-DOM) in Berlin, Germany. March 11th - 15th, 2024. More information coming soon.
@@ -46,7 +41,11 @@ ot-berlin-2024) (OT-DOM) in Berlin, Germany. March 11th - 15th, 2024. More infor
 - Served as area chair for AISTATS 2023.  
 - Sep 2022. [Here are the slides](https://jj-zhu.github.io/file/Eindhoven-OT-workshop-2022-Zhu.pdf) for a recent talk I gave at the OT workshop at TU Eindhoven.
 
-#### Twitter feed
+### Open positions
+- Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.
+- Master thesis: if you are a master's student at a Berlin university and interested in generative models and dynamical systems, e.g., diffusion models, neural ODE, please feel free to reach out.
+- PhD position: there is no opening at this moment. But please feel free to get in touch if you are looking and expect to start in 2024.
+
+
+### Twitter feed
 <a class="twitter-timeline" data-width="800" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
