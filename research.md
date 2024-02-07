@@ -55,9 +55,13 @@ Below is a high-level illustration of my research journey
 - (More under construction ...)
 
 # Publications, preprints, code
-**Kernel Mirror Prox and RKHS Gradient Flow for Mixed Functional Nash Equilibrium**.
+**Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao**.
+Jia-Jie Zhu, Alexander Mielke.
+[preprint](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
+
+**Analysis of Kernel Mirror Prox for Measure Optimization**.
 Pavel Dvurechensky, Jia-Jie Zhu.
-[preprint](https://jj-zhu.github.io/file/Dvu-Zhu-KMP-MFNE.pdf)
+AISTATS 2024 (accepted)
 
 **Estimation Beyond Data Reweighting: Kernel Method of Moments**.
 Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023. [paper](https://proceedings.mlr.press/v202/kremer23a/kremer23a.pdf) [code](https://github.com/HeinerKremer/conditional-moment-restrictions)

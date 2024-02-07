@@ -31,15 +31,12 @@ ot-berlin-2024) (OT-DOM) in Berlin, Germany. March 11th - 15th, 2024. More infor
   - [slides for the introduction to our research](https://jj-zhu.github.io/file/IWIAS-2023-intro-zhu.pdf)
 - July 2023. I gave an invited talk at the [ICML 2023 Workshop on Duality Principles for Modern Machine Learning](https://dp4ml.github.io/). The slides are available [here](https://jj-zhu.github.io/file/duality-ICML-2023-Zhu.pdf).
 - July 2023. Accepted paper at CDC 2023: [Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models](https://arxiv.org/abs/2304.14057)
-    - In this paper, I discovered the ambiguity set and geometric structure that can be propagated in nonlinear data-driven dynamics models. This is the first algorithm that can quantify the uncertainty of uncertainty -- the ambiguity of data-driven Koopman operators and kernel conditional mean embedding models.
-- June 2023. Heiner Kremer and Yassine Nemmour gave talks on their works in kernel methods and DRO at the Mini-Symposiums at the SIAM Conference on Optimization 2023 in Seattle, Washington.
 - May 2023. Accepted paper at ICML 2023 [(link to preprint)](https://arxiv.org/abs/2305.10898): Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. Estimation Beyond Data Reweighting: Kernel Method of Moments.
 - May 2023. A couple of new preprints are available:
     - [Nonlinear Wasserstein Distributionally Robust Optimal Control](https://arxiv.org/abs/2304.07415)
     - [Propagating Kernel Ambiguity Sets in Nonlinear Data-driven Dynamics Models](https://arxiv.org/abs/2304.14057)
 - Apr 2023. Gave a plenary talk at the Leibniz Institute for Agricultural Engineering and Bioeconomy Potsdam, during the workshop "Mathematical Modeling and Simulation" (MMS) Days.
 - Served as area chair for AISTATS 2023.  
-- Sep 2022. [Here are the slides](https://jj-zhu.github.io/file/Eindhoven-OT-workshop-2022-Zhu.pdf) for a recent talk I gave at the OT workshop at TU Eindhoven.
 
 ### Open positions
 - Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.
