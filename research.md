@@ -59,6 +59,10 @@ Below is a high-level illustration of my research journey
 Jia-Jie Zhu, Alexander Mielke.
 [preprint](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
 
+**An Inexact Halpern Iteration with Application to Distributionally Robust Optimization**.
+Ling Liang, Kim-Chuan Toh, Jia-Jie Zhu.
+[preprint](https://arxiv.org/abs/2402.06033)
+
 **Analysis of Kernel Mirror Prox for Measure Optimization**.
 Pavel Dvurechensky, Jia-Jie Zhu.
 AISTATS 2024 (accepted)

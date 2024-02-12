@@ -18,7 +18,9 @@ Following that and after moving to Berlin, I dedicate my current research to *in
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
-- New preprint available: [Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.
+- New preprints available:
+  - [Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.
+  - [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://arxiv.org/abs/2402.06033). Joint work with Ling Liang and Kim-Chuan Toh.
 - Our paper "Analysis of Kernel Mirror Prox for Measure Optimization" has been accepted for publication at AISTATS 2024. Joint work with Pavel Dvurechensky.
 - I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
 ot-berlin-2024) (OT-DOM) in Berlin, Germany. March 11th - 15th, 2024. More information coming soon.
