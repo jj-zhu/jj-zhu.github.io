@@ -46,14 +46,6 @@ All those research topics call for **a new generation of computational algorithm
 Below is a high-level illustration of my research journey
 ![research journey](/images/bg-jz.jpeg)
 
-
-# Previous projects
-- Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
-  - [Link to the project page](https://ei.is.mpg.de/research_projects/optimization)
-  - [Project poster](https://jj-zhu.github.io/file/kdro_2022_poster.pdf)
-- Marie Skołodowska-Curie Individual Fellowship on learning-control algorithms, Max Planck Institute for Intelligent Systems, Tübingen
-- (More under construction ...)
-
 # Publications, preprints, code
 **Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao**.
 Jia-Jie Zhu, Alexander Mielke.
@@ -132,7 +124,16 @@ To appear in the 61st IEEE Conference on Decision and Control (CDC).
 **A Decentralized Multi-Block Algorithm for Demand-Side Primary Frequency Control Using Local Frequency Measurements.** J. Brooks, W. Hager, J.J. Zhu, 2015. 
 [paper](https://arxiv.org/pdf/1509.08206.pdf)
 
+# Previous projects
+- Kernel machine learning for distributionally robust optimization, Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen
+  - [Link to the project page](https://ei.is.mpg.de/research_projects/optimization)
+  - [Project poster](https://jj-zhu.github.io/file/kdro_2022_poster.pdf)
+- Marie Skołodowska-Curie Individual Fellowship on learning-control algorithms, Max Planck Institute for Intelligent Systems, Tübingen
+- (More under construction ...)
+
 # Open-source code
+
+*See above for more code associated with publications.*
 
 ### K-DRO -- Kernel Distributionally Robust Optimization
 
@@ -161,5 +162,3 @@ ARKS is a large-scale implementation of kernel methods for distributionally robu
 It is based on the idea of using a diffusion process to robustify the learning algorithms.
 
 More information: https://github.com/christinakouridi/arks
-
-*See above for more code associated with publications.*
