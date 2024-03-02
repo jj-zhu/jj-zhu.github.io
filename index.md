@@ -4,16 +4,17 @@ published: true
 ---
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 320px;display: block"}
 I am the head of an independent research group at the [Weierstrass Institute for Applied Analysis and Stochastics, Berlin](https://www.wias-berlin.de/).
-Before Berlin, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in numerical optimization, at the University of Florida. See [here](/about/) for a short bio. 
-I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the frequency of updates depends on how busy I am at the moment.
+Previously, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization and numerical analysis, at the University of Florida. See [here](/about/) for a short bio. 
+I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
 Overall, I am interested in computational algorithms and dynamical systems.
 My group focuses on research in state-of-the-art machine learning and optimization.
-Specifically, I started my research career in numerical optimization and was interested in the robustness theory for machine learning. That requires us to use computational tools such as **optimization algorithms over probability distributions**, which are inherently infinite-dimensional. That led me to my current interests in **gradient flows of probability measures and variational approach to dynamical systems**, for optimization and computational machine learning.
+Specifically, I started my research career in optimization and subsequently became interested in the robustness theory for machine learning. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning and optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport of probability measures**.
 
 For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
-Following that and after moving to Berlin, I dedicate my current research to *interfacing large-scale computational algorithms in machine learning/optimization with dynamical systems theory such as (PDE) gradient flows and optimal transport*.
+Following that and after moving to Berlin, I dedicate my current research to interfacing large-scale computational algorithms in machine learning/optimization with dynamical system theory such as (PDE) gradient flows and optimal transport.
+Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space) and collaborated with Alexander Mielke on [the deep connection between kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
 
 To get in touch, click the icon at the bottom of the page.
 
@@ -42,7 +43,7 @@ ot-berlin-2024) (OT-DOM) in Berlin, Germany.
 
 ### Open positions
 - Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.
-- Master thesis: if you are a master's student at a Berlin university and interested in generative models and dynamical systems, e.g., diffusion models, neural ODE, please feel free to reach out.
+- Master thesis: if you are a master's student at a Berlin university and interested in optimization, optimal transport, generative models and dynamical systems, e.g., diffusion models, neural ODE, please feel free to reach out.
 - PhD position: there is no opening at this moment. But please feel free to get in touch if you are looking and expect to start in 2024.
 
 
