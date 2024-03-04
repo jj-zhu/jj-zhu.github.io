@@ -23,8 +23,8 @@ To get in touch, click the icon at the bottom of the page.
 ot-berlin-2024) (OT-DOM) in Berlin, Germany.
 - New preprints available:
   - [Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.
+  - [Analysis of Kernel Mirror Prox for Measure Optimization](https://arxiv.org/abs/2403.00147). Accepted for publication at AISTATS 2024. Joint work with Pavel Dvurechensky.
   - [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://arxiv.org/abs/2402.06033). Joint work with Ling Liang and Kim-Chuan Toh.
-- Our paper "Analysis of Kernel Mirror Prox for Measure Optimization" has been accepted for publication at AISTATS 2024. Joint work with Pavel Dvurechensky.
 - I am teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24.
 - Recent talks on gradient flow force-balance, especially in robust learning under (strong) structured distribution shifts, and conditional moment restriction for causal inference at 
   - [Slides for talk at the Basque Center for Applied Mathematics, Bilbao, Basque Country, Spain](https://jj-zhu.github.io/file/bcam-zhu-rob-2024.pdf)
