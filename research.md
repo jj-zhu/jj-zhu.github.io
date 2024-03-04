@@ -57,7 +57,7 @@ Ling Liang, Kim-Chuan Toh, Jia-Jie Zhu.
 
 **Analysis of Kernel Mirror Prox for Measure Optimization**.
 Pavel Dvurechensky, Jia-Jie Zhu.
-AISTATS 2024 (accepted)
+AISTATS 2024 (accepted) [preprint](https://arxiv.org/abs/2403.00147)
 
 **Estimation Beyond Data Reweighting: Kernel Method of Moments**.
 Heiner Kremer, Yassine Nemmour, Bernhard Sch ̈olkopf, and Jia-Jie Zhu. In (to appear) Proceedings of the 40th International Conference on Machine Learning, Proceedings of Machine Learning Research. PMLR, 2023. [paper](https://proceedings.mlr.press/v202/kremer23a/kremer23a.pdf) [code](https://github.com/HeinerKremer/conditional-moment-restrictions)
