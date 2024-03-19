@@ -14,13 +14,13 @@ Specifically, I started my research career in optimization and subsequently beca
 For example, in some of my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
 Following that and after moving to Berlin, I dedicate my current research to interfacing large-scale computational algorithms in machine learning/optimization with dynamical system theory such as (PDE) gradient flows and optimal transport.
-Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space) and collaborated with Alexander Mielke on [the deep connection between kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
+Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space) and collaborated with Alexander Mielke on [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (Spherical-)Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
 
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
 - March 11th - 15th, 2024. I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
-ot-berlin-2024) (OT-DOM) in Berlin, Germany.
+ot-berlin-2024) (OT-DOM) in Berlin, Germany. See [program and slides](https://sites.google.com/view/ot-berlin-2024/program-slides?authuser=0)
 - New preprints available:
   - [Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.
   - [Analysis of Kernel Mirror Prox for Measure Optimization](https://arxiv.org/abs/2403.00147). Accepted for publication at AISTATS 2024. Joint work with Pavel Dvurechensky.
