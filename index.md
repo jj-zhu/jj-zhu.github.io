@@ -19,8 +19,7 @@ Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
-- March 11th - 15th, 2024. I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/
-ot-berlin-2024) (OT-DOM) in Berlin, Germany. See [program and slides](https://sites.google.com/view/ot-berlin-2024/program-slides?authuser=0)
+- March 11th - 15th, 2024. I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/ot-berlin-2024) (OT-DOM) in Berlin, Germany. [program and slides](https://sites.google.com/view/ot-berlin-2024/program-slides?authuser=0)
 - New preprints available:
   - [Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.
   - [Analysis of Kernel Mirror Prox for Measure Optimization](https://arxiv.org/abs/2403.00147). Accepted for publication at AISTATS 2024. Joint work with Pavel Dvurechensky.
