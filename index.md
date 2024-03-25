@@ -41,9 +41,9 @@ To get in touch, click the icon at the bottom of the page.
 - Served as area chair for AISTATS 2023.  
 
 ### Open positions
-- Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.
+- ~~Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.~~
 - Master thesis: if you are a master's student at a Berlin university and interested in optimization, optimal transport, generative models and dynamical systems, e.g., diffusion models, neural ODE, please feel free to reach out.
-- PhD position: there is no opening at this moment. But please feel free to get in touch if you are looking and expect to start in 2024.
+- PhD position: there is no opening at this moment. But please feel free to get in touch if you are searching.
 
 
 ### Twitter feed
