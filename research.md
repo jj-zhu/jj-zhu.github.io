@@ -10,9 +10,10 @@ published: true
 My overall goal is to advance the research of **computational and learning algorithms**, using principles in applied mathematics and physics, to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, and control theory**.
 
 On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, offline data in RL, or causal confounding.
+![alt text](/images/d-shift.png)
 For example, I have worked on the theory and computation algorithm to robustly learn ML models by optimizing the risk
 
-$$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} l(f_\theta(X), Y),$$
+$$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} \ell (f_\theta(X), Y),$$
 
 where the underlying data distribution $$P$$ is not the typical empirical average distribution used in statistical learning risk minimization $$ \min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
 
@@ -20,7 +21,7 @@ On the other hand, I am interested in **interfacing dynamical systems and machin
 The dynamics perspective of ML and optimization is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE or SDE)
 
 $$
-\partial _t \mu_t(x) = \mathcal L(\mu_t(x)),
+\partial _t \mu_t(x) = \mathcal L\ \mu_t(x),
 $$
 
 where just as in continuous optimization, the differential equation can be driven by the gradient of certain system energy encoded in the operator $$\mathcal L$$.
