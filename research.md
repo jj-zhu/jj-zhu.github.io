@@ -10,7 +10,9 @@ published: true
 My overall goal is to advance the research of **computational and learning algorithms**, using principles in applied mathematics and physics, to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, and control theory**.
 
 On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, offline data in RL, or causal confounding.
-![alt text](/images/d-shift.png)
+
+![](/images/d-shift.png)
+
 For example, I have worked on the theory and computation algorithm to robustly learn ML models by optimizing the risk
 
 $$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} \ell (f_\theta(X), Y),$$
