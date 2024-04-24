@@ -9,7 +9,7 @@ published: true
 
 My overall goal is to advance the research of **computational and learning algorithms**, using principles in applied mathematics and physics, to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, and control theory**.
 
-On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, offline data in RL, or causal confounding.
+On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, offline data in RL, or causal confounding. See the illustration below (credit: Heiner Kremer).
 
 ![](/images/d-shift.png)
 
