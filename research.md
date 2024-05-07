@@ -13,7 +13,7 @@ On one hand, I am motivated by addressing the **lack of robustness and data dist
 
 ![](/images/d-shift.png)
 
-For example, I have worked on the theory and computation algorithm to robustly learn ML models by optimizing the risk
+For example, I have worked on the theory and computation algorithm to learn **robust probabilistic machine learning** models by optimizing the risk
 
 $$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} \ell (f_\theta(X), Y),$$
 
