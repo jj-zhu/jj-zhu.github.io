@@ -7,9 +7,17 @@ published: true
 
 # Research interests
 
-My overall goal is to advance the research of **computational and learning algorithms**, using principles in applied mathematics and physics, to change the world for the better. In general, I am interested in **optimization, machine learning, dynamical systems, and control theory**.
+Overall, I am interested in computational algorithms and dynamical systems.
+My group focuses on research in state-of-the-art machine learning and optimization.
+Specifically, I started my research career in optimization and subsequently became interested in **robust probabilistic machine learning** and **kernel methods**. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport**.
 
-On one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, offline data in RL, or causal confounding. See the illustration below (credit: Heiner Kremer).
+For example, in some of my previous works, I invented [robust probabilistic ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
+Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
+Following that and after moving to Berlin, I dedicate my current research to interfacing large-scale computational algorithms in machine learning/optimization with dynamical system theory such as (PDE) gradient flows and optimal transport.
+Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space) and collaborated with Alexander Mielke on [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-)Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
+
+More concretely,
+on one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, offline data in RL, or causal confounding. See the illustration below (credit: Heiner Kremer).
 
 ![](/images/d-shift.png)
 
