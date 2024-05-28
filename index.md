@@ -24,7 +24,7 @@ To get in touch, click the icon at the bottom of the page.
 - Master thesis: if you are a master's student interested in optimization, optimal transport, robust/causal/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion models, neural ODE), please feel free to reach out.
 
 ### News and updates
-- New work exploring globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://jj-zhu.github.io/file/ift-gf-2024.pdf)
+- New work exploring globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://arxiv.org/abs/2405.17075)
 - March 11th - 15th, 2024. I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/ot-berlin-2024) (OT-DOM) in Berlin, Germany. [program and slides](https://sites.google.com/view/ot-berlin-2024/program-slides?authuser=0)
 - New preprints available:
   - [Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.

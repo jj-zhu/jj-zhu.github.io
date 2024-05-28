@@ -59,7 +59,7 @@ Below is a high-level illustration of my research journey
 
 # Publications, preprints, code
 **Interaction-Force Transport Gradient Flows. Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu.**
-[preprint](https://jj-zhu.github.io/file/ift-gf-2024.pdf)
+[preprint](https://arxiv.org/abs/2405.17075)
 
 **Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao**.
 Jia-Jie Zhu, Alexander Mielke.
