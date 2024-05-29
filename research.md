@@ -42,7 +42,8 @@ This is equivalent to viewing the dynamics as the solution to an optimization pr
 $$
 \min_\mu \mathcal{E}(\mu).
 $$
-
+For example, the energy function can be chosen as the KL divergence
+$\mathcal{E}(\mu) = \mathrm{KL}(\mu|\pi)$ as in Bayesian inference.
 
 
 
