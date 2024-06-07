@@ -25,7 +25,7 @@ For example, I have worked on the theory and computation algorithm to learn **ro
 
 $$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} \ell (f_\theta(X), Y),$$
 
-where the underlying data distribution $$P$$ is not the typical empirical average distribution used in statistical learning risk minimization $$ \min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
+where the underlying data distribution $P$ is not the typical empirical average distribution used in statistical learning risk minimization $$\min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
 
 On the other hand, I am interested in **interfacing dynamical systems and machine learning** (e.g., gradient flow, PDE theory for optimal transport, feedback control theory, robustness of deep learning models, and generative models), aiming at building robust and scalable optimization and learning algorithms. 
 The dynamics perspective of ML and optimization is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE or SDE)
