@@ -15,11 +15,10 @@ The ideal candidate's background is in machine learning and/or applied math (e.g
 # Examples of topics include
 
 * Optimal transport (and gradient flow) applications in machine learning and optimization
-* Robust optimization, stochastic optimization
+* Probabilistic machine learning, Bayesian inference, generative models
 * Robustness and generalization in ML
 * Causal inference
-* Dynamical systems modeling and optimization
-* Interfacing learning theory and optimization
+* Robust optimization, stochastic optimization
   
 # What we offer
 
