@@ -24,6 +24,7 @@ The ideal candidate's background is in machine learning and/or applied math (e.g
 # What we offer
 
   - [The Weierstrass Institute for Applied Analysis and Stochastics (WIAS), Berlin](https://wias-berlin.de/) is a research institution known for its strength in mathematical optimization and dynamical systems, and applied mathematics in general. It has hosted flagship conferences in mathematical optimization, such as ICCOPT 2019. We also envision collaborations with our partners at top institutions.
+  - We are part of the [Berlin Mathematical School](https://www.math-berlin.de/), a joint graduate school of the three major Berlin universities, which offers a vibrant and diverse environment for mathematical research.
   - Our office space is located in downtown Berlin. Berlin is one of the most culture-rich and diverse international cities in the world. It offers endless opportunities to enjoy life outside work while being very affordable compared to other major cities. Working here does not require the German language (although we offer free German courses). Scientifically, Berlin offers a rich landscape with numerous opportunities for research, as well as job prospects in academia and industry.
   - There is no teaching duty envisioned.
 
