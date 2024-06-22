@@ -20,7 +20,7 @@ To get in touch, click the icon at the bottom of the page.
 
 ### Open positions
 - ~~Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.~~
-- [PhD positions available: PhD projects in optimal transport and/or robust/causal/probabilistic machine learning/optimization. But please get in touch if you are interested.](/file/phd_berlin_2/)
+- [PhD positions available: PhD projects in optimal transport and/or robust/causal/probabilistic machine learning/optimization. But please get in touch if you are interested.](/phd_2/)
 - Master thesis: if you are a master's student interested in optimization, optimal transport, robust/causal/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion models, neural ODE), please feel free to reach out.
 
 ### News and updates
