@@ -44,7 +44,8 @@ $$
 $$
 For example, the energy function can be chosen as the KL divergence
 $$\mathcal{E}(\mu) = \mathrm{KL}(\mu | \pi)$$ as in Bayesian inference.
-
+This is owing to the modern development of the analysis of PDE and gradient flows.
+![](/images/gf-slide.jpeg)
 
 
 All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. Some example technical topics include
