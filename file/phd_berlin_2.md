@@ -10,7 +10,7 @@ published: true
 Ph.D. positions in mathematics **optimal transport and robust machine learning**, on topics closely related to computational OT, gradient flows, deep generative models, Bayesian inference, kernel methods, distributional robustness, generalization, optimization, robustness in RL and control, interfacing robustness and causality or fairness.
 
 # Qualification
-The ideal candidate's background is in machine learning and/or applied math (e.g. optimization, PDE/SDE), with **a master's degree and related research experience**. Those qualifications are demonstrated by high-quality technical reports or publications in relevant venues such as (NeurIPS/ICLR/AISTATS/ICML/AAAI/CoLT/ALT/JMLR/STOC etc.). Candidates with strong applied or industrial experiences (e.g. deep learning) will also be considered. Inquiry welcome.
+The ideal candidate's background is in machine learning and/or applied math (e.g. optimization, analysis of PDE/SDE), with **a master's degree and related research experience**. Those qualifications are demonstrated by high-quality technical reports or publications in relevant venues such as (NeurIPS/ICML/ICLR/AISTATS/UAI/AAAI/CoLT/JMLR/TMLR etc.). Candidates with strong applied or industrial experiences (e.g. deep learning) will also be considered. Inquiry welcome.
 
 # Examples of topics include
 
@@ -35,11 +35,6 @@ Inquiries from qualified (see above) candidates are encouraged. Please send the 
 - Transcripts for bachelor's and master's,
 
 to the email address [here](mailto:zplusj@gmail.com), with the subject containing [apply-phd-ot].
-The position will be open until filled. However, to receive full consideration, please apply (or inquire) as soon as possible. 
+The position will be open until filled. 
 
-Selected candidates will *later* submit a formal application 
-
-- 1-2 page cover letter (including a *very brief* research statement)
-- provide contact information of 2-3 references from *previous research projects*, who have agreed to be contacted
-
-Note that due to the number of inquiries, we can only reply when there is a fit. Please excuse the delay in response.
+Note that, due to the number of inquiries, we can only reply when there is a fit. Please excuse the delay in response.
