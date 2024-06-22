@@ -5,9 +5,9 @@ permalink: /phd_2/
 published: true
 ---
 
-# New: open Ph.D. position
+# New: open Ph.D. positions
 
-We have a Ph.D. position in mathematics **optimal transport and robust machine learning**, on topics closely related to computational OT, gradient flows, deep generative models, Bayesian inference, kernel methods, distributional robustness, generalization, optimization, robustness in RL and control, interfacing robustness and causality or fairness.
+Ph.D. positions in mathematics **optimal transport and robust machine learning**, on topics closely related to computational OT, gradient flows, deep generative models, Bayesian inference, kernel methods, distributional robustness, generalization, optimization, robustness in RL and control, interfacing robustness and causality or fairness.
 
 # Qualification
 The ideal candidate's background is in machine learning and/or applied math (e.g. optimization, PDE/SDE), with **a master's degree and related research experience**. Those qualifications are demonstrated by high-quality technical reports or publications in relevant venues such as (NeurIPS/ICLR/AISTATS/ICML/AAAI/CoLT/ALT/JMLR/STOC etc.). Candidates with strong applied or industrial experiences (e.g. deep learning) will also be considered. Inquiry welcome.
