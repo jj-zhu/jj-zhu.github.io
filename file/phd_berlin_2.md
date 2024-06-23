@@ -31,7 +31,7 @@ The ideal candidate's background is in machine learning and/or applied math (e.g
 Inquiries from qualified (see above) candidates are encouraged. Please send the following:
 
 - CV with links to your existing works
-- Master's thesis (if any), and nny previous tech reports or publications related to the position
+- Master's thesis (if any), and any previous tech reports or publications related to the position
 - Transcripts for bachelor's and master's,
 
 to the email address [here](mailto:zplusj@gmail.com), with the subject containing [apply-phd-ot].
