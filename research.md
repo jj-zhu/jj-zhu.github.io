@@ -9,7 +9,7 @@ published: true
 
 Overall, I am interested in computational algorithms and dynamical systems.
 My group focuses on research in state-of-the-art machine learning and optimization.
-Specifically, I started my research career in optimization and subsequently became interested in **robust probabilistic machine learning** and **kernel methods**. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport**.
+Specifically, I started my research career in optimization and subsequently became interested in **robust probabilistic machine learning** and **kernel methods**. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport** from analysis.
 
 For example, in some of my previous works, I invented [robust probabilistic ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
@@ -57,7 +57,7 @@ All those research topics call for **a new generation of computational algorithm
 + control, dynamical systems, multi-stage decision-making
 
 Below is a high-level illustration of my research journey
-![research journey](/images/bg-jz.jpeg)
+![research journey](images/bg-jz.png)
 
 # Publications, preprints, code
 **Interaction-Force Transport Gradient Flows. Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu.**
