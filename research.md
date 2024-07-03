@@ -57,7 +57,7 @@ All those research topics call for **a new generation of computational algorithm
 + control, dynamical systems, multi-stage decision-making
 
 Below is a high-level illustration of my research journey
-![research journey](images/bg-jz.png)
+![research journey](/images/bg-jz.png)
 
 # Publications, preprints, code
 **Interaction-Force Transport Gradient Flows. Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu.**
