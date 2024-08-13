@@ -90,10 +90,10 @@ In the Proceedings of the 39th International Conference on Machine Learning (ICM
 
 **Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Optimization with Finite-Sample Guarantee**
 Yassine Nemmour, Heiner Kremer, Bernhard Schölkopf, Jia-Jie Zhu.
-To appear in the 61st IEEE Conference on Decision and Control (CDC).
+61st IEEE Conference on Decision and Control (CDC).
 [preprint](https://arxiv.org/pdf/2204.11564.pdf) [code (summer school exercises)](https://github.com/yasnem/CC_Tutorial_TUB_Oxford)
 [slides (summer school)](https://jj-zhu.github.io/file/berlin-oxford_tutorial_kernel_drccsp.pdf)
-- Note: there is an issue with the proof in this paper: one should replace it with a uniform convergence bound.
+- Note: there is an issue with the proof in this paper: one should replace it with a uniform convergence bound. The new proof will be posted with a longer version of the paper.
 
 **Adversarially Robust Kernel Smoothing**.  Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf. Proceedings of The 25th International Conference on Artificial Intelligence and Statistics, volume 151 of Proceedings of Machine
 Learning Research, pages 4972--4994. PMLR, 28--30 Mar 2022. [paper](https://arxiv.org/pdf/2102.08474.pdf) [code](https://github.com/christinakouridi/arks) [slides (oral)](https://jj-zhu.github.io/file/oral-arks-aistats-2022.pdf) [poster](https://jj-zhu.github.io/file/poster-arks-aistats-2022.pdf)

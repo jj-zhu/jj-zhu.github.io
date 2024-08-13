@@ -25,7 +25,7 @@ To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
 - Summer 2024. New third-party funding awarded: DFG Project on
-"Optimal Transport and Measure Optimization Foundation for Robust and Causal Machine Learning" within the Priority Program “Theoretical Foundations of Deep Learning” (SPP 2298).
+"*Optimal Transport and Measure Optimization Foundation for Robust and Causal Machine Learning*" within the *Priority Program “Theoretical Foundations of Deep Learning” (SPP 2298)*.
 - New work exploring globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://arxiv.org/abs/2405.17075)
 - March 11th - 15th, 2024. I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/ot-berlin-2024) (OT-DOM) in Berlin, Germany. [program and slides](https://sites.google.com/view/ot-berlin-2024/program-slides?authuser=0)
 - New preprints available:
