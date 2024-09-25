@@ -61,6 +61,7 @@ Below is a high-level illustration of my research journey
 
 # Publications, preprints, code
 **Interaction-Force Transport Gradient Flows. Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu.**
+In (to appear) Proceedings of NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems.
 [preprint](https://arxiv.org/abs/2405.17075)
 
 **Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao**.
