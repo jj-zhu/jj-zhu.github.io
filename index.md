@@ -18,13 +18,8 @@ Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space
 
 To get in touch, click the icon at the bottom of the page.
 
-### Open positions
-- ~~Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.~~
-- [PhD positions available: PhD projects in optimal transport and/or robust/causal/probabilistic machine learning/optimization. But please get in touch if you are interested.](/phd_2/)
-- Master thesis: if you are a master's student interested in optimization, optimal transport, robust/causal/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion models, neural ODE), please feel free to reach out.
-
 ### News and updates
-- [Accepted for publication at NeurIPS 2024] New work exploring globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://arxiv.org/abs/2405.17075) [code](https://github.com/egorgladin/ift_flow)
+- New work to appear in *NeurIPS* 2024: Globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://arxiv.org/abs/2405.17075) Code: [link](https://github.com/egorgladin/ift_flow)
 - Summer 2024. New third-party funding awarded: **DFG Project on "Optimal Transport and Measure Optimization Foundation for Robust and Causal Machine Learning" within the Priority Program “Theoretical Foundations of Deep Learning” (SPP 2298)**.
 - March 11th - 15th, 2024. I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/ot-berlin-2024) (OT-DOM) in Berlin, Germany. [program and slides](https://sites.google.com/view/ot-berlin-2024/program-slides?authuser=0)
 - New preprints available:
@@ -47,6 +42,10 @@ To get in touch, click the icon at the bottom of the page.
 - Apr 2023. Gave a plenary talk at the Leibniz Institute for Agricultural Engineering and Bioeconomy Potsdam, during the workshop "Mathematical Modeling and Simulation" (MMS) Days.
 - Served as area chair for AISTATS 2023.  
 
+### Open positions
+- ~~Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.~~
+- [PhD positions available: PhD projects in optimal transport and/or robust/causal/probabilistic machine learning/optimization. But please get in touch if you are interested.](/phd_2/)
+- Master thesis: if you are a master's student interested in optimization, optimal transport, robust/causal/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion models, neural ODE), please feel free to reach out.
 
 ### Twitter feed
 <a class="twitter-timeline" data-width="800" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
