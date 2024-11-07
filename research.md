@@ -68,6 +68,9 @@ Jia-Jie Zhu.
 In (to appear) Proceedings of NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems.
 [preprint](https://arxiv.org/abs/2405.17075) [code](https://github.com/egorgladin/ift_flow)
 
+**Kernel Approximation of Fisher-Rao Gradient Flows. Jia-Jie Zhu, Alexander Mielke**
+[preprint](https://arxiv.org/abs/2410.20622)
+
 **Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao**.
 Jia-Jie Zhu, Alexander Mielke.
 [preprint](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
