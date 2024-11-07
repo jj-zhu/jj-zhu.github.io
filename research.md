@@ -64,11 +64,12 @@ Below is a high-level illustration of my research journey
 Jia-Jie Zhu.
 [preprint](https://arxiv.org/abs/2411.00214)
 
-**Interaction-Force Transport Gradient Flows. Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu.**
+**Interaction-Force Transport Gradient Flows**. Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu.
 In (to appear) Proceedings of NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems.
 [preprint](https://arxiv.org/abs/2405.17075) [code](https://github.com/egorgladin/ift_flow)
 
-**Kernel Approximation of Fisher-Rao Gradient Flows. Jia-Jie Zhu, Alexander Mielke**
+**Kernel Approximation of Fisher-Rao Gradient Flows**.
+Jia-Jie Zhu, Alexander Mielke
 [preprint](https://arxiv.org/abs/2410.20622)
 
 **Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao**.
