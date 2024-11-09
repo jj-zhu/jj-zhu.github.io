@@ -23,6 +23,9 @@ To get in touch, click the icon at the bottom of the page.
   - [Inclusive KL Minimization: A Wasserstein-Fisher-Rao Gradient Flow Perspective. Jia-Jie Zhu](https://arxiv.org/abs/2411.00214)
   - [Kernel Approximation of Fisher-Rao Gradient Flows. Jia-Jie Zhu, Alexander Mielke](https://arxiv.org/abs/2410.20622)
 - New work to appear in *NeurIPS 2024*: Globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://arxiv.org/abs/2405.17075) Code: [link](https://github.com/egorgladin/ift_flow)
+- Upcoming talks:
+  - [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows by Prof. Jia-Jie (JJ) Zhu (WIAS Berlin) - EPFL](https://memento.epfl.ch/event/kernel-approximation-of-wasserstein-and-fisher-rao/)
+  - [From distributional ambiguity to gradient flows: Wasserstein, Fisher-Rao, and kernel approximation - EPFL](https://memento.epfl.ch/event/from-distributional-ambiguity-to-gradient-flows-wa/)
 - I'm serving as an area chair for AISTATS 2025. If you are interested in contributing to the community via reviewing a paper, please get in touch.
 - Summer 2024. New third-party funding awarded: *DFG Project on "Optimal Transport and Measure Optimization Foundation for Robust and Causal Machine Learning" within the Priority Program “Theoretical Foundations of Deep Learning” (SPP 2298)*.
 - March 11th - 15th, 2024. I am organizing a [Workshop on Optimal Transport from Theory to Applications – Interfacing Dynamical Systems, Optimization, and Machine Learning](https://sites.google.com/view/ot-berlin-2024) (OT-DOM) in Berlin, Germany. [program and slides](https://sites.google.com/view/ot-berlin-2024/program-slides?authuser=0)
