@@ -22,7 +22,8 @@ To get in touch, click the icon at the bottom of the page.
 - New preprints:
   - [Inclusive KL Minimization: A Wasserstein-Fisher-Rao Gradient Flow Perspective. Jia-Jie Zhu](https://arxiv.org/abs/2411.00214)
   - [Kernel Approximation of Fisher-Rao Gradient Flows. Jia-Jie Zhu, Alexander Mielke](https://arxiv.org/abs/2410.20622)
-- New work to appear in *NeurIPS 2024*: Globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://arxiv.org/abs/2405.17075) Code: [link](https://github.com/egorgladin/ift_flow)
+- New work to appear in *NeurIPS 2024*: Globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://arxiv.org/abs/2405.17075) Code: [link](https://github.com/egorgladin/ift_flow), 
+[Slides (NeurIPS 2024)](https://jj-zhu.github.io/file/IFT-neurips-2024-talk-slides.pdf)
 - Upcoming talks:
   - [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows by Prof. Jia-Jie (JJ) Zhu (WIAS Berlin) - EPFL](https://memento.epfl.ch/event/kernel-approximation-of-wasserstein-and-fisher-rao/)
   - [From distributional ambiguity to gradient flows: Wasserstein, Fisher-Rao, and kernel approximation - EPFL](https://memento.epfl.ch/event/from-distributional-ambiguity-to-gradient-flows-wa/)
