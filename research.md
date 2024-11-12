@@ -66,7 +66,7 @@ Jia-Jie Zhu.
 
 **Interaction-Force Transport Gradient Flows**. Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu.
 In (to appear) Proceedings of NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems.
-[preprint](https://arxiv.org/abs/2405.17075) [code](https://github.com/egorgladin/ift_flow)
+[slides (NeurIPS 2024)](https://jj-zhu.github.io/file/IFT-neurips-2024-talk-slides.pdf) [preprint](https://arxiv.org/abs/2405.17075) [code](https://github.com/egorgladin/ift_flow)
 
 **Kernel Approximation of Fisher-Rao Gradient Flows**.
 Jia-Jie Zhu, Alexander Mielke
