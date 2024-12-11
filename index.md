@@ -20,6 +20,7 @@ To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
 - Recent talks:
+  - University of British Columbia, [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows | The Kantorovich Initiative](https://kantorovich.org/event/ki-seminar-zhu/)
   - [Slides for the EPFL talk, Nov 2024](https://jj-zhu.github.io/file/epfl-nov-2024-handout.pdf)
   - [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows by Prof. Jia-Jie (JJ) Zhu (WIAS Berlin) - EPFL](https://memento.epfl.ch/event/kernel-approximation-of-wasserstein-and-fisher-rao/)
   - [From distributional ambiguity to gradient flows: Wasserstein, Fisher-Rao, and kernel approximation - EPFL](https://memento.epfl.ch/event/from-distributional-ambiguity-to-gradient-flows-wa/)
