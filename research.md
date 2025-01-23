@@ -100,7 +100,7 @@ In the Proceedings of the 39th International Conference on Machine Learning (ICM
 **Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Optimization with Finite-Sample Guarantee**
 Yassine Nemmour, Heiner Kremer, Bernhard Schölkopf, Jia-Jie Zhu.
 61st IEEE Conference on Decision and Control (CDC).
-[preprint](https://arxiv.org/pdf/2204.11564.pdf) [code (summer school exercises)](https://github.com/yasnem/CC_Tutorial_TUB_Oxford)
+[preprint](https://arxiv.org/pdf/2204.11564.pdf) [code](https://github.com/yasnem/Kernel-Distributionally-Robust-Chance-Constrained-Optimization)
 [slides (summer school)](https://jj-zhu.github.io/file/berlin-oxford_tutorial_kernel_drccsp.pdf)
 - Note: there is an issue with the proof in this paper: one should replace it with a uniform convergence bound. The new proof will be posted with a longer version of the paper.
 
