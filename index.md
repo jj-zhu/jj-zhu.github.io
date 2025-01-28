@@ -19,6 +19,8 @@ Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space
 To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
+- Upcoming event, 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
+Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 - Recent talks:
   - University of British Columbia, The Kantorovich Initiative Seminar: [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows](https://kantorovich.org/event/ki-seminar-zhu/)
   - [Slides for the EPFL talk, Nov 2024](https://jj-zhu.github.io/file/epfl-nov-2024-handout.pdf)
