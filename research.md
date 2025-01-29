@@ -61,7 +61,7 @@ Below is a high-level illustration of my research journey
 
 # Publications, preprints, code
 **Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals**
-Alexander Mielke, Jia-Jie Zhu. [preprint]()
+Alexander Mielke, Jia-Jie Zhu. [preprint](https://arxiv.org/pdf/2501.17049)
 
 **Pricing American Options under Rough Volatility Using Deep-Signatures and Signature-Kernels**
 Christian Bayer, Luca Pelizzari, Jia-Jie Zhu. [preprint](https://arxiv.org/abs/2501.06758)
