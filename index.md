@@ -55,9 +55,8 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 - Served as area chair for AISTATS 2023.  
 
 ### Open positions
-- ~~Postdoc position in the intersection of data-driven dynamics modeling, PDE and numerical analysis, and medical applications. If interested, please email me for inquiry.~~
-- [PhD positions available: PhD projects in optimal transport and/or robust/causal/probabilistic machine learning/optimization. But please get in touch if you are interested.](/phd_2/)
-- Master thesis: if you are a master's student interested in optimization, optimal transport, robust/causal/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion models, neural ODE), please feel free to reach out.
+- [Postdoc and PhD positions available] There are upcoming openings in my group. If you are interested in joining my group, please feel free to inquire.
+- Master thesis: if you are a master's student interested in optimization, optimal transport, robust/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion/flow models, neural ODE), please feel free to reach out.
 
 ### Twitter feed
 <a class="twitter-timeline" data-width="800" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
