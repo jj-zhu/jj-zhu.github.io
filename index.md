@@ -20,7 +20,9 @@ To get in touch, click the icon at the bottom of the page.
 
 ### News and updates
 - [New preprint](https://arxiv.org/pdf/2501.17049): Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals. Alexander Mielke, Jia-Jie Zhu.
-- Upcoming event, 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
+- Upcoming events:
+  - [ICSP 2025](https://icsp2025.org/) workshop on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris
+  - 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 - Recent talks:
   - University of British Columbia, The Kantorovich Initiative Seminar: [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows](https://kantorovich.org/event/ki-seminar-zhu/)
