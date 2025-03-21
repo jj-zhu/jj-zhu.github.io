@@ -18,8 +18,8 @@ Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space
 
 To get in touch, click the icon at the bottom of the page.
 
-### I'm organizing the following upcoming events:
-- 28 July - 1 August 2025: [ICSP 2025](https://icsp2025.org/) invited session on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris
+### Upcoming events
+- 28 July - 1 August 2025: [ICSP 2025](https://icsp2025.org/) invited session on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris. Organized by Pavel Dvurechensky (WIAS Berlin), Jia-Jie Zhu (WIAS Berlin)
 - 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
