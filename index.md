@@ -24,7 +24,8 @@ To get in touch, click the icon at the bottom of the page.
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
 ### News and updates
-- [New preprint](https://arxiv.org/pdf/2501.17049): Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals. Alexander Mielke, Jia-Jie Zhu.
+- New preprint: Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow. Matthias Liero, Alexander Mielke, Oliver Tse, and Jia-Jie Zhu
+- [New preprint](https://arxiv.org/pdf/2501.17049): Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals. Alexander Mielke, Jia-Jie Zhu
 - Recent talks:
   - University of British Columbia, The Kantorovich Initiative Seminar: [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows](https://kantorovich.org/event/ki-seminar-zhu/)
   - [Slides for the EPFL talk, Nov 2024](https://jj-zhu.github.io/file/epfl-nov-2024-handout.pdf)
