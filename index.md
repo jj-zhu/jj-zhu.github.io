@@ -8,15 +8,17 @@ Previously, I worked as a postdoctoral researcher in machine learning at the Max
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
 Overall, I am interested in computational algorithms and dynamical systems.
-My group focuses on research in state-of-the-art machine learning and optimization.
+My group focuses on the mathematical and computational foundations of state-of-the-art machine learning and optimization.
+
 Specifically, I started my research career in optimization and subsequently became interested in **robust probabilistic machine learning** and **kernel methods**. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport**.
 
 For example, in some of my previous works, I invented [robust probabilistic ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
-Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
-Following that and after moving to Berlin, I dedicate my current research to interfacing large-scale computational algorithms in machine learning/optimization with dynamical system theory such as (PDE) gradient flows and optimal transport.
-Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space) and collaborated with Alexander Mielke on [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-)Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
+Those optimization algorithms have deep theoretical roots such as the analysis of PDEs.
+Following that and after moving to Berlin, I dedicate my current research to interfacing large-scale computational algorithms in machine learning/optimization using PDE gradient flows and optimal transport.
+Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao) and collaborated with Alexander Mielke on [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-)Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
 
 To get in touch, click the icon at the bottom of the page.
+There are sometimes delays in my response to emails, please be patient.
 
 ### Upcoming events
 - 28 July - 1 August 2025: [ICSP 2025](https://icsp2025.org/) invited session on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris. Organized by Pavel Dvurechensky (WIAS Berlin), Jia-Jie Zhu (WIAS Berlin)
@@ -24,9 +26,13 @@ To get in touch, click the icon at the bottom of the page.
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
 ### News and updates
-- New preprint: Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow. Matthias Liero, Alexander Mielke, Oliver Tse, and Jia-Jie Zhu
-- [New preprint](https://arxiv.org/pdf/2501.17049): Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals. Alexander Mielke, Jia-Jie Zhu
+- New publication at *Journal of Optimization Theory and Applications* (JOTA): [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://link.springer.com/article/10.1007/s10957-025-02405-z).  work with Ling Liang and Kim-Chuan Toh.
+- New preprints:
+  - [Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow](https://arxiv.org/pdf/2504.20400?). Joint work with Matthias Liero, Alexander Mielke, Oliver Tse.
+  - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2505.17049). Joint work with Alexander Mielke.
 - Recent talks:
+  - The Institute of Statistical Mathematics, Tokyo, Japan
+  - RIKEN AIP, ABI Team Seminar, Tokyo, Japan
   - University of British Columbia, The Kantorovich Initiative Seminar: [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows](https://kantorovich.org/event/ki-seminar-zhu/)
   - [Slides for the EPFL talk, Nov 2024](https://jj-zhu.github.io/file/epfl-nov-2024-handout.pdf)
   - [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows by Prof. Jia-Jie (JJ) Zhu (WIAS Berlin) - EPFL](https://memento.epfl.ch/event/kernel-approximation-of-wasserstein-and-fisher-rao/)
@@ -42,7 +48,6 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 - New preprints available:
   - [Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf). Joint work with Alexander Mielke.
   - [Analysis of Kernel Mirror Prox for Measure Optimization](https://arxiv.org/abs/2403.00147). Accepted for publication at AISTATS 2024. Joint work with Pavel Dvurechensky.
-  - [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://arxiv.org/abs/2402.06033). Joint work with Ling Liang and Kim-Chuan Toh.
 - I am teaching the [nonparametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with Vladimir Spokoinyi, in term 2023/24.
 - Recent talks on gradient flow force-balance, especially in robust learning under (strong) structured distribution shifts, and conditional moment restriction for causal inference at 
   - [EUCCO 2023](https://scoop.iwr.uni-heidelberg.de/events/2023_eucco/), at Heidelberg University. [Talk slides available](https://jj-zhu.github.io/file/Heidelberg-EUCCO-2023-Zhu.pdf)
