@@ -29,7 +29,7 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 - New publication at *Journal of Optimization Theory and Applications* (JOTA): [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://link.springer.com/article/10.1007/s10957-025-02405-z). Joint work with Ling Liang and Kim-Chuan Toh.
 - New preprints:
   - [Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow](https://arxiv.org/pdf/2504.20400?). Joint work with Matthias Liero, Alexander Mielke, Oliver Tse.
-  - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2505.17049). Joint work with Alexander Mielke.
+  - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2501.17049). Joint work with Alexander Mielke.
 - Recent talks:
   - The Institute of Statistical Mathematics, Tokyo, Japan
   - RIKEN AIP, ABI Team Seminar, Tokyo, Japan
