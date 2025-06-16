@@ -11,7 +11,7 @@ I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However
 
 Overall, I am interested in computational algorithms and dynamical systems.
 My group focuses on the mathematical foundations of machine learning and optimization.
-In recent years, I have been interested in ML/OPT applications rooted in the theory of optimal transport and gradient flows.
+In recent years, I have been interested in ML/OPT applications rooted in the principled theory of optimal transport, gradient flows, and kernel methods.
 
 Specifically, I started my research career in optimization and subsequently became interested in **robust probabilistic machine learning** and **kernel methods**. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport**.
 
