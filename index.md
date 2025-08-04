@@ -28,6 +28,10 @@ There are sometimes delays in my response to emails, please be patient.
 - 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
+### Open positions
+- [Postdoc and PhD positions available] There are upcoming openings in my group. If you are interested in joining, please feel free to inquire.
+- Master thesis: if you are a master's student interested in optimization, optimal transport, robust/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion/flow models, neural ODE), please feel free to reach out.
+
 ### News and updates
 - New publication at *Journal of Optimization Theory and Applications* (JOTA): [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://link.springer.com/article/10.1007/s10957-025-02405-z). Joint work with Ling Liang and Kim-Chuan Toh.
 - New preprints:
@@ -66,9 +70,6 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 - Apr 2023. Gave a plenary talk at the Leibniz Institute for Agricultural Engineering and Bioeconomy Potsdam, during the workshop "Mathematical Modeling and Simulation" (MMS) Days.
 - Served as area chair for AISTATS 2023.  
 
-### Open positions
-- [Postdoc and PhD positions available] There are upcoming openings in my group. If you are interested in joining my group, please feel free to inquire.
-- Master thesis: if you are a master's student interested in optimization, optimal transport, robust/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion/flow models, neural ODE), please feel free to reach out.
 
 ### Twitter feed
 <a class="twitter-timeline" data-width="800" href="https://twitter.com/__jzhu__?ref_src=twsrc%5Etfw">Tweets by __jzhu__</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
