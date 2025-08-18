@@ -24,7 +24,6 @@ To get in touch, click the icon at the bottom of the page.
 There are sometimes delays in my response to emails, please be patient.
 
 ### Upcoming events
-- 28 July - 1 August 2025: [ICSP 2025](https://icsp2025.org/) invited session on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris. Organized by Pavel Dvurechensky (WIAS Berlin), Jia-Jie Zhu (WIAS Berlin)
 - 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
@@ -34,6 +33,8 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 
 ### News and updates
 - New publication at *Journal of Optimization Theory and Applications* (JOTA): [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://link.springer.com/article/10.1007/s10957-025-02405-z). Joint work with Ling Liang and Kim-Chuan Toh.
+- 28 July - 1 August 2025: [ICSP 2025](https://icsp2025.org/) invited session on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris. Organized by Pavel Dvurechensky (WIAS Berlin), Jia-Jie Zhu (WIAS Berlin)
+  - Slides are available [here](https://sites.google.com/view/icsp2025invited-ot/home)
 - New preprints:
   - [Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow](https://arxiv.org/pdf/2504.20400?). Joint work with Matthias Liero, Alexander Mielke, Oliver Tse.
   - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2501.17049). Joint work with Alexander Mielke.
