@@ -29,6 +29,7 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 
 ### Open positions
 - [Postdoc and PhD positions available] There are upcoming openings in my group. If you are interested in joining, please feel free to inquire.
+- Joint PhD position at TU Darmstadt/KTH Royal Institute of Technology (with Jan Peters). See the ad [here](https://jj-zhu.github.io/file/phd_position_advertisement_tuda-kth.pdf)
 - Master thesis: if you are a master's student interested in optimization, optimal transport, robust/probabilistic machine learning, generative models and dynamical systems (e.g., diffusion/flow models, neural ODE), please feel free to reach out.
 
 ### News and updates
