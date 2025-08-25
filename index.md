@@ -40,6 +40,7 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
   - [Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow](https://arxiv.org/pdf/2504.20400?). Joint work with Matthias Liero, Alexander Mielke, Oliver Tse.
   - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2501.17049). Joint work with Alexander Mielke.
 - Recent talks:
+  - Banff International Research Station (BIRS) "Mathematical Analysis of Adversarial Machine Learning" workshop in Oaxaca, Mexico, from August 17 to August 22, 2025
   - The Institute of Statistical Mathematics, Tokyo, Japan
   - RIKEN AIP, ABI Team Seminar, Tokyo, Japan
   - University of British Columbia, The Kantorovich Initiative Seminar: [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows](https://kantorovich.org/event/ki-seminar-zhu/)
