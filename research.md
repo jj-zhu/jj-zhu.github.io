@@ -64,11 +64,19 @@ Below is a high-level illustration of my research journey
 ![research journey](/images/bg-jz.png)
 
 # Publications, preprints, code
+**Evolution of Gaussians in the HK-Boltzmann gradient flow**.  
+Matthias Liero, Alexander Mielke, Oliver Tse, and Jia-Jie Zhu (2025). In: *Communications on Pure and Applied Analysis*, to appear. Special Issue: Transport Equations in Optimization, Sampling, and Control.
+[preprint](https://arxiv.org/pdf/2504.20400?)
+
+**An Inexact Halpern Iteration with Application to Distributionally Robust Optimization**.  
+Ling Liang, Zusen Xu, Kim-Chuan Toh, and Jia-Jie Zhu (2024). In: *Journal of Optimization Theory and Applications*.  
+[preprint](https://arxiv.org/abs/2402.06033)
+
 **Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals**
 Alexander Mielke, Jia-Jie Zhu. [preprint](https://arxiv.org/pdf/2501.17049)
 
-**Pricing American Options under Rough Volatility Using Deep-Signatures and Signature-Kernels**
-Christian Bayer, Luca Pelizzari, Jia-Jie Zhu. [preprint](https://arxiv.org/abs/2501.06758)
+**Pricing American options under rough volatility using signatures**  
+Christian Bayer, Luca Pelizzari, Jia-Jie Zhu (2025). In: *Stochastic Analysis and Applications. In Honour of Terry Lyons*. [preprint](https://arxiv.org/abs/2501.06758)
 
 **Inclusive KL Minimization: A Wasserstein-Fisher-Rao Gradient Flow Perspective**.
 Jia-Jie Zhu.
@@ -82,13 +90,9 @@ In (to appear) Proceedings of NeurIPS 2024, the Thirty-Eighth Annual Conference 
 Jia-Jie Zhu, Alexander Mielke
 [preprint](https://arxiv.org/abs/2410.20622)
 
-**Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao**.
+Monograph: **Approximation, Kernelization, and Entropy-Dissipation of Gradient Flows: from Wasserstein to Fisher-Rao**.
 Jia-Jie Zhu, Alexander Mielke.
 [preprint](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
-
-**An Inexact Halpern Iteration with Application to Distributionally Robust Optimization**.
-Ling Liang, Kim-Chuan Toh, Jia-Jie Zhu.
-[preprint](https://arxiv.org/abs/2402.06033)
 
 **Analysis of Kernel Mirror Prox for Measure Optimization**.
 Pavel Dvurechensky, Jia-Jie Zhu.
