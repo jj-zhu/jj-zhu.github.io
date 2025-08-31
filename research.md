@@ -8,12 +8,13 @@ published: true
 # Research interests
 
 Overall, I am interested in computational algorithms and dynamical systems.
-My group focuses on research in state-of-the-art machine learning and optimization.
-Specifically, I started my research career in optimization and subsequently became interested in **robust probabilistic machine learning** and **kernel methods**. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport** from analysis.
+My group focuses on research in state-of-the-art computational optimization and machine learning algorithms.
 
-For example, in some of my previous works, I invented [robust probabilistic ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
+Specifically, I started my research career in optimization and subsequently became interested in **robustness of optimization and machine learning algorithms**. Those require us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport** from analysis.
+
+For example, in my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
-Following that and after moving to Berlin, I dedicate my current research to interfacing large-scale computational algorithms in machine learning/optimization with dynamical system theory such as (PDE) gradient flows and optimal transport.
+Following that and after moving to Berlin, I dedicate my research to interfacing large-scale computational algorithms in machine learning/optimization with dynamical system theory such as (PDE) gradient flows and optimal transport.
 Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space) and collaborated with Alexander Mielke on [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-)Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
 
 More concretely,
@@ -21,23 +22,24 @@ on one hand, I am motivated by addressing the **lack of robustness and data dist
 
 ![](/images/d-shift.png)
 
-For example, I have worked on the theory and computation algorithm to learn **robust probabilistic machine learning** models by optimizing the risk
+For example, I have worked on the theory and computation algorithm to learn **robust machine learning** models by optimizing the risk
 
-$$\min_\theta \sup _ {P\in \mathcal M}\mathbb E_{X,Y\sim P} \ell (f_\theta(X), Y),$$
+$$\min_\theta \sup _ {\mu\in \mathcal M}\mathbb E_{X,Y\sim \mu} \ell (f_\theta(X), Y),$$
 
-where the underlying data distribution $$P$$ is not the typical empirical average distribution used in statistical learning risk minimization $$\min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
+where the underlying data distribution $$\mu$$ is not the typical empirical average distribution used in statistical learning risk minimization $$\min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
 
 On the other hand, I am interested in **interfacing dynamical systems and machine learning** (e.g., gradient flow, PDE theory for optimal transport, feedback control theory, robustness of deep learning models, and generative models), aiming at building robust and scalable optimization and learning algorithms. 
-The dynamics perspective of ML and optimization is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE or SDE)
+The dynamics perspective of ML and optimization is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE/SDE)
 
 $$
-\partial _t \mu_t(x) = \mathcal L\ \mu_t(x),
+\partial _t \mu_t = \mathcal L\ \mu_t,
 $$
 
-where just as in continuous optimization, the differential equation can be driven by the gradient of certain system energy encoded in the operator $$\mathcal L$$.
+where just as in continuous optimization, the differential equation can be driven by the gradient of certain system energy.
+ <!-- encoded in the operator $$\mathcal L$$. -->
 Our goal is then to study this time evolution of the data distribution $$\mu_t(x)$$ for large-scale computation and learning.
-Different from, for example, classical PDE methods, we take a **variational approach to dynamical systems**, i.e., we view the time-evolution to be driven by an energy functional $$\mathcal E$$.
-This is equivalent to viewing the dynamics as the solution to an optimization problem
+Different from, for example, classical PDE methods, we take a **variational approach**, i.e., we view the time-evolution to be driven by an energy functional $$\mathcal E$$.
+This is equivalent to viewing the dynamics as the path of an optimization problem
 
 $$
 \min_\mu \mathcal{E}(\mu).
@@ -48,7 +50,9 @@ This is owing to the modern development of the analysis of PDE and gradient flow
 ![](/images/gf-slide.jpeg)
 
 
-All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. Some example technical topics include
+All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. 
+
+Some example technical topics include
 
 + machine learning applications of optimal transport and kernel methods; generative models
 + robust machine learning, learning under distribution shift
