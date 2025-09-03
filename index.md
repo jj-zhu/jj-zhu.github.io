@@ -3,9 +3,9 @@ layout: page
 published: true
 ---
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 320px;display: block"}
-**Update:** *I will be joining the KTH Royal Institute of Technology in Stockholm as an associate professor (tenured)*.
+**Update:** *I will be joining the KTH Royal Institute of Technology in Stockholm as an associate professor in mathematics (tenured)*.
 
-I am currently the head of an independent research group at the Weierstrass Institute for Applied Analysis and Stochastics, Berlin.
+I am currently the head of an independent research group at the Weierstrass Institute, Berlin, as well as a PI funded by DFG at TU Darmstadt.
 Previously, I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization and numerical analysis, at the University of Florida. See [here](/about/) for a short bio. 
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
