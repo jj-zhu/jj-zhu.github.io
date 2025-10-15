@@ -39,14 +39,17 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
   - Slides are available [here](https://sites.google.com/view/icsp2025invited-ot/home)
 - New preprints:
   - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2501.17049). Joint work with Alexander Mielke.
+  - [Improved Stochastic Optimization of LogSumExp](https://arxiv.org/abs/2509.24894). Joint work with Egor Gladin, Alexey Kroshnin, Pavel Dvurechensky.
 - Recent talks:
+  - Gradient Flows Face-to-Face Workshop in Granada, Spain, 2025. Organizers: Maria Bruna, José Alfredo Cañizo, José Antonio Carrillo, Antonio Esposito
+  - Workshop on Bayesian Analysis and Artificial Intelligence, Peking University, Beijing, China, 2025
   - Banff International Research Station (BIRS) "Mathematical Analysis of Adversarial Machine Learning" workshop in Oaxaca, Mexico, from August 17 to August 22, 2025
   - The Institute of Statistical Mathematics, Tokyo, Japan
   - RIKEN AIP, ABI Team Seminar, Tokyo, Japan
   - University of British Columbia, The Kantorovich Initiative Seminar: [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows](https://kantorovich.org/event/ki-seminar-zhu/)
   - [Slides for the EPFL talk, Nov 2024](https://jj-zhu.github.io/file/epfl-nov-2024-handout.pdf)
-  - [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows by Prof. Jia-Jie (JJ) Zhu (WIAS Berlin) - EPFL](https://memento.epfl.ch/event/kernel-approximation-of-wasserstein-and-fisher-rao/)
-  - [From distributional ambiguity to gradient flows: Wasserstein, Fisher-Rao, and kernel approximation - EPFL](https://memento.epfl.ch/event/from-distributional-ambiguity-to-gradient-flows-wa/)
+    - [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows by Prof. Jia-Jie (JJ) Zhu (WIAS Berlin) - EPFL](https://memento.epfl.ch/event/kernel-approximation-of-wasserstein-and-fisher-rao/)
+    - [From distributional ambiguity to gradient flows: Wasserstein, Fisher-Rao, and kernel approximation - EPFL](https://memento.epfl.ch/event/from-distributional-ambiguity-to-gradient-flows-wa/)
 - New preprints:
   - [Inclusive KL Minimization: A Wasserstein-Fisher-Rao Gradient Flow Perspective. Jia-Jie Zhu](https://arxiv.org/abs/2411.00214)
   - [Kernel Approximation of Fisher-Rao Gradient Flows. Jia-Jie Zhu, Alexander Mielke](https://arxiv.org/abs/2410.20622)
