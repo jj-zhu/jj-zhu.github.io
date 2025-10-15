@@ -64,8 +64,13 @@ Below is a high-level illustration of my research journey
 ![research journey](/images/bg-jz.png)
 
 # Publications, preprints, code
+
+**Improved Stochastic Optimization of LogSumExp**.  
+Egor Gladin, Alexey Kroshnin, Jia-Jie Zhu, Pavel Dvurechensky.  
+[preprint](https://arxiv.org/abs/2509.24894)
+
 **Evolution of Gaussians in the HK-Boltzmann gradient flow**.  
-Matthias Liero, Alexander Mielke, Oliver Tse, and Jia-Jie Zhu (2025). In: *Communications on Pure and Applied Analysis*, to appear. Special Issue: Transport Equations in Optimization, Sampling, and Control.
+Matthias Liero, Alexander Mielke, Oliver Tse, and Jia-Jie Zhu (2025). In: *Communications on Pure and Applied Analysis*, to appear. Special Issue: Transport Equations in Optimization, Sampling, and Control.  
 [preprint](https://arxiv.org/pdf/2504.20400?)
 
 **An Inexact Halpern Iteration with Application to Distributionally Robust Optimization**.  
