@@ -36,8 +36,9 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 - New publication in the special issue of the journal Communications on Pure and Applied Analysis on the topic of "Transport Equations in Optimization, Sampling, and Control": [Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow](https://arxiv.org/pdf/2504.20400?). Joint work with Matthias Liero, Alexander Mielke, Oliver Tse.
 - New publication in *Journal of Optimization Theory and Applications* (JOTA): [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://link.springer.com/article/10.1007/s10957-025-02405-z). Joint work with Ling Liang and Kim-Chuan Toh.
 - 28 July - 1 August 2025: [ICSP 2025](https://icsp2025.org/) invited session on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris. Organized by Pavel Dvurechensky (WIAS Berlin), Jia-Jie Zhu (WIAS Berlin)
-  - Slides are available [here](https://sites.google.com/view/icsp2025invited-ot/home)
+  - Speaker slides of the talks are available [here](https://sites.google.com/view/icsp2025invited-ot/home)
 - New preprints:
+  - [Gradient Flow Sampler-based Distributionally Robust Optimization](https://arxiv.org/abs/2510.25956). Joint work with Zusen Xu.
   - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2501.17049). Joint work with Alexander Mielke.
   - [Improved Stochastic Optimization of LogSumExp](https://arxiv.org/abs/2509.24894). Joint work with Egor Gladin, Alexey Kroshnin, Pavel Dvurechensky.
 - Recent talks:
