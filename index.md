@@ -27,6 +27,19 @@ There are sometimes delays in my response to emails, please be patient.
 - 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
+### Recent talks (selected)
+- EPFL Bernoulli workshop “Particles, Flows & Maps for Sampling Complex Distributions”, 2025. Video recording available [here](https://workshop-pfm25.epfl.ch/index.php/program/)
+- Gradient Flows Face-to-Face Workshop in Granada, Spain, 2025. Organizers: Maria Bruna, José Alfredo Cañizo, José Antonio Carrillo, Antonio Esposito. Slides available [here](https://wpd.ugr.es/~imag/events/event/gradient-flows/)
+- Workshop on Bayesian Analysis and Artificial Intelligence, Peking University, Beijing, China, 2025
+- Banff International Research Station (BIRS) "Mathematical Analysis of Adversarial Machine Learning" workshop in Oaxaca, Mexico, from August 17 to August 22, 2025
+- The Kantorovich Initiative Seminar, University of British Columbia: [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows](https://kantorovich.org/event/ki-seminar-zhu/)
+- Invited talk [slides for the EPFL talk, Nov 2024](https://jj-zhu.github.io/file/epfl-nov-2024-handout.pdf)
+  - [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows by Prof. Jia-Jie (JJ) Zhu (WIAS Berlin) - EPFL](https://memento.epfl.ch/event/kernel-approximation-of-wasserstein-and-fisher-rao/)
+  - [From distributional ambiguity to gradient flows: Wasserstein, Fisher-Rao, and kernel approximation - EPFL](https://memento.epfl.ch/event/from-distributional-ambiguity-to-gradient-flows-wa/)
+- Workshop on Optimal Transport and PDEs, Program on The Mathematics of Data, Institute for Mathematical Sciences, National University of Singapore, 2024. Organizers: Philippe Rigollet, Afonso Bandeira, Subhro Ghosh
+
+  
+
 ### Open positions
 - [Postdoc and PhD positions available] There are upcoming openings in my group. If you are interested in joining, please feel free to inquire.
 - Joint PhD position at TU Darmstadt/KTH Royal Institute of Technology (with Jan Peters). See the ad [here](https://jj-zhu.github.io/file/phd_position_advertisement_tuda-kth.pdf)
@@ -35,23 +48,13 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 ### News and updates
 - New publication in the special issue of the journal Communications on Pure and Applied Analysis on the topic of "Transport Equations in Optimization, Sampling, and Control": [Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow](https://arxiv.org/pdf/2504.20400?). Joint work with Matthias Liero, Alexander Mielke, Oliver Tse.
 - New publication in *Journal of Optimization Theory and Applications* (JOTA): [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://link.springer.com/article/10.1007/s10957-025-02405-z). Joint work with Ling Liang and Kim-Chuan Toh.
+
 - 28 July - 1 August 2025: [ICSP 2025](https://icsp2025.org/) invited session on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris. Organized by Pavel Dvurechensky (WIAS Berlin), Jia-Jie Zhu (WIAS Berlin)
   - Speaker slides of the talks are available [here](https://sites.google.com/view/icsp2025invited-ot/home)
 - New preprints:
   - [Gradient Flow Sampler-based Distributionally Robust Optimization](https://arxiv.org/abs/2510.25956). Joint work with Zusen Xu.
   - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2501.17049). Joint work with Alexander Mielke.
   - [Improved Stochastic Optimization of LogSumExp](https://arxiv.org/abs/2509.24894). Joint work with Egor Gladin, Alexey Kroshnin, Pavel Dvurechensky.
-- Recent talks:
-  - Gradient Flows Face-to-Face Workshop in Granada, Spain, 2025. Organizers: Maria Bruna, José Alfredo Cañizo, José Antonio Carrillo, Antonio Esposito
-  - Workshop on Bayesian Analysis and Artificial Intelligence, Peking University, Beijing, China, 2025
-  - Banff International Research Station (BIRS) "Mathematical Analysis of Adversarial Machine Learning" workshop in Oaxaca, Mexico, from August 17 to August 22, 2025
-  - The Institute of Statistical Mathematics, Tokyo, Japan
-  - RIKEN AIP, ABI Team Seminar, Tokyo, Japan
-  - University of British Columbia, The Kantorovich Initiative Seminar: [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows](https://kantorovich.org/event/ki-seminar-zhu/)
-  - [Slides for the EPFL talk, Nov 2024](https://jj-zhu.github.io/file/epfl-nov-2024-handout.pdf)
-    - [Kernel Approximation of Wasserstein and Fisher-Rao Gradient flows by Prof. Jia-Jie (JJ) Zhu (WIAS Berlin) - EPFL](https://memento.epfl.ch/event/kernel-approximation-of-wasserstein-and-fisher-rao/)
-    - [From distributional ambiguity to gradient flows: Wasserstein, Fisher-Rao, and kernel approximation - EPFL](https://memento.epfl.ch/event/from-distributional-ambiguity-to-gradient-flows-wa/)
-- New preprints:
   - [Inclusive KL Minimization: A Wasserstein-Fisher-Rao Gradient Flow Perspective. Jia-Jie Zhu](https://arxiv.org/abs/2411.00214)
   - [Kernel Approximation of Fisher-Rao Gradient Flows. Jia-Jie Zhu, Alexander Mielke](https://arxiv.org/abs/2410.20622)
 - New work to appear in *NeurIPS 2024*: Globally convergent gradient flows for the MMD-minimization inference problem (a.k.a. MMD-flow). Preprint: [Egor Gladin, Pavel Dvurechensky, Alexander Mielke, Jia-Jie Zhu. Interaction-Force Transport Gradient Flows](https://arxiv.org/abs/2405.17075) Code: [link](https://github.com/egorgladin/ift_flow), 
