@@ -52,7 +52,7 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Ber
 - 28 July - 1 August 2025: [ICSP 2025](https://icsp2025.org/) invited session on interfacing optimal transport, gradient flows, diffusion models, and machine learning, optimization, at École des Ponts, IP Paris. Organized by Pavel Dvurechensky (WIAS Berlin), Jia-Jie Zhu (WIAS Berlin)
   - Speaker slides of the talks are available [here](https://sites.google.com/view/icsp2025invited-ot/home)
 - New preprints:
-  - [Gradient Flow Sampler-based Distributionally Robust Optimization](https://arxiv.org/abs/2510.25956). Joint work with Zusen Xu.
+  - [Gradient Flow Sampler-based Distributionally Robust Optimization](https://arxiv.org/abs/2510.25956). Joint work with Zusen Xu. [Code](https://github.com/ZusenXu/GFS-DRO)
   - [Hellinger-Kantorovich Gradient Flows: Global Exponential Decay of Entropy Functionals](https://arxiv.org/abs/2501.17049). Joint work with Alexander Mielke.
   - [Improved Stochastic Optimization of LogSumExp](https://arxiv.org/abs/2509.24894). Joint work with Egor Gladin, Alexey Kroshnin, Pavel Dvurechensky.
   - [Inclusive KL Minimization: A Wasserstein-Fisher-Rao Gradient Flow Perspective. Jia-Jie Zhu](https://arxiv.org/abs/2411.00214)

@@ -64,6 +64,10 @@ Below is a high-level illustration of my research journey
 ![research journey](/images/bg-jz.png)
 
 # Publications, preprints, code
+**Gradient Flow Sampler-based Distributionally Robust Optimization**.  
+Jia-Jie Zhu, Zusen Xu.  
+[preprint](https://arxiv.org/abs/2510.25956) [code](https://github.com/ZusenXu/GFS-DRO)
+
 
 **Improved Stochastic Optimization of LogSumExp**.  
 Egor Gladin, Alexey Kroshnin, Jia-Jie Zhu, Pavel Dvurechensky.  
