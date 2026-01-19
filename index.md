@@ -26,6 +26,7 @@ There are sometimes delays in my response to emails, please be patient.
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
 ### Recent talks (selected)
+- (upcoming) [SIAM UQ 2026 Minisymposium, Gradient Flows for Uncertainty Quantification: New Algorithms and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87237)
 - EPFL Bernoulli workshop “Particles, Flows & Maps for Sampling Complex Distributions”, 2025. Video recording available [here](https://workshop-pfm25.epfl.ch/index.php/program/)
 - Gradient Flows Face-to-Face Workshop in Granada, Spain, 2025. Organizers: Maria Bruna, José Alfredo Cañizo, José Antonio Carrillo, Antonio Esposito. Slides available [here](https://wpd.ugr.es/~imag/events/event/gradient-flows/)
 - Workshop on Bayesian Analysis and Artificial Intelligence, Peking University, Beijing, China, 2025
