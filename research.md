@@ -7,6 +7,8 @@ published: true
 
 # Research interests
 
+(See also [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=IQ8Ay5gAAAAJ&view_op=list_works&sortby=pubdate).)
+
 Overall, I am interested in computational algorithms and dynamical systems.
 My group focuses on research in state-of-the-art computational optimization and machine learning algorithms.
 
