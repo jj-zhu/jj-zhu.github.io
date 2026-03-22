@@ -4,13 +4,12 @@ published: true
 ---
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 320px;display: block"}
 I am an associate professor in mathematics (tenured) at the KTH Royal Institute of Technology in Stockholm.
-Previously, I was the head of an independent research group at the Weierstrass Institute, Berlin. I am also a PI funded by DFG at TU Darmstadt. I worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization at the University of Florida. See [here](/about/) for a short bio. 
+Previously, I was the head of an independent research group at the Weierstrass Institute, Berlin, and worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization at the University of Florida. See [here](/about/) for a short bio. 
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
 Overall, I am interested in computational optimization and machine learning algorithms,
-motivated by principled mathematics, e.g., PDE, gradient flows, optimal transport, kernel methods, etc.
+motivated by principled applied mathematics, e.g., PDE, gradient flows, optimal transport, kernel methods, etc.
 
-For example,
 I was interested in the robustness of machine learning algorithms. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **mathematical foundations for machine learning** and **optimization over probability distributions**, rooted in **PDE, gradient flows, and optimal transport**.
 
 For example, in some of my previous works, I invented [robust probabilistic ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
