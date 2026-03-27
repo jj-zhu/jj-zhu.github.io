@@ -4,18 +4,18 @@ published: true
 ---
 ![jjzhu](/images/jzhu-photo.jpg){:style="float: right;margin-right: 14px;margin-right: 7px;margin-top: 7px;width: 320px;display: block"}
 I am an associate professor in mathematics (tenured) at the KTH Royal Institute of Technology in Stockholm.
-Previously, I was the head of an independent research group at the Weierstrass Institute, Berlin, and worked as a postdoctoral researcher in machine learning at the Max Planck Institute for Intelligent Systems in Tübingen, Germany. My Ph.D. study was in optimization at the University of Florida. See [here](/about/) for a short bio. 
+See [here](/about/) for a short bio and my journey so far. 
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
 Overall, I am interested in computational optimization and machine learning algorithms,
-motivated by principled applied mathematics, e.g., PDE, gradient flows, optimal transport, kernel methods, etc.
+motivated by principled applied mathematics, e.g., PDE, gradient flows, optimal transport, kernel methods.
 
 I was interested in the robustness of machine learning algorithms. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **mathematical foundations for machine learning** and **optimization over probability distributions**, rooted in **PDE, gradient flows, and optimal transport**.
 
 For example, in some of my previous works, I invented [robust probabilistic ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms have deep theoretical roots such as the analysis of PDEs.
 Following that and after moving to Berlin, I dedicate my current research to interfacing large-scale computational algorithms in machine learning/optimization using PDE gradient flows and optimal transport.
-Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao), e.g., [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-)Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
+Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao), e.g., [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-) Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
 
 To get in touch, click the icon at the bottom of the page.
 There are sometimes delays in my response to emails, please be patient.
