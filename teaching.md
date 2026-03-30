@@ -5,6 +5,8 @@ permalink: /teaching/
 published: true
 ---
 # Recent
+- Summer 2026. I will be teaching a summer school course at Peking University.
+
 - Winter 2023/24. [Non-parametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with [Vladimir Spokoinyi](https://www.wias-berlin.de/people/spokoiny/), in term 2023/24.
 
 - August 2023. I taught a mini-course on the optimization perspective of gradient flow dynamics, introducing (beginner-friendly) concepts of gradient flows in the Eulidean and Wasserstein space, at the [Workshop of Intelligent Autonomous Learning Systems 2023](https://www.ias.informatik.tu-darmstadt.de/Workshops/IWIALS2023). Lecture slides available:  
