@@ -5,9 +5,7 @@ permalink: /teaching/
 published: true
 ---
 # Recent
-- Summer 2026. I will be teaching a summer school course at Peking University
-
-- Autumn 2026. Modern methods in Statistical Learning (SF2935) at KTH
+- Summer 2026. I will be giving a lecture series at the summer school at Peking University, at the School of Mathematical Sciences. The summer school information is [here](https://www.math.pku.edu.cn/amel/sqxx/172097.htm). The lecture series is on the topic of "Computational Gradient Flows and Optimal Transport".
 
 - Winter 2023/24. [Non-parametric statistics course at Humboldt University of Berlin (at master level)](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=207589&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), co-lecturing with [Vladimir Spokoinyi](https://www.wias-berlin.de/people/spokoiny/), in term 2023/24.
 

@@ -10,11 +10,11 @@ I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However
 Overall, I am interested in computational optimization and machine learning algorithms,
 motivated by principled applied mathematics, e.g., PDE, gradient flows, optimal transport, kernel methods.
 
-I was interested in the robustness of machine learning algorithms. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **mathematical foundations for machine learning** and **optimization over probability distributions**, rooted in **PDE, gradient flows, and optimal transport**.
+Earlier in my career, I was interested in the robustness of optimization, control, and machine learning algorithms. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **mathematical foundations for machine learning** and **optimization over probability distributions**, rooted in **PDE, gradient flows, and optimal transport**.
 
-For example, in some of my previous works, I invented [robust probabilistic ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
+For example, in some of my previous works, I invented [robust ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
 Those optimization algorithms have deep theoretical roots such as the analysis of PDEs.
-Following that and after moving to Berlin, I dedicate my current research to interfacing large-scale computational algorithms in machine learning/optimization using PDE gradient flows and optimal transport.
+Following that, I dedicate my current research to interfacing computational algorithms in machine learning/optimization using PDE gradient flows and optimal transport.
 Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao), e.g., [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-) Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
 
 To get in touch, click the icon at the bottom of the page.
@@ -25,7 +25,7 @@ There are sometimes delays in my response to emails, please be patient.
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
 ### Recent talks (selected)
-- (upcoming) [SIAM UQ 2026 Minisymposium, Gradient Flows for Uncertainty Quantification: New Algorithms and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87237)
+- [SIAM UQ 2026 Minisymposium, Gradient Flows for Uncertainty Quantification: New Algorithms and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87237)
 - EPFL Bernoulli workshop “Particles, Flows & Maps for Sampling Complex Distributions”, 2025. Video recording available [here](https://workshop-pfm25.epfl.ch/index.php/program/)
 - Gradient Flows Face-to-Face Workshop in Granada, Spain, 2025. Organizers: Maria Bruna, José Alfredo Cañizo, José Antonio Carrillo, Antonio Esposito. Slides available [here](https://wpd.ugr.es/~imag/events/event/gradient-flows/)
 - Workshop on Bayesian Analysis and Artificial Intelligence, Peking University, Beijing, China, 2025
