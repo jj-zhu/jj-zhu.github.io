@@ -21,6 +21,8 @@ To get in touch, click the icon at the bottom of the page.
 There are sometimes delays in my response to emails, please be patient.
 
 ### Upcoming events
+- July 20 - 31, 2026. I will be giving a lecture series on
+ "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. The lecture series information is [in this link](https://www.math.pku.edu.cn/amel/sqxx/172097.htm).
 - 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
 Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (WIAS Berlin)
 
