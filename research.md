@@ -7,32 +7,21 @@ published: true
 
 # Research interests
 
-(See also [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=IQ8Ay5gAAAAJ&view_op=list_works&sortby=pubdate).)
 
 Overall, I am interested in computational algorithms and dynamical systems.
 My group focuses on research in state-of-the-art computational optimization and machine learning algorithms.
 
-Specifically, I started my research career in optimization and subsequently became interested in **robustness of optimization and machine learning algorithms**. Those require us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport** from analysis.
+Specifically, I started my research career in optimization and subsequently became interested in **robustness of optimization and machine learning algorithms**. Those require us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **variational methods for machine learning** and **optimization over probability distributions**, rooted in the theory of **gradient flows and optimal transport** from PDE analysis.
 
-For example, in my previous works, I invented [robust learning algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
-Those optimization algorithms have deep theoretical roots in dynamical system theory such as PDEs.
-Following that and after moving to Berlin, I dedicate my research to interfacing large-scale computational algorithms in machine learning/optimization with dynamical system theory such as (PDE) gradient flows and optimal transport.
-Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao space) and collaborated with Alexander Mielke on [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-)Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
+Earlier in my career, I was interested in the robustness of optimization, control, and machine learning algorithms. That requires us to use computational optimization tools that can manipulate probability distributions, which are inherently infinite-dimensional. It led me to my current interests in **mathematical foundations for machine learning** and **optimization over probability distributions**, rooted in **PDE, gradient flows, and optimal transport**.
 
-More concretely,
-on one hand, I am motivated by addressing the **lack of robustness and data distribution shift issues** in modern learning algorithms. This lack of robustness can be the consequence of biases or unfairness in training data, adversarial attacks, offline data in RL, or causal confounding. See the illustration below (credit: Heiner Kremer).
+For example, in some of my previous works, I invented [robust ML algorithms that can protect against distribution shifts using principled kernel methods](https://arxiv.org/pdf/2006.06981.pdf).
+Those optimization algorithms have deep theoretical roots such as the analysis of PDEs.
+Following that, I dedicate my current research to interfacing computational algorithms in machine learning/optimization using PDE gradient flows and optimal transport.
+Recently, I became interested in the Hellinger geometry (a.k.a. Fisher-Rao), e.g., [kernel methods and (Wasserstein-)Fisher-Rao, a.k.a. (spherical-) Hellinger-Kantorovich, gradient flows](https://jj-zhu.github.io/file/ZhuMielke24AppKerEntFR.pdf).
 
-![](/images/d-shift.png)
 
-For example, I have worked on the theory and computation algorithm to learn **robust machine learning** models by optimizing the risk
-
-$$\min_\theta \sup _ {\mu\in \mathcal M}\mathbb E_{X,Y\sim \mu} \ell (f_\theta(X), Y),$$
-
-where the underlying data distribution $$\mu$$ is not the typical empirical average distribution used in statistical learning risk minimization $$\min_\theta \frac1N\sum_{i=1}^N l(\theta, \xi_i)$$, but selected from an ambiguity set $$\mathcal M$$ to endow robustness to the learning model.
-
-On the other hand, I am interested in **interfacing dynamical systems and machine learning** (e.g., gradient flow, PDE theory for optimal transport, feedback control theory, robustness of deep learning models, and generative models), aiming at building robust and scalable optimization and learning algorithms. 
-The dynamics perspective of ML and optimization is distinct from a static one in that it views quantities as time-evolutionary processes. For example, the aforementioned data distribution can be described by an evolutionary differential equation (PDE/SDE)
-
+For example, data distribution can be described by an evolutionary differential equation (PDE/SDE)
 $$
 \partial _t \mu_t = \mathcal L\ \mu_t,
 $$
@@ -52,28 +41,26 @@ This is owing to the modern development of the analysis of PDE and gradient flow
 ![](/images/gf-slide.jpeg)
 
 
-All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures robustly**. 
-
-Some example technical topics include
-
-+ machine learning applications of optimal transport and kernel methods; generative models
-+ robust machine learning, learning under distribution shift
-+ distributionally robust optimization, optimization under uncertainty
-+ numerical optimization, numerical methods
-+ control, dynamical systems, multi-stage decision-making
-
-Below is a high-level illustration of my research journey
-![research journey](/images/bg-jz.png)
+All those research topics call for **a new generation of computational algorithms that can manipulate probability distributions and large-scale data structures**
+with principled **mathematical** foundations and guarantees.
 
 # Publications, preprints, code
+
+(See also [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=IQ8Ay5gAAAAJ&view_op=list_works&sortby=pubdate).)
+
+
 **Gradient Flow Sampler-based Distributionally Robust Optimization**.  
-Jia-Jie Zhu, Zusen Xu.  
+Jia-Jie Zhu, Zusen Xu. Accepted to the Forty-Third International Conference on Machine Learning (ICML).  
 [preprint](https://arxiv.org/abs/2510.25956) [code](https://github.com/ZusenXu/GFS-DRO)
 
 
 **Improved Stochastic Optimization of LogSumExp**.  
-Egor Gladin, Alexey Kroshnin, Jia-Jie Zhu, Pavel Dvurechensky.  
+Egor Gladin, Alexey Kroshnin, Jia-Jie Zhu, Pavel Dvurechensky. Accepted to the Forty-Third International Conference on Machine Learning (ICML).  
 [preprint](https://arxiv.org/abs/2509.24894)
+
+**LDDMM stochastic interpolants: an application to domain uncertainty quantification in hemodynamics**.  
+Sarah Katz, Francesco Romor, Jia-Jie Zhu, Alfonso Caiazzo (2026).  
+[preprint](https://arxiv.org/abs/2603.28324)
 
 **Evolution of Gaussians in the HK-Boltzmann gradient flow**.  
 Matthias Liero, Alexander Mielke, Oliver Tse, and Jia-Jie Zhu (2025). In: *Communications on Pure and Applied Analysis*, to appear. Special Issue: Transport Equations in Optimization, Sampling, and Control.  
