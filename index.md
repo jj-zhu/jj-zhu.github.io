@@ -10,7 +10,7 @@ I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However
 Overall, I am interested in computational optimization and machine learning algorithms,
 motivated by principled applied mathematics, e.g., PDE, gradient flows, optimal transport, kernel methods.
 
-More specifically, I am interested in infinite-dimensional optimization over probability distributions.
+More specifically, I am interested in (*infinite-dimensional/gradient-based*) optimization over probability distributions.
 This overlaps with the classical theory of calculus of variations, as well as modern PDE analysis of gradient flows of probability measures.
 I'm interested in both the theory and computational aspects of those topics, and in innovating on new computational algorithms
 rooted in those principles.
