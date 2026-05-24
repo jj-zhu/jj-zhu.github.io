@@ -42,9 +42,10 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (KTH)
 - KTH Master thesis: if you are a master's student already enrolled in KTH and interested in optimization for machine learning, deep generative models, optimal transport, applications of PDE/SDEs, please feel free to reach out.
 
 ### News and updates
-- New publication accepted at ICML 2026: 
-  - [Gradient Flow Sampler-based Distributionally Robust Optimization](https://arxiv.org/abs/2510.25956). Joint work with Zusen Xu. [Code](https://github.com/ZusenXu/GFS-DRO)
-  - [Improved Stochastic Optimization of LogSumExp](https://arxiv.org/abs/2509.24894). Joint work with Egor Gladin, Alexey Kroshnin, Pavel Dvurechensky.
+- New publication accepted: 
+  - [Gradient Flow Sampler-based Distributionally Robust Optimization](https://arxiv.org/abs/2510.25956). ICML 2026, Joint work with Zusen Xu. [Code](https://github.com/ZusenXu/GFS-DRO)
+  - [Improved Stochastic Optimization of LogSumExp](https://arxiv.org/abs/2509.24894). ICML 2026, Joint work with Egor Gladin, Alexey Kroshnin, Pavel Dvurechensky.
+  - [Conditional LDDMM flow matching: an application to uncertainty quantification](https://arxiv.org/abs/2603.28324). *Computer Methods in Applied Mechanics and Engineering*. Accepted for publication. Joint work with Sarah Katz, Francesco Romor, Alfonso Caiazzo.
 - New publication in the special issue of the journal Communications on Pure and Applied Analysis on the topic of "Transport Equations in Optimization, Sampling, and Control": [Evolution of Gaussians in the Hellinger-Kantorovich-Boltzmann gradient flow](https://arxiv.org/pdf/2504.20400?). Joint work with Matthias Liero, Alexander Mielke, Oliver Tse.
 - New publication in *Journal of Optimization Theory and Applications* (JOTA): [An Inexact Halpern Iteration with Application to Distributionally Robust Optimization](https://link.springer.com/article/10.1007/s10957-025-02405-z). Joint work with Ling Liang and Kim-Chuan Toh.
 

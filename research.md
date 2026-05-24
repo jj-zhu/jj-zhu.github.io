@@ -49,6 +49,11 @@ with principled **mathematical** foundations and guarantees.
 (See also [my Google Scholar page](https://scholar.google.com/citations?hl=en&user=IQ8Ay5gAAAAJ&view_op=list_works&sortby=pubdate).)
 
 
+**Conditional LDDMM flow matching: an application to uncertainty quantification**.  
+Sarah Katz, Francesco Romor, Jia-Jie Zhu, Alfonso Caiazzo (2026). Accepted for publication in *Computer Methods in Applied Mechanics and Engineering*.  
+[preprint](https://arxiv.org/abs/2603.28324)
+
+
 **Gradient Flow Sampler-based Distributionally Robust Optimization**.  
 Jia-Jie Zhu, Zusen Xu. Accepted to the Forty-Third International Conference on Machine Learning (ICML).  
 [preprint](https://arxiv.org/abs/2510.25956) [code](https://github.com/ZusenXu/GFS-DRO)
@@ -57,10 +62,6 @@ Jia-Jie Zhu, Zusen Xu. Accepted to the Forty-Third International Conference on M
 **Improved Stochastic Optimization of LogSumExp**.  
 Egor Gladin, Alexey Kroshnin, Jia-Jie Zhu, Pavel Dvurechensky. Accepted to the Forty-Third International Conference on Machine Learning (ICML).  
 [preprint](https://arxiv.org/abs/2509.24894)
-
-**LDDMM stochastic interpolants: an application to domain uncertainty quantification in hemodynamics**.  
-Sarah Katz, Francesco Romor, Jia-Jie Zhu, Alfonso Caiazzo (2026).  
-[preprint](https://arxiv.org/abs/2603.28324)
 
 **Evolution of Gaussians in the HK-Boltzmann gradient flow**.  
 Matthias Liero, Alexander Mielke, Oliver Tse, and Jia-Jie Zhu (2025). In: *Communications on Pure and Applied Analysis*, to appear. Special Issue: Transport Equations in Optimization, Sampling, and Control.  
