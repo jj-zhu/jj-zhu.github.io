@@ -42,6 +42,8 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (KTH)
 - KTH Master thesis: if you are a master's student already enrolled in KTH and interested in optimization for machine learning, deep generative models, optimal transport, applications of PDE/SDEs, please feel free to reach out.
 
 ### News and updates
+- New preprints:
+  - A new version of the inclusive-KL gradient flows, that includes new results such as inclusive/forward KL-Gaussian gradient flows, local-estimator Wasserstein gradient flows, is updated here:  [Inclusive KL Gradient Flows: Otto-Wasserstein, Fisher-Rao-Gaussian, and Local-Estimator Dynamics. Jia-Jie Zhu](https://arxiv.org/pdf/2411.00214).
 - New publication accepted: 
   - [Gradient Flow Sampler-based Distributionally Robust Optimization](https://arxiv.org/abs/2510.25956). ICML 2026, Joint work with Zusen Xu. [Code](https://github.com/ZusenXu/GFS-DRO)
   - [Improved Stochastic Optimization of LogSumExp](https://arxiv.org/abs/2509.24894). ICML 2026, Joint work with Egor Gladin, Alexey Kroshnin, Pavel Dvurechensky.
