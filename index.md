@@ -11,9 +11,8 @@ Overall, I am interested in computational optimization and machine learning algo
 motivated by principled applied mathematics, e.g., PDE, gradient flows, optimal transport, kernel methods.
 
 More specifically, I am interested in (*infinite-dimensional/gradient-based*) optimization over probability distributions.
-This overlaps with the classical theory of calculus of variations, as well as modern PDE analysis of gradient flows of probability measures.
-I'm interested in both the theory and computational aspects of those topics, and in innovating on new computational algorithms
-rooted in those principles.
+This overlaps with the classical theory of calculus of variations, convex analysis, as well as modern PDE analysis of gradient flows of probability measures.
+I'm interested in both the theory and computational aspects of those topics.
 
 To get in touch, click the icon at the bottom of the page.
 There are sometimes delays in my response to emails, please be patient.
@@ -21,8 +20,6 @@ There are sometimes delays in my response to emails, please be patient.
 ### Upcoming events
 - July 20 - 31, 2026. I will be giving a lecture series on
  "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. The lecture series information is [in this link](https://www.math.pku.edu.cn/amel/sqxx/172097.htm).
-- 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
-Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (KTH)
 
 ### Recent talks (selected)
 - [SIAM UQ 2026 Minisymposium, Gradient Flows for Uncertainty Quantification: New Algorithms and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87237)
@@ -44,6 +41,11 @@ Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (KTH)
 ### News and updates
 - New preprints:
   - A new version of the inclusive-KL gradient flows, that includes new results such as inclusive/forward KL-Gaussian gradient flows, local-estimator Wasserstein gradient flows, is updated here:  [Inclusive KL Gradient Flows: Otto-Wasserstein, Fisher-Rao-Gaussian, and Local-Estimator Dynamics. Jia-Jie Zhu](https://arxiv.org/pdf/2411.00214).
+
+- Workshop organization: 24 May 2026 - 29 May 2026: [SwissMAP Workshop on "Computational Optimization Meets Gradient Flows and Optimal Transport"](https://swissmaprs.ch/events/computational-optimization-meets-gradient-flows-and-optimal-transport/). Organized by
+Niao He (ETH Zurich), Yifan Hu (EPFL), Daniel Kuhn (EPFL), Jia-Jie Zhu (KTH)
+
+
 - New publication accepted: 
   - [Gradient Flow Sampler-based Distributionally Robust Optimization](https://arxiv.org/abs/2510.25956). ICML 2026, Joint work with Zusen Xu. [Code](https://github.com/ZusenXu/GFS-DRO)
   - [Improved Stochastic Optimization of LogSumExp](https://arxiv.org/abs/2509.24894). ICML 2026, Joint work with Egor Gladin, Alexey Kroshnin, Pavel Dvurechensky.
