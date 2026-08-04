@@ -8,8 +8,7 @@ See [here](/about/) for a short bio and my journey so far.
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
 Overall, I am interested in computational optimization and machine learning algorithms,
-motivated by principled applied mathematics, e.g., PDE, gradient flows, optimal transport, kernel methods.
-
+motivated by principled applied mathematics, e.g., optimal transport, PDE, calculus of variations, gradient flows, kernel methods.
 More specifically, I am interested in (*infinite-dimensional/gradient-based*) optimization over probability distributions.
 This overlaps with the classical theory of calculus of variations, convex analysis, as well as modern PDE analysis of gradient flows of probability measures.
 I'm interested in both the theory and computational aspects of those topics.
@@ -17,9 +16,6 @@ I'm interested in both the theory and computational aspects of those topics.
 To get in touch, click the icon at the bottom of the page.
 There are sometimes delays in my response to emails, please be patient.
 
-### Upcoming events
-- July 20 - 31, 2026. I will be giving a lecture series on
- "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. The lecture series information is [in this link](https://www.math.pku.edu.cn/amel/sqxx/172097.htm).
 
 ### Recent talks (selected)
 - [SIAM UQ 2026 Minisymposium, Gradient Flows for Uncertainty Quantification: New Algorithms and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87237)
@@ -39,6 +35,11 @@ There are sometimes delays in my response to emails, please be patient.
 - KTH Master thesis: if you are a master's student already enrolled in KTH and interested in optimization for machine learning, deep generative models, optimal transport, applications of PDE/SDEs, please feel free to reach out.
 
 ### News and updates
+
+- July 20 - 31, 2026. I gave a lecture series on
+ "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. The lecture series information is [in this link](https://www.math.pku.edu.cn/amel/sqxx/172097.htm). The lecture notes will be available soon.
+
+
 - New preprints:
   - A new version of the inclusive-KL gradient flows, that includes new results such as inclusive/forward KL-Gaussian gradient flows, local-estimator Wasserstein gradient flows, is updated here:  [Inclusive KL Gradient Flows: Otto-Wasserstein, Fisher-Rao-Gaussian, and Local-Estimator Dynamics. Jia-Jie Zhu](https://arxiv.org/pdf/2411.00214).
 
