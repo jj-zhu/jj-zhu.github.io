@@ -37,7 +37,7 @@ There are sometimes delays in my response to emails, please be patient.
 ### News and updates
 
 - July 20 - 31, 2026. I gave a lecture series on
- "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. The lecture series information is [in this link](https://www.math.pku.edu.cn/amel/sqxx/172097.htm). The lecture notes will be available soon.
+ "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. The lecture series information is [in this link](https://www.math.pku.edu.cn/amel/sqxx/172097.htm). The [lecture notes (handwritten whiteboard)](https://github.com/jj-zhu/PKU-Summer-School-2026) are available.
 
 
 - New preprints:
