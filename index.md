@@ -18,6 +18,8 @@ There are sometimes delays in my response to emails, please be patient.
 
 
 ### Recent talks (selected)
+- July 20 - 31, 2026. I gave a lecture series on
+  "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. The lecture series information is [in this link](https://www.math.pku.edu.cn/amel/sqxx/172097.htm). The [lecture notes (early draft)](https://github.com/jj-zhu/PKU-Summer-School-2026) are available. The edited notes will be available in the future.
 - [SIAM UQ 2026 Minisymposium, Gradient Flows for Uncertainty Quantification: New Algorithms and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87237)
 - EPFL Bernoulli workshop “Particles, Flows & Maps for Sampling Complex Distributions”, 2025. Video recording available [here](https://workshop-pfm25.epfl.ch/index.php/program/)
 - Gradient Flows Face-to-Face Workshop in Granada, Spain, 2025. Organizers: Maria Bruna, José Alfredo Cañizo, José Antonio Carrillo, Antonio Esposito. Slides available [here](https://wpd.ugr.es/~imag/events/event/gradient-flows/)
@@ -35,9 +37,6 @@ There are sometimes delays in my response to emails, please be patient.
 - KTH Master thesis: if you are a master's student already enrolled in KTH and interested in optimization for machine learning, deep generative models, optimal transport, applications of PDE/SDEs, please feel free to reach out.
 
 ### News and updates
-
-- July 20 - 31, 2026. I gave a lecture series on
- "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. The lecture series information is [in this link](https://www.math.pku.edu.cn/amel/sqxx/172097.htm). The [lecture notes (handwritten)](https://github.com/jj-zhu/PKU-Summer-School-2026) are available. The edited notes will be available in the future.
 
 
 - New preprints:
