@@ -34,7 +34,7 @@ There are sometimes delays in my response to emails, please be patient.
   
 
 ### Open positions
-- KTH Master thesis: if you are a master's student already enrolled in KTH and interested in optimization for machine learning, deep generative models, optimal transport, applications of PDE/SDEs, please feel free to reach out.
+- KTH Master thesis: if you are a master's student already enrolled in KTH and interested in state-of-the-art machine learning, generative models, optimal transport, applications of PDE/SDE, please feel free to reach out.
 
 ### News and updates
 
