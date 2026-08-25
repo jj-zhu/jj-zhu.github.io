@@ -6,7 +6,7 @@ published: true
 ---
 # Recent
 
-- Autumn 2026. I'm teaching the course at KTH: [Modern Methods of Statistical Learning (SF2935)](https://www.kth.se/student/kurser/kurs/SF2935?l=en) 
+- Autumn 2026. I'm teaching at KTH: [Modern Methods of Statistical Learning (SF2935)](https://www.kth.se/student/kurser/kurs/SF2935?l=en) 
 
 - Summer 2026. I gave a lecture series at the Summer School on Applied Mathematics at Peking University, China, on the topic of "Computational Gradient Flows and Optimal Transport".
   - Here are the [lecture notes (student transcribed)](https://github.com/jj-zhu/PKU-Summer-School-2026) entitled "**Computational Gradient Flows and Optimal Transport: an Introduction**".
