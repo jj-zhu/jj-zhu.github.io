@@ -38,7 +38,7 @@ There are sometimes delays in my response to emails, please be patient.
 
 ### News and updates
 
-- Lecture notes available: my lecture notes for my summer school lectures at the Peking University is available at [here](https://jj-zhu.github.io/file/cgf_notes_scribed.pdf). Many thanks to the student who scribed it.
+- Lecture notes available: my lecture notes for my summer school lectures at the Peking University is available at [here](/file/cgf_notes_scribed.pdf). Many thanks to the student who scribed it.
 
 - New preprints:
   - A new version of the inclusive-KL gradient flows, that includes new results such as inclusive/forward KL-Gaussian gradient flows, local-estimator Wasserstein gradient flows, is updated here:  [Inclusive KL Gradient Flows: Otto-Wasserstein, Fisher-Rao-Gaussian, and Local-Estimator Dynamics. Jia-Jie Zhu](https://arxiv.org/pdf/2411.00214).
