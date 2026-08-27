@@ -19,7 +19,7 @@ There are sometimes delays in my response to emails, please be patient.
 
 ### Recent talks (selected)
 - July 20 - 31, 2026. I gave a lecture series on
-  "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. This is a Summer School on Applied Mathematics. The lecture notes (student transcribed) are available as [a PDF file](https://github.com/jj-zhu/PKU-Summer-School-2026/blob/dfa2b36ecd9faba64db402af6da3ae64094e9277/notes/cgf_notes_transcribed.pdf) entitled "**Computational Gradient Flows and Optimal Transport: an Introduction**".
+  "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. This is a Summer School on Applied Mathematics. The lecture notes (student scribed) are available as [a PDF file](https://github.com/jj-zhu/PKU-Summer-School-2026/blob/dfa2b36ecd9faba64db402af6da3ae64094e9277/notes/cgf_notes_transcribed.pdf) entitled "**Computational Gradient Flows and Optimal Transport: an Introduction**".
 - [SIAM UQ 2026 Minisymposium, Gradient Flows for Uncertainty Quantification: New Algorithms and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87237)
 - EPFL Bernoulli workshop “Particles, Flows & Maps for Sampling Complex Distributions”, 2025. Video recording available [here](https://workshop-pfm25.epfl.ch/index.php/program/)
 - Gradient Flows Face-to-Face Workshop in Granada, Spain, 2025. Organizers: Maria Bruna, José Alfredo Cañizo, José Antonio Carrillo, Antonio Esposito. Slides available [here](https://wpd.ugr.es/~imag/events/event/gradient-flows/)
@@ -38,6 +38,7 @@ There are sometimes delays in my response to emails, please be patient.
 
 ### News and updates
 
+- Lecture notes available: my lecture notes for my summer school lectures at the Peking University is available at [here](https://github.com/jj-zhu/PKU-Summer-School-2026/blob/main/notes/cgf_notes_transcribed.pdf). Many thanks to the student who scribed it.
 
 - New preprints:
   - A new version of the inclusive-KL gradient flows, that includes new results such as inclusive/forward KL-Gaussian gradient flows, local-estimator Wasserstein gradient flows, is updated here:  [Inclusive KL Gradient Flows: Otto-Wasserstein, Fisher-Rao-Gaussian, and Local-Estimator Dynamics. Jia-Jie Zhu](https://arxiv.org/pdf/2411.00214).
