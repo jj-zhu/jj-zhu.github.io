@@ -8,10 +8,10 @@ See [here](/about/) for a short bio and my journey so far.
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
 Overall, I am interested in *optimization* and *mathematical foundation of machine learning and statistical inference algorithms*.
-I have a foundations motivated by principled analysis, e.g., optimal transport, PDE, calculus of variations, gradient flows dynamics, kernel methods.
-More specifically, I am interested in (*infinite-dimensional/gradient-based*) optimization and dynamics of probability distributions.
+I'm especially interested in principled analysis, e.g., optimal transport, PDE, calculus of variations, gradient flows dynamics, kernel methods.
+Recently, I have been working on (*infinite-dimensional, gradient-based*) optimization and dynamics of probability distributions.
 This overlaps with the classical theory of calculus of variations, convex analysis, as well as modern PDE analysis of gradient flows of probability measures.
-I'm interested in both the theory and computational aspects of those topics.
+<!-- I'm interested in both the theory and computational aspects of those topics. -->
 
 To get in touch, click the icon at the bottom of the page.
 There are sometimes delays in my response to emails, please be patient.
