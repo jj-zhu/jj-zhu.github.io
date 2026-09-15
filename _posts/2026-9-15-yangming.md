@@ -3,7 +3,7 @@ layout: post
 title: School of Mind
 ---
 
-Yangmingism has been popular in China for centuries. I love the startlingly similarity of
+[Yangmingism](https://en.wikipedia.org/wiki/Yangmingism) has been popular in China for centuries. I love the startlingly similarity of
 
 心外无物， 事上磨炼
 
