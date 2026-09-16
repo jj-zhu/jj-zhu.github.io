@@ -7,7 +7,7 @@ I am an associate professor in mathematics (tenured) at the KTH Royal Institute 
 See [here](/about/) for a short bio and my journey so far. 
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
-Overall, I am interested in *optimization* and *mathematical foundation of machine learning and statistical inference algorithms*.
+Overall, I am interested in *computational optimization* and *mathematical foundation of machine learning and statistical inference algorithms*.
 I'm especially interested in principled analysis, e.g., optimal transport, PDE, calculus of variations, gradient flows dynamics, kernel methods.
 Recently, I have been working on (*infinite-dimensional, gradient-based*) optimization and dynamics of probability distributions.
 This overlaps with the classical theory of calculus of variations, convex analysis, as well as modern PDE analysis of gradient flows of probability measures.
@@ -19,7 +19,7 @@ There are sometimes delays in my response to emails, please be patient.
 
 ### Recent talks (selected)
 - July 20 - 31, 2026. I gave a lecture series on
-  "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. This is a Summer School on Applied Mathematics. The lecture notes (student scribed) are available as [a PDF file](https://github.com/jj-zhu/PKU-Summer-School-2026/blob/dfa2b36ecd9faba64db402af6da3ae64094e9277/notes/cgf_notes_transcribed.pdf) entitled "**Computational Gradient Flows and Optimal Transport: an Introduction**".
+  "Computational Gradient Flows and Optimal Transport" at Peking University, at the School of Mathematical Sciences. This is a Summer School on Applied Mathematics. The lecture notes (student scribed) are available as [a PDF file](https://github.com/jj-zhu/PKU-Summer-School-2026/blob/dfa2b36ecd9faba64db402af6da3ae64094e9277/notes/cgf_notes_transcribed.pdf) entitled "*Computational Gradient Flows and Optimal Transport: an Introduction*".
 - [SIAM UQ 2026 Minisymposium, Gradient Flows for Uncertainty Quantification: New Algorithms and Applications](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87237)
 - EPFL Bernoulli workshop “Particles, Flows & Maps for Sampling Complex Distributions”, 2025. Video recording available [here](https://workshop-pfm25.epfl.ch/index.php/program/)
 - Gradient Flows Face-to-Face Workshop in Granada, Spain, 2025. Organizers: Maria Bruna, José Alfredo Cañizo, José Antonio Carrillo, Antonio Esposito. Slides available [here](https://wpd.ugr.es/~imag/events/event/gradient-flows/)
@@ -34,8 +34,8 @@ There are sometimes delays in my response to emails, please be patient.
   
 
 ### Open positions
-- KTH Master thesis: if you are a master's student already enrolled in KTH and interested in optimal transport/optimization (theory/applications), state-of-the-art machine learning/optimization,  generative models, PDE/SDE, please feel free to reach out.
-- There are **currently no PhD or postdoc positions**. Future positions will be announced here when available.
+- KTH Master thesis: if you are a master's student already enrolled in KTH and interested in optimal transport/optimization (theory/applications), state-of-the-art machine learning/optimization,  generative models, PDE/SDE, please feel free to reach out. Please attach your CV and transcripts (undergraduate and graduate courses) so I can judge the fit with the topics.
+- There are **currently no PhD or postdoc positions** in my group. Future positions will be announced here when available.
 
 ### News and updates
 
