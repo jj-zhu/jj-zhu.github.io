@@ -7,7 +7,7 @@ I am an associate professor in mathematics (tenured) at the KTH Royal Institute 
 See [here](/about/) for a short bio and my journey so far. 
 I also write [a non-research blog here](https://jj-zhu.github.io/blog/). However, the update frequency depends on how busy I am at the moment.
 
-Overall, I am interested in *computational optimization* and *mathematical foundation of machine learning and statistical inference algorithms*.
+Overall, I am interested in *optimization* and *mathematical foundation of machine learning and statistical inference algorithms*.
 I'm especially interested in principled analysis, e.g., optimal transport, PDE, calculus of variations, gradient flows dynamics, kernel methods.
 Recently, I have been working on (*infinite-dimensional, gradient-based*) optimization and dynamics of probability distributions.
 This overlaps with the classical theory of calculus of variations, convex analysis, as well as modern PDE analysis of gradient flows of probability measures.
